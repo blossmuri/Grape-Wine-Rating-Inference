@@ -1,0 +1,404 @@
+Coloraillo
+Petite Arvine
+Mauzac Blanc
+Pelaverga
+Bonarda
+Tinta del Pais
+Tamaioasa Romaneasca
+Tinta Francisca
+Graciano
+Aligoté
+Donzelinho Tinto
+Mencia
+Cococciola
+Moreto
+Schiava
+Chambourcin
+Garnacha
+Vital
+Prugnolo Gentile
+Ciliegiolo
+Olasz Rizling
+Verdelho
+Kerner
+Vernaccia
+Xinomavro
+Ugni Blanc
+Canaiolo Nero
+Tannat
+Dolcetto
+Pigato
+Muscat of Frontignan
+Morellino
+Feteasca Regala
+Albillo
+Malvasia Nera
+Alfrocheiro Preto
+Colombard
+Muscat Orange
+Pignolo
+Ancellotta
+Savatiano
+Groppello
+Coda di Volpe Bianca
+Encruzado
+Boal Branco
+Moristel
+Bombino Bianco
+Roupeiro
+Gamaret
+Rabigato
+Sémillon
+Dornfelder
+Grand Noir
+Bogazkere
+Síria
+Carignan/Cariñena
+Assyrtiko
+Gelber Muskateller
+Lemberger
+Kokur Bely
+Seyval Blanc
+Niagara
+Viosinho
+Garnacha Tintorera
+Chardonel
+Trebbiano Toscano
+Tinta Madeira
+Poulsard
+Passerina
+Roscetto
+Petit Verdot
+Freisa
+Arneis
+Garnacha Blanca
+Albillo Crimean
+Castelão
+Sercial
+Parraleta
+Canaiolo Blanco
+Corinto Nero
+Xynisteri
+Vaccareze
+Zweigelt
+Borraçal
+Pinotage
+Godello
+Cesanese
+Muscat Blanc
+Rufete
+Picardan
+Samsó
+Avesso
+Gamay Noir
+Petit Meslier
+Durif
+Muscat/Moscatel de Grano Menudo
+Camarate
+Negroamaro
+Nero di Troia
+Mourvedre
+Incrocio Manzoni
+Bical
+Ribolla Gialla
+Nielluccio
+Albariño
+Valentino Nero
+Zinfandel
+Lacrima
+Torbato
+Aglianico
+Charbono
+Falanghina
+Grenache Gris
+Brun Argenté
+Pedral
+Tocai Italico
+Perrum
+Counoise
+Sauvignon Blanc
+Athiri
+Piccola Nera
+Corvinone
+Müller-Thurgau
+Ramisco
+Johannisberg
+Trepat
+Furmint
+Barbarossa
+Grignolino
+Susumaniello
+Lambrusco
+Aidani
+Terrantez
+Sagrantino
+Casetta
+Água Santa
+Savagnin Blanc
+Tinta Negra Mole
+Alvarelhão
+Viura
+Airen
+Albalonga
+Grasa de Cotnari
+Hárslevelű
+Corot Noir
+Refosco dal Peduncolo Rosso
+Arinto
+Agiorgitiko
+Melnik
+Welschriesling
+Palomino
+Monastrell
+Muscadelle
+Pinot Noir
+Vespaiola
+Blaufränkisch
+Bastardo Magarachsky
+Trebbiano Romagnolo
+Dindarella
+Moschofilero
+Nerello Mascalese
+Ruché
+Sauvignon Gris
+Greco
+Arbane
+Schioppettino
+País/Mission
+Fumin
+Muscat/Moscatel Roxo
+Cabernet Ruby
+Silvaner/Sylvaner
+Tinta Amarela
+Gros Manseng
+Petit Courbu
+Donzelinho Branco
+Bourboulenc
+Bacchus
+Procanico
+Grenache Blanc
+Petite Milo
+Vespolina
+Rondinella
+Verdello
+Seibel
+Fragolino
+Pulcinculo
+Cayuga White
+Mataro
+Pederna
+Aragonez
+Rolle/Rollo
+Negrara Veronese
+Callet
+Modrý Portugal
+Öküzgözü
+Pinot Meunier
+Pinot Nero
+Pinot Gris
+Fernão Pires
+Mourisco
+Tempranillo Blanco
+Roussanne
+Touriga Nacional
+Sousão
+Macabeo
+Bordô
+Tinta de Toro
+Tamarez
+Feteasca Neagra
+Vien de Nus
+Roter Veltliner
+Maria Gomes
+Petit Manseng
+Rabo de Ovelha
+Aleatico
+Muscat Yellow
+Limnio
+Alvarinho
+Gaglioppo
+Garganega
+Malvasia di Lipari
+Zinfandel White
+Tinta Roriz
+Montepulciano
+Tocai Friulano
+Marzemino
+Melon de Bourgogne
+Garanoir
+Verdejo
+Cerceal Branco
+Cabernet Franc
+Manto Negro
+Isabella
+Frappato
+Trousseau
+Pinot Auxerrois
+Pedro Ximenez
+Baco Noir
+Grecanico
+Chenin Blanc
+Premetta
+Mavrotragano
+Nebbiolo
+Pinot Blanc
+Brachetto
+Posip Bijeli
+Fiano
+Zibibbo
+Muscat/Moscatel Galego
+Ansonica
+Muscat/Moscato Bianco
+Chardonnay
+Cortese
+Colorino del Valdarno
+Dona Blanca
+Croatina
+Caladoc
+Drupeggio
+Trincadeira
+Tinta Miúda
+Couderc
+Tinta Barroca
+Malvasia
+Saperavi
+Rossignola
+Xarel-lo
+Muscat/Moscato
+Kékfrankos
+Concord
+Rivaner
+Chasselas
+Verdicchio
+Vernaccia di Oristano
+Carmenère
+Pinot Grigio
+Marsanne
+Cinsault
+Flora
+Mazuelo
+Clairette
+Tempranillo
+Lagrein
+Petit Rouge
+Loureiro
+Blauburgunder
+Albarossa
+Baga
+Pascale
+Raboso Piave
+Grauburgunder
+Malvasia Bianca Lunga
+Muscat of Setúbal
+Listan Negro
+Plavac Mali
+Cabernet Sauvignon
+Mammolo
+Touriga Franca
+Grenache
+Grechetto
+Prieto Picudo
+Riesling
+Bovale
+Tinta Caiada
+Vernatsch
+Verdiso
+St. Laurent
+Verduzzo Friulano
+Molinara
+Scheurebe
+Symphony
+Petite Sirah
+Krasnostop Anapsky
+Băbească Neagră
+Arinto de Bucelas
+Lenoir
+Muscat/Moscato Giallo
+Muscat Noir
+Barbera
+Cannonau
+Vermentino
+Malbec
+Durella
+Negrette
+Gewürztraminer
+Antão Vaz
+Pollera Nera
+Azal Tinto
+Monica
+Grolleau
+Teroldego
+Grillo
+Muscat of Hamburg
+Caiño Tinto
+Trebbiano
+Viognier
+Muscat of Alexandria
+Picolit
+Bual
+Picpoul Blanc
+Muscat Ottonel
+Malvasia Fina
+Lorena
+Tinto Fino
+Vinhão
+Nero d'Avola
+Friulano/Sauvignonasse
+Vranac
+Vidal Blanc
+Prensal
+Syrah/Shiraz
+Azal Branco
+Gouveio
+Tinto Cão
+Spätburgunder
+Alicante Bouschet
+Corvina
+De Chaunac
+Niagara Blanc
+Jaen
+Muscat/Muscatel
+Primitivo
+Grüner Veltliner
+Shiroka Melnishka
+Côdega de Larinho
+Marselan
+L'Acadie Blanc
+Torrontés
+Refosco
+Merlot
+Ortrugo
+Weissburgunder
+Sangiovese
+Rossola
+Cascade
+Tibouren
+Nosiola
+Erbaluce
+Nascetta
+Traminer
+Garnacha Tinta
+Vernaccia di San Gimignano
+Carricante
+Catarratto Bianco
+Muscardin
+Negrara Trentino
+Assario Branco
+Inzolia
+Parellada
+Roditis
+Diagalves
+Bobal
+Espadeiro
+Côt
+Mavrodafni
+Mondeuse Noire
+Piedirosso
+Criolla Grande
+Glera/Prosecco
+Schwarzriesling
+Cagnulari
+Pecorino
+Oseleta
+Rkatsiteli
+Trajadura

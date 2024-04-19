@@ -1,0 +1,67 @@
+ 拿Type_Dessert/Port	Type_Red	Type_Rosé	Type_Sparkling	Type_White 對Grapes_dum回歸
+
+  OLS Regression Results                                
+=======================================================================================
+Dep. Variable:      Type_Dessert/Port   R-squared (uncentered):                   0.823
+Model:                            OLS   Adj. R-squared (uncentered):              0.822
+Method:                 Least Squares   F-statistic:                              741.6
+Date:                Fri, 19 Apr 2024   Prob (F-statistic):                        0.00
+Time:                        14:37:41   Log-Likelihood:                      2.8549e+05
+No. Observations:              246755   AIC:                                 -5.679e+05
+Df Residuals:                  245220   BIC:                                 -5.519e+05
+Df Model:                        1535                                                  
+Covariance Type:            nonrobust                                                  
+========================================================================================
+
+                                 OLS Regression Results                                
+=======================================================================================
+Dep. Variable:               Type_Red   R-squared (uncentered):                   0.972
+Model:                            OLS   Adj. R-squared (uncentered):              0.972
+Method:                 Least Squares   F-statistic:                              5626.
+Date:                Fri, 19 Apr 2024   Prob (F-statistic):                        0.00
+Time:                        14:40:15   Log-Likelihood:                      1.3360e+05
+No. Observations:              246755   AIC:                                 -2.641e+05
+Df Residuals:                  245220   BIC:                                 -2.481e+05
+Df Model:                        1535                                                  
+Covariance Type:            nonrobust                                                  
+========================================================================================
+
+  OLS Regression Results                                
+=======================================================================================
+Dep. Variable:              Type_Rosé   R-squared (uncentered):                   0.367
+Model:                            OLS   Adj. R-squared (uncentered):              0.363
+Method:                 Least Squares   F-statistic:                              92.56
+Date:                Fri, 19 Apr 2024   Prob (F-statistic):                        0.00
+Time:                        14:43:02   Log-Likelihood:                      2.5648e+05
+No. Observations:              246755   AIC:                                 -5.099e+05
+Df Residuals:                  245220   BIC:                                 -4.939e+05
+Df Model:                        1535                                                  
+Covariance Type:            nonrobust                                                  
+========================================================================================
+
+OLS Regression Results                                
+=======================================================================================
+Dep. Variable:         Type_Sparkling   R-squared (uncentered):                   0.670
+Model:                            OLS   Adj. R-squared (uncentered):              0.668
+Method:                 Least Squares   F-statistic:                              324.1
+Date:                Fri, 19 Apr 2024   Prob (F-statistic):                        0.00
+Time:                        14:45:49   Log-Likelihood:                      1.6058e+05
+No. Observations:              246755   AIC:                                 -3.181e+05
+Df Residuals:                  245220   BIC:                                 -3.021e+05
+Df Model:                        1535                                                  
+Covariance Type:            nonrobust                                                  
+========================================================================================
+
+      OLS Regression Results                                
+=======================================================================================
+Dep. Variable:             Type_White   R-squared (uncentered):                   0.857
+Model:                            OLS   Adj. R-squared (uncentered):              0.856
+Method:                 Least Squares   F-statistic:                              957.6
+Date:                Fri, 19 Apr 2024   Prob (F-statistic):                        0.00
+Time:                        14:48:22   Log-Likelihood:                      1.1869e+05
+No. Observations:              246755   AIC:                                 -2.343e+05
+Df Residuals:                  245220   BIC:                                 -2.183e+05
+Df Model:                        1535                                                  
+Covariance Type:            nonrobust                                                  
+========================================================================================
+
