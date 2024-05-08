@@ -1,0 +1,5175 @@
+WineryName	Count
+Casillero del Diablo	78994
+Antinori	78735
+Catena Zapata	52448
+Tarapacá	44529
+Marqués de Riscal	43588
+Familia Torres	40613
+Louis Jadot	40581
+Concha y Toro	39630
+Esporão	39343
+Luigi Bosca	36016
+Masi	35430
+Cartuxa	35152
+Penfolds	34474
+Chateau Ste. Michelle	32933
+Apothic	32330
+Rutini	31512
+Casa Ferreirinha	28357
+Campo Viejo	28205
+Banfi	27814
+Santa Rita	27626
+Bogle	26368
+Caymus	25837
+Beringer	25773
+Trapiche	25547
+Zenato	25243
+Montes	24975
+Francis Ford Coppola Winery	24745
+El Coto	24351
+Marques de Casa Concha	24328
+San Marzano	23456
+Barefoot	23343
+Tommasi	23254
+Ruffino	23243
+Alamos	22819
+La Rioja Alta	22432
+E. Guigal	22224
+Tenuta San Guido	22190
+Protos	21992
+Salentein	21936
+Ornellaia	21921
+Meiomi	21905
+San Pedro	21802
+Gaja	21240
+19 Crimes	21070
+José Maria da Fonseca	20629
+Undurraga	20608
+Bodegas Faustino	20584
+Baron de Ley	20551
+Muga	20067
+Robert Mondavi Private Selection	19950
+M. Chapoutier	19942
+Emiliana	19633
+Michael David Winery	19474
+Farnese	19382
+Errazuriz	19378
+Stag's Leap Wine Cellars	19367
+Joseph Drouhin	18763
+Ventisquero	18636
+Mouton Cadet	18398
+Louis Latour	18319
+Jacob's Creek	18296
+Doña Paula	18269
+Marqués de Cáceres	17991
+Bodega Norton	17739
+The Prisoner	17508
+Miguel Torres Chile	17494
+Luccarelli	17490
+Marqués de Murrieta	17293
+Kendall-Jackson	16927
+Ramón Bilbao	16724
+Santa Carolina	16431
+Cune (CVNE)	16381
+Miolo	16169
+Nieto Senetiner	15766
+Fontanafredda	15575
+Marchesi di Barolo	15460
+Allegrini	15274
+Juan Gil	14908
+Escorihuela Gascón	14848
+Robert Mondavi	14699
+Pata Negra	14480
+Yellow Tail	14337
+Cono Sur	14262
+Vega Sicilia	14157
+Villa Maria	13920
+Stags' Leap	13802
+Trivento	13492
+Bacalhôa	13488
+Charles Smith	13339
+Lindeman's	13074
+Cloudy Bay	13065
+Bouchard Père & Fils	12922
+Carpineto	12620
+Cline Family Cellars	12608
+Toro Loco®	12523
+Bodega Finca Las Moras	12420
+Fetzer	12352
+La Crema	11940
+Beronia	11913
+Silver Oak	11908
+Louis M. Martini	11762
+Emilio Moro	11740
+Cousiño-Macul	11701
+Belle Glos	11601
+Woodbridge by Robert Mondavi	11369
+Pago de Los Capellanes	11355
+Ridge Vineyards	11347
+Lan	11327
+Nederburg	11299
+Varvaglione	11164
+Justin	11153
+Cantina Zaccagnini	11085
+Trimbach	11052
+Kanonkop	11027
+Carnivor	11001
+JP. Chenet	10892
+Viña Cobos	10738
+Arzuaga	10688
+R. López de Heredia Viña Tondonia	10630
+Georges Duboeuf	10612
+Matua	10508
+Félix Solís	10465
+La Vieille Ferme	10462
+J. Lohr Vineyards & Wines	10416
+Paul Jaboulet Aîné	10414
+Frontera	10413
+Bolla	10336
+Matarromera	10318
+Produttori del Barbaresco	10314
+Conundrum	10285
+Pago de Carraovejas	10191
+Clos de los Siete	10164
+Quinta do Crasto	10105
+Luis Cañas	10024
+Luigi Righetti	9939
+Tinto Pesquera	9928
+Opus One	9866
+Barista	9847
+La Linda	9808
+Dark Horse	9695
+Pasqua Vigneti e Cantine	9681
+1000 Stories	9620
+Pio Cesare	9616
+Viu Manent	9437
+Seghesio	9320
+Batasiolo	9317
+Mollydooker	9191
+San Felice	9127
+Terrazas de los Andes	9100
+Gnarly Head	9015
+Kim Crawford	9009
+Joseph Phelps	8877
+Argiolas	8828
+Rombauer Vineyards	8768
+Santa Julia	8739
+Delas	8676
+Vigneti del Salento	8670
+Chateau Montelena	8634
+Cortes de Cima	8618
+Cecchi	8615
+Boekenhoutskloof	8572
+Niepoort	8561
+Trio	8499
+Crios	8498
+Zuccardi	8431
+Piccini	8423
+Prunotto	8413
+Don Melchor	8308
+Alión	8258
+Ravenswood	8195
+Rodney Strong	8179
+Santa Helena	8164
+Casanova di Neri	8159
+Wolf Blass	8124
+Château Musar	8077
+Tenuta Il Poggione	8065
+Casa Madero	7972
+Porca de Murca	7932
+Château de Beaucastel	7865
+Viña Maipo	7835
+Carmen	7823
+Matsu	7818
+The Dreaming Tree	7815
+Bodega Garzón	7706
+Tenuta CastelGiocondo	7657
+Pintia	7653
+Castello Nipozzano	7650
+Renato Ratti	7636
+Porta 6	7609
+The Hess Collection	7609
+Terras Gauda	7606
+Duckhorn	7583
+Brancott Estate	7544
+Catena Alta	7495
+Bonterra	7481
+Adega de Monção	7460
+Col d'Orcia	7438
+Casal Garcia	7420
+Los Vascos	7414
+Wines from Hahn Estate	7334
+Saint Felicien	7325
+L. A. Cetto	7275
+Domaine Faiveley	7263
+Famille Perrin	7258
+Ricasoli	7245
+Barone Montalto	7244
+Bodegas Roda	7207
+Meerlust	7182
+Pulenta Estate	7167
+Ménage à Trois	7135
+Tenuta Sant'Antonio	7128
+Aurora	7124
+7 Deadly Wines	7119
+Santa Ema	7115
+Fattoria dei Barbi	6917
+Bodegas Aragonesas	6892
+Luca	6889
+SIMI	6884
+Cesari	6875
+Casalforte	6832
+Hardys	6814
+Almaviva	6778
+Lapostolle	6755
+Renacer	6703
+Terrunyo	6695
+Fèlsina	6685
+Fontodi	6661
+Ogier	6651
+Alta Vista	6631
+Ferrari Carano	6628
+Root 1	6615
+Altos Ibéricos	6601
+Santa Margherita	6600
+Doppio Passo	6600
+Château Giscours	6594
+Feudi di San Gregorio	6508
+Aveleda	6450
+Argiano	6436
+Navarro Correas	6428
+Bodega del Fin del Mundo	6424
+Masciarelli	6420
+Montecillo	6410
+McManis	6392
+Federico Paternina	6371
+Bodegas Mauro	6275
+Latitud 33	6247
+Bodegas Franco-Españolas	6246
+Angélica Zapata	6245
+Séptima	6190
+Rocca delle Macìe	6140
+Martin Codax	6129
+Bodega Vistalba	6051
+Pago del Cielo	6026
+Grande Alberone	5994
+Fonterutoli	5981
+Santa Cristina	5974
+Au Bon Climat	5953
+Palacios Remondo	5930
+Club des Sommeliers (Associados)	5928
+Château Mont-Redon	5920
+Bodegas Olarra	5915
+Casas del Bosque	5912
+Domini Veneti	5911
+Cabriz	5882
+G.D. Vajra	5855
+Michele Chiarlo	5804
+Finca Villacreces	5795
+Borgogno	5786
+Franciscan	5781
+Pine Ridge	5757
+Orin Swift	5756
+Murphy-Goode	5694
+Viña Las Perdices	5683
+Ghost Pines	5649
+Avignonesi	5635
+Salton	5634
+Carmelo Rodero	5624
+Alma Negra	5610
+Mascota Vineyards	5563
+Travaglini	5542
+Luis Felipe Edwards	5537
+Château Talbot	5533
+Spier	5489
+Soalheiro	5478
+Viña Real	5461
+Anciano	5450
+Aliança	5442
+Decoy	5431
+Conte di Campiano	5420
+Tenuta Castiglioni	5418
+Hacienda López de Haro	5416
+Reguengos	5408
+Hugel	5393
+Tasca d'Almerita	5354
+Nino Negri	5325
+Monasterio de Las Vinas	5324
+Toro de Piedra	5314
+Ceretto	5314
+Domaine du Vieux Télégraphe	5306
+Caleo	5273
+Château Lagrange	5258
+Bouchard Aîné & Fils	5245
+Herdade dos Grous	5239
+Achaval-Ferrer	5229
+Dominio de Pingus	5216
+Imperial	5202
+Ramos Pinto	5200
+Wente Vineyards	5173
+Honoro Vera	5148
+Casa Silva	5131
+Adega Cooperativa de Borba	5115
+Calvet	5097
+Caro (Catena and Rothschild)	5083
+Frescobaldi	5064
+Redwood Creek	5003
+El Esteco	4972
+Viña Pedrosa	4971
+Cantina Valpantena	4960
+Gran Passione	4955
+Juggernaut	4922
+Heitz Cellar	4912
+Clos du Bois	4907
+Pieropan	4907
+JP Azeitão	4884
+Domaine du Vieux Lazaret	4879
+Baron Philippe de Rothschild	4845
+Hacienda Monasterio	4834
+Antaño	4771
+Braida	4763
+Neethlingshof Estate	4744
+Caves Velhas	4742
+Castello di Gabbiano	4728
+St. Francis	4718
+Hess Select	4717
+Giacomo Fenocchio	4708
+Château Carbonnieux	4698
+Shafer	4648
+Château Lynch-Bages	4637
+Brazin	4626
+Remelluri	4622
+Domaine Zind Humbrecht	4601
+Bertani	4571
+Altos Las Hormigas	4564
+Château Chasse-Spleen	4547
+Far Niente	4546
+Beaulieu Vineyard (BV)	4521
+Andeluna	4478
+La Braccesca	4473
+Roche Mazet	4467
+Columbia Crest	4462
+Contino	4407
+Casa Valduga	4400
+Montresor	4398
+Domaine Lafage	4375
+Descendientes de J. Palacios	4352
+Susana Balbo	4351
+Castello di Ama	4351
+Nativ	4349
+Faust	4322
+Poliziano	4316
+Anselmo Mendes	4295
+Masso Antico	4293
+Emmolo	4293
+Allesverloren	4287
+Corvo	4286
+Castaño	4274
+Villa Annaberta	4272
+Colossal	4271
+Jordan	4263
+Zeni	4235
+Château Brane-Cantenac	4214
+Bodegas Valdemar	4190
+Santadi	4168
+14 Hands	4156
+KWV	4133
+Escudo Rojo	4132
+Los Haroldos	4117
+Château Smith Haut-Lafitte	4117
+Mar de Frades	4104
+Quinta do Vale Meão	4100
+Barton & Guestier	4098
+Château Pichon Longueville Comtesse de Lalande	4096
+Mark West	4076
+Gascon	4069
+Josh Cellars	4054
+Castellare	4045
+Bodegas Cosme Palacio	4029
+Condado de Haza	4021
+Brotte	4000
+Fleur du Cap	3958
+Château Léoville Poyferré	3941
+Doña Dominga	3926
+Quinta do Carmo	3918
+Caparzo	3916
+Marianne	3896
+Melini	3891
+Liberty School	3871
+Château Pontet-Canet	3864
+Umani Ronchi	3846
+Ciconia	3845
+Château La Nerthe	3843
+Quintarelli Giuseppe	3828
+Rupert & Rothschild	3814
+Château Kefraya	3808
+Frog's Leap	3789
+Clos du Val	3750
+Altesino	3749
+Domaine Laroche	3743
+Gustave Lorentz	3722
+Château Pichon Baron	3715
+Cos d'Estournel	3709
+Kaiken	3709
+Isole e Olena	3699
+Château Gruaud Larose	3698
+Cantine Leonardo da Vinci	3686
+Viña Salceda	3663
+Mirassou	3662
+Freemark Abbey	3658
+Marques de Tomares	3654
+Groth	3651
+La Chablisienne	3646
+Paulo Laureano	3645
+Alto Los Romeros	3642
+Fattoria del Cerro	3632
+Tilia	3621
+Château Rauzan-Ségla	3616
+Castello di Albola	3598
+Vila Real	3594
+Luna Argenta	3592
+Château Lascombes	3589
+Monte Real	3589
+Viña Pomal	3585
+Bodegas Lagunilla	3569
+Poggio le Volpi	3569
+Château Ksara	3567
+Weingut Nik Weis-St. Urbans-Hof	3561
+H3 Wines	3559
+Bridlewood	3544
+Sebastiani	3536
+Grgich Hills	3527
+Cantine due Palme	3527
+Tenuta Luce	3520
+Viña Mayor	3511
+Frank Family	3508
+Baron de Lestac	3507
+Sartori di Verona	3506
+Mastroberardino	3495
+Château Margaux	3484
+Cielo e Terra	3463
+Ondarre	3459
+Chateau Palmer	3455
+Oberon	3454
+Travessia	3451
+Terre del Barolo	3432
+Carlos Serres	3429
+Masca del Tacco	3421
+Wynns	3414
+Lagarde	3404
+Alexander Valley Vineyards	3401
+Château Mouton Rothschild	3398
+Quinta de Pancas	3383
+Cantina di Negrar	3383
+Biondi-Santi	3378
+Edna Valley Vineyard	3377
+Pacheca	3372
+Sunrise	3362
+Yalumba	3361
+Dominus	3355
+Leone de Castris	3353
+Antiche Terre Venete	3348
+Napa Cellars	3345
+St. Michael-Eppan	3335
+Goulart	3333
+Golan Heights Winery	3329
+Domaine Jean-Louis Chave	3328
+Morandé	3309
+Mazzei	3306
+Vigneti del Vulture	3304
+Barahonda	3296
+Val di Suga	3290
+Pera Doce	3281
+Domaine de La Romanée-Conti	3269
+Álvaro Palacios	3253
+Illuminati	3246
+Laroche	3242
+Monte Antico	3241
+Domaine de Chevalier	3232
+Château Montrose	3228
+Tedeschi	3222
+Zabu	3211
+Don Simón	3208
+Joh. Jos. Prüm	3203
+Château Potensac	3196
+Vietti	3191
+Barons de Rothschild (Lafite)	3189
+Domaine Leflaive	3183
+Terlan (Terlano)	3181
+Camigliano	3174
+Erath	3173
+Torrevento	3168
+Layer Cake	3167
+Pagus Bisano	3152
+Roodeberg	3132
+Cakebread	3130
+Taylors/Wakefield	3121
+Tenuta Ulisse	3118
+Raymond	3117
+Mastrojanni	3109
+Azpilicueta	3105
+Château Calon-Ségur	3102
+Union de Producteurs de Saint-Émilion	3098
+Mouchão	3089
+Château Grand-Puy-Lacoste	3089
+Grão Vasco	3086
+Château Pape Clément	3078
+Château Léoville Las Cases	3075
+Château Cantemerle	3058
+Angeline	3053
+Bersano	3053
+Château Citran	3047
+Paco & Lola	3044
+Santo Tomás	3038
+Château Sociando-Mallet	3033
+Lungarotti	3030
+Massolino	3021
+Matías Riccitelli	3015
+Silverado Vineyards	3010
+Rosemount	3009
+Mount Veeder Winery	3005
+Jacopo Biondi Santi	2997
+Luis Pato	2995
+Señorio de Los Llanos	2994
+Bonacchi	2976
+Château Léoville Barton	2975
+Markus Molitor	2971
+Château d'Issan	2970
+Château de Meursault	2953
+Le Grand Noir	2952
+Flechas de los Andes	2943
+Rocca Alata	2927
+Château Bel-Air	2923
+Herdade do Peso	2920
+Château Gloria	2919
+Sutter Home	2895
+Volpaia	2893
+Château Beychevelle	2891
+Château Ducru-Beaucaillou	2890
+Occhipinti	2883
+Paul Mas	2873
+Charles Krug	2869
+Long Barn	2855
+Castello di Monsanto	2840
+Piattelli	2834
+Livio Felluga	2830
+Inama Azienda Agricola	2826
+Dry Creek Vineyard	2822
+Bottega	2811
+Château de Seguin	2796
+Kistler	2796
+Prats & Symington (P+S)	2775
+Villa al Cortile	2773
+de Ladoucette	2768
+Enate	2768
+Misiones de Rengo	2767
+Château Laroque	2764
+Paul Hobbs	2763
+Aldo Conterno	2762
+Gérard Bertrand	2760
+Paolo Scavino	2752
+Weinert	2752
+Predator	2750
+Sterling Vineyards	2741
+Animal	2731
+Château Fombrauge	2724
+Château Larose-Trintaudon	2723
+Château Cantenac Brown	2722
+Bisquertt Family Vineyards	2714
+Zensa	2713
+Caldora	2706
+Telmo Rodriguez	2699
+Falesco	2698
+Sottano	2697
+Finca Flichman	2689
+Château Branaire-Ducru	2682
+Sequoia Grove	2669
+Cocobon	2665
+Château d'Armailhac	2664
+Bodegas Valduero	2662
+Tinazzi	2653
+The Wanted	2639
+Château du Tertre	2624
+Evodia	2617
+Altos de Tamarón	2616
+Bodegas San Román	2604
+Arboleda	2599
+Masseria Altemura	2598
+Henri Bourgeois	2598
+Biserno	2596
+Castellani	2595
+AR-Adega de Redondo	2590
+Cepa 21	2588
+Villa Puccini	2582
+Via Latina	2580
+Grand Theatre	2578
+Arnaldo-Caprai	2578
+Fairview	2575
+Château Batailley	2566
+Diemersfontein	2564
+Quinta Nova de Nossa Senhora do Carmo	2551
+Château Phélan Ségur	2538
+Muriel	2534
+Caliterra	2529
+Jermann	2527
+Pico Maccario	2527
+Château Malartic-Lagravière	2525
+Epicuro	2516
+Cafaggio	2515
+Bussola	2512
+Gallo Family Vineyards	2511
+Zonin	2507
+Lamberti	2504
+Monte Xanic	2499
+Argento	2493
+d'Arenberg	2492
+Churchill's	2485
+Bodegas Etchart	2480
+Bressia	2476
+Pegau	2474
+Château Larrivet Haut-Brion	2463
+Château Latour	2459
+Chilano	2454
+Bremerton	2449
+Renieri	2442
+Boschendal	2441
+Peter Lehmann	2437
+Santi	2436
+Brites Aguiar	2426
+Wyndham	2423
+Castelli del Grevepesa	2421
+Duorum	2419
+Alto Moncayo	2418
+Terre da Vino	2415
+Sella & Mosca	2412
+Smith & Hook	2410
+Gran Feudo	2400
+Quinta do Portal	2397
+Lenotti	2394
+Markham Vineyards	2393
+Dal Forno Romano	2385
+Eguía	2379
+Inglenook	2378
+Starborough	2368
+Gazela	2364
+Hedges Family Estate	2362
+Château Montus	2360
+Planeta	2355
+Château St. Jean	2355
+Château Haut-Brion	2354
+Château Latour-Martillac	2352
+Nervi	2348
+Château Fuissé	2337
+Vidal Fleury	2335
+Corterosso	2327
+Artadi	2323
+Punica	2323
+Mesta	2322
+Mezzacorona	2322
+Boscato	2322
+Von Siebenthal	2314
+Château Lafon-Rochet	2309
+Chimney Rock	2304
+Giesen	2303
+Tenuta delle Terre Nere	2303
+Viñas del Vero	2283
+Donnafugata	2279
+Bruno Giacosa	2272
+Verrazzano	2272
+Alceño	2268
+Albert Bichot	2265
+Domenico Clerico	2265
+Domaine Tempier	2263
+Château Kirwan	2259
+Henschke	2256
+Fattoria le Pupille	2249
+Winzer Krems	2247
+La Motte Wine Estate	2245
+Williams Selyem	2242
+Felton Road	2240
+Michel Torino	2230
+Kirkland Signature	2230
+Pêra Grave	2228
+Montevertine	2222
+Domaine du Tariquet	2219
+Château Prieuré-Lichine	2217
+Masseria Trajone	2214
+Château Belgrave	2204
+Château de Camensac	2202
+Santa Alicia	2199
+Las Rocas	2197
+Château Lynch-Moussas	2197
+Chateau Souverain	2191
+Château de la Gardine	2190
+Château Angludet	2188
+Salcheto	2185
+Pahlmeyer	2184
+Rustenberg	2184
+Cordero di Montezemolo	2184
+Domaine Antonin Guyon	2174
+Speri	2168
+Bobal de San Juan	2167
+Elio Altare	2158
+Tenute Silvio Nardi	2152
+Corte alle Mura	2152
+Lunaria	2143
+Château Labégorce	2133
+Ciacci Piccolomini d'Aragona	2132
+Gourmet Pere & Fils	2131
+Ponte Lungo	2131
+Château Dauzac	2129
+Quintessa	2127
+Joseph Carr	2126
+Tenuta Sette Ponti	2124
+Perez Cruz	2121
+Montalbera	2116
+Château le Puy	2114
+MontGras	2114
+Château Guiraud	2112
+Damilano	2105
+Messias	2101
+PlumpJack	2100
+Campillo	2100
+Terre di San Vincenzo	2095
+Sandrone	2094
+Charles & Charles	2093
+Kenwood	2092
+Clos Mogador	2089
+Malhadinha Nova	2085
+Don Laurindo	2082
+Château La Tour Carnet	2079
+Château Malescot St. Exupery	2079
+Chanson	2074
+Querciabella	2071
+Dehesas Viejas	2070
+Castiglion del Bosco	2068
+Ronco di Sassi	2066
+Marquês de Borba	2059
+Coltibuono	2059
+The Show	2057
+The Four Graces	2053
+Abel Pinchard	2051
+Monte Zovo	2050
+Duca di Saragnano	2042
+Vecchia Cantina	2038
+Château Tour Prignac	2038
+Kloster Eberbach	2037
+Farina	2026
+Leeuwin Estate	2013
+Baglio Gibellina	2002
+Château Magnol	2000
+Contessa Carola	1999
+Cannonball	1990
+Castello d'Alba	1987
+Barba	1980
+Italo Cescon	1979
+Stellenrust	1971
+Cellaro	1970
+Bernardus	1965
+Luigi Einaudi	1965
+Cavallotto	1961
+Badet Clement	1956
+Château Bonnet	1956
+Château Haut-Marbuzet	1953
+Clos des Brusquieres	1951
+The Naked Grape	1946
+Finca Terranostra	1944
+Château Poujeaux	1936
+Benjamin de Rothschild-Vega Sicilia	1935
+Cellier des Princes	1932
+Finca Torremilanos	1931
+Zonnebloem	1929
+Groot Constantia	1924
+Wirra Wirra	1922
+Olivier Leflaive	1917
+Alain Graillot	1916
+Dr. Loosen	1915
+Château La Lagune	1912
+Sensi	1911
+Schloss Vollrads	1910
+Domaine Armand Rousseau	1909
+Grattamacco	1903
+Château Duhart-Milon	1900
+Eikendal	1896
+Tavernello	1896
+Silverboom	1894
+Coppo	1891
+Schloss Johannisberg	1889
+EnRoute	1888
+Warwick	1886
+Château Lilian Ladouys	1886
+Les Jamelles	1883
+Matrot	1882
+Giacomo Conterno	1882
+Boccantino	1880
+Château La Tonnelle	1880
+Peter Yealands	1868
+Cellier des Dauphins	1867
+Château Lafite Rothschild	1864
+Oddero	1861
+Terras d'el Rei	1860
+Château Peyrabon	1857
+Line 39	1856
+Jean Leon	1851
+Rawson's Retreat	1847
+Honig	1839
+Château Haut-Bages Libéral	1831
+Exportación	1830
+Château Gazin	1827
+Baturrica	1826
+Château Los Boldos	1823
+Bellosguardo	1821
+Jean-Claude Ramonet	1821
+Alois Lageder	1819
+Bodegas Santa Ana	1817
+Siglo	1814
+J. Moreau & Fils	1814
+Château La Louvière	1812
+Bodega La Milagrosa	1806
+Venus la Universal	1803
+Trefethen	1802
+Campagnola	1802
+Château Haut-Bailly	1801
+Mas de Daumas Gassac	1799
+Benziger	1797
+Palazzo Maffei	1796
+Château Meyney	1796
+La Perrière	1794
+Finca Constancia	1790
+Château Recougne	1789
+Rockford	1785
+Padrillos	1783
+Château Purcari	1782
+Chozas Carrascal	1781
+William Fèvre	1780
+Columbia Winery	1774
+Castello Pomino	1769
+Baron d'Arignac	1769
+Etude	1762
+Talenti	1754
+McGuigan	1750
+Dopff & Irion	1750
+Cave de Tain	1747
+Tapiz	1744
+Viña Albina	1742
+Château Angelus	1741
+Feudo Arancio	1736
+Verso	1735
+Le Ragose	1734
+Domaine Huet	1734
+Riunite	1732
+Caprili	1727
+Domaine de la Motte	1725
+Alvarez de Toledo	1724
+Vivanco	1722
+Mauro Molino	1713
+Nickel & Nickel	1703
+Château Beaumont	1701
+Château d'Arcins	1698
+Bibi Graetz	1694
+Château Figeac	1692
+Lamole di Lamole	1688
+Château de Pez	1688
+La Compagnie des Vins d'Autrefois	1683
+Frei Brothers	1683
+Vinchio-Vaglio Serra	1679
+Donatella Cinelli Colombini	1679
+Scala Dei	1675
+Rocca	1673
+Egon Müller-Scharzhof	1673
+Casale del Giglio	1672
+Capannelle	1671
+Dr. Bürklin-Wolf	1669
+Grifone	1669
+Chakana	1659
+Château Greysac	1659
+Casa Vinicola Bennati	1658
+Poggio Al Casone	1656
+Conterno Fantino	1656
+Domaine Serene	1650
+Toasted Head	1648
+Château Cambon La Pelouse	1647
+Mer Soleil	1645
+Señorío de San Vicente	1644
+William Hill	1643
+Sokol Blosser	1641
+Château La Tour de By	1641
+Bonpas	1631
+Clos des Papes (Paul Avril)	1631
+Banrock Station	1631
+Cadis	1630
+Rust En Vrede	1629
+Château La Tour de Mons	1629
+Quarisa	1621
+Cepa Lebrel	1618
+Château Clerc Milon	1617
+Château de Fieuzal	1615
+Callia	1611
+Château de Chantegrive	1610
+Château Barreyres	1608
+Domaine des Comtes Lafon	1607
+Château Olivier	1606
+Castell del Remei	1603
+Château Grand-Puy Ducasse	1603
+Poggio San Polo	1593
+Enrique Mendoza	1593
+Bosquet des Papes	1593
+Château Le Crock	1591
+Santa Maria La Palma	1590
+Château Teyssier	1589
+Remírez de Ganuza	1586
+Château Ormes de Pez	1585
+Piaggia	1580
+HandCraft	1576
+Mayor de Castilla	1575
+Château Ferrande	1573
+Leese-Fitch	1571
+Castello di Querceto	1566
+Familia Deicas	1565
+Fritz Haag	1565
+Adelsheim	1560
+Ayuso	1560
+Santa Sofia	1560
+Casa de Santar	1556
+Puerto Viejo	1554
+Nuviana	1549
+Château La Gaffelière	1548
+Château d'Arsac	1543
+Château Lanessan	1542
+Zorzal	1542
+SLO Down	1538
+Fantinel	1530
+Château Clinet	1530
+UDACA	1528
+Clos Saint Jean	1528
+Schild Estate	1528
+Rutherford Hill	1524
+Alto Estate	1524
+Cantina di Montalcino	1518
+Château Pédesclaux	1513
+Steakwine	1506
+Vini Valli de Verona	1499
+Château Pavie	1496
+Blackstone	1496
+Mascarello Giuseppe e Figlio	1492
+Château de Saint Cosme	1491
+Jam Shed	1491
+Cheval Noir	1483
+Quinta dos Carvalhais	1483
+Breca	1482
+Jean-Paul & Benoit Droin	1475
+Hamilton Russell Vineyards	1475
+Thelema	1474
+Mongeard-Mugneret	1473
+Neo	1473
+Yves Cuilleron	1470
+Scheiblhofer	1469
+Lagar de Cervera	1468
+Vincent Girardin	1467
+Domaine de Beaurenard	1463
+Tenuta di Nozzole	1461
+Dominio de Tares	1460
+Tenuta di Trinoro	1459
+Château Fleur Cardinale	1458
+Maison Gilliard	1457
+Château La Mission Haut-Brion	1450
+Domaine des Sénéchaux	1449
+Château de Sancerre	1444
+Conti Serristori	1444
+Château de Rochemorin	1443
+Château Haut-Batailley	1438
+Rivera	1434
+La Posta	1433
+Chilensis	1432
+Elio Grasso	1431
+Charles de Rouvray	1431
+Gamela	1430
+Avalon	1428
+Elk Cove	1425
+Chappellet	1424
+The Crossings	1423
+Château de Pibarnon	1421
+Estancia Mendoza	1421
+Maycas del Limari	1419
+Castillo San Simon	1418
+Château Clarke	1417
+Domaine William Fèvre	1415
+Château Bellegrave	1415
+Vale do Rodo	1415
+Château Canon	1413
+Berberana	1412
+Rivetto	1410
+Roc de Lussac	1410
+Villa Sparina	1408
+Viña Palo Alto	1407
+Oak Ridge	1403
+Rutherford Ranch	1401
+COS	1401
+Humberto Canale	1397
+Monsaraz	1396
+Château de Pressac	1396
+Pittacum	1396
+La Scolca	1395
+Domaine Coche-Dury	1393
+Palacio da Brejoeira	1387
+ViñaPeña	1386
+Borges	1385
+Poggio Antico	1384
+Vionta	1384
+Alain Geoffroy	1382
+Cape Heritage	1381
+Don Luciano	1381
+Fanti	1376
+Masseto	1374
+San Giusto a Rentennano	1373
+BV Coastal Estates	1370
+Château des Tours	1368
+Loggia dei Sani	1368
+Boscarelli	1366
+La Poderina	1365
+Château de Villemajou	1364
+Capanna	1364
+Evel	1363
+Folie à Deux	1362
+Plungerhead	1357
+Segredos de São Miguel	1356
+Uby	1355
+Passeport	1353
+Tapada do Chaves	1352
+Brezza	1349
+Vincent Dauvissat	1347
+Domäne Wachau	1347
+Clos La Coutale	1344
+Delheim	1343
+Château Maucaillou	1342
+Firriato	1338
+Château Reynon	1334
+Erasmo	1332
+Château Pey La Tour	1331
+Brancaia	1330
+Bosque de Matasnos	1328
+Marcel Deiss	1326
+Verosso	1325
+Luzon	1324
+Dr. Willkomm	1323
+Etienne Sauzet	1320
+Guaspari	1318
+Sopra Sasso	1318
+Castello di Bossi	1318
+Carmim	1317
+Almadén	1315
+4 Kilos Vinícola	1313
+Michel Lynch	1313
+Landmark Vineyards	1312
+De Martino	1312
+C'est La Vie	1312
+Flora Springs	1310
+Château Sénéjac	1309
+Gemma	1303
+Château Cos Labory	1302
+Locations	1302
+Pewsey Vale	1302
+Domaine des Héritiers Louis Jadot	1300
+Monte dos Perdigoes	1298
+Comm. G.B. Burlotto	1293
+Château Cheval Blanc	1290
+Château Paveil de Luze	1290
+Domaine de la Janasse	1289
+Château Beau-Site	1287
+Château Simard	1287
+Domaine de Pellehaut	1286
+Le Macchiole	1285
+Lisini	1284
+Château Croix Mouton	1282
+Dei	1278
+Jean-Marc Brocard	1277
+Marchesi di Gresy	1277
+Labouré-Roi	1273
+São João	1273
+Château Timberlay	1271
+Chamonix	1271
+San Leonardo	1270
+Valdicava	1269
+Château Simone	1268
+Cabreo	1263
+Andean Vineyards	1261
+Ontañón	1256
+San Telmo	1255
+Domaine Gros Frère et Soeur	1247
+The Grinder	1247
+Parusso	1246
+Marqués de Griñon	1243
+Astrolabe	1242
+Radio Boca	1241
+Domaine de la Solitude-Famille Lancon	1239
+Nielson	1239
+Carmelo Patti	1239
+Castello dei Rampolla	1238
+Portas da Herdade	1237
+Grant Burge	1237
+Maestro Italiano	1235
+Bodega Elias Mora	1234
+Ponzi	1232
+Azienda Santa Barbara-Stefano Antonucci	1229
+Domaine Dujac	1226
+Fariña	1223
+Tokara	1221
+Berton Vineyard	1221
+J. Hofstätter	1219
+Château Malescasse	1218
+Lanzerac	1218
+Giacosa Fratelli	1217
+Piteira	1214
+Spy Valley	1212
+Rocche dei Manzoni	1209
+Cantine Paradiso	1209
+Château de Parenchère	1206
+Cantina Valpolicella Negrar	1203
+Dönnhoff	1202
+Fanagoria (Фанагория)	1202
+Irony	1201
+Château d'Agassac	1200
+Château Langoa Barton	1198
+Le Vieux Donjon	1198
+Elderton	1197
+Bodegas Vallobera	1197
+Livio Pavese	1194
+Pazo Señorans	1194
+Bermejo	1193
+Quinta da Alorna	1193
+Château Coufran	1190
+Méo-Camuzet	1190
+Kleinood	1189
+Château Troplong Mondot	1186
+Château Poupille	1186
+André Brunel	1183
+Château d'Aiguilhe	1181
+Castillo Santa Barbara	1181
+Château de Sales	1180
+Monkey Bay	1180
+Viñedos de Páganos	1180
+Château de Barbe Blanche	1178
+Pago de Cirsus	1178
+Didier Dagueneau (Louis-Benjamin Dagueneau)	1173
+Château Cissac	1173
+Villa Borghetti	1173
+Canyon Road	1172
+Château Lalande-Borie	1172
+Vie di Romans	1171
+Baron Edmond de Rothschild	1170
+Antonin Rodet	1169
+Domaine Trapet	1168
+Yarra Yering	1168
+Château Tayac	1167
+Emidio Pepe	1166
+Wongraven	1166
+Round Hill	1165
+Marques de Carano	1164
+Nicolas Potel	1163
+Val d'Orbieu	1163
+Vinícola del Priorat	1159
+Torre de Lancia	1158
+Château Cantin	1157
+Pedroncelli	1152
+Château Beau-Sejour Becot	1149
+Osborne	1143
+Maison Barboulot	1142
+Vistamar	1142
+Trus	1139
+Cabalié	1139
+Château Ferrière	1136
+Peuceta	1136
+MacMurray	1136
+Mount Eden Vineyards	1136
+Castell'in Villa	1135
+Château des Fines Roches	1135
+Château Saint-Pierre	1133
+Tribunal	1132
+Château Blaignan	1131
+Bodega Piedra Negra	1130
+Martinez Lacuesta	1125
+Pazo Barrantes	1124
+Simonsig	1123
+Patriarche Père & Fils	1123
+Moss Roxx	1121
+Dehesa de Los Canónigos	1120
+Château de Chamirey	1119
+Hartenberg	1118
+Château La Dominique	1118
+Château Durfort-Vivens	1118
+Finca La Anita	1117
+Quinta da Romaneira	1116
+Valserrano	1115
+Marquês de Marialva	1115
+Château de Reignac	1115
+Cadão	1114
+Domaine Georges Vernay	1111
+Bonny Doon	1111
+Shannon Ridge	1107
+Château de Tracy	1106
+Château Faugères	1106
+Isidro Milagro	1102
+Castillo de Monseran	1101
+Jacques-Frederic Mugnier	1099
+Château de Cruzeau	1097
+Domaine Jamet	1097
+Fratelli Dogliani	1096
+Quinta da Plansel	1094
+Domaine A. et P. de Villaine	1094
+Domaine de l'Hortus	1094
+Les Portes de Bordeaux	1094
+Château Caronne Ste. Gemme	1092
+Vini La Quercia	1090
+Arthur Metz	1090
+Bodegas Piqueras	1088
+Condes de Albarei	1087
+Monte do Pintor	1087
+Villa Poggio Salvi	1086
+Domaine du Père Caboche	1084
+Régnard	1082
+Geografico	1082
+Château Bernadotte	1079
+López	1078
+Jean-Luc Baldès	1077
+Bellingham	1076
+Viña Bujanda	1076
+Viberti Giovanni	1075
+Girolamo Russo	1074
+Brigaldara	1072
+Château Les Grands Chênes	1072
+Domaine Denis Mortet	1072
+Château Pipeau	1071
+Blue Nun	1067
+Dunn	1065
+Château Canon-La-Gaffelière	1064
+Miliasso	1063
+Vinícola Real	1062
+Raveneau	1058
+Calamares	1057
+Château Marquis de Terme	1057
+Château Leboscq	1054
+Cremaschi Furlotti	1054
+Château Pierrail	1053
+Alain Jaume	1050
+Luiz Argenta	1049
+Domaine Raspail-Ay	1049
+Ossian	1049
+Dominio de Cair	1049
+La Vicalanda	1048
+Vieux Château Certan	1048
+Kleine Zalze	1048
+Vasse Felix	1048
+Reguta	1047
+Bruno Rocca	1046
+Castillo Clavijo	1046
+Faustino Rivero Ulecia	1043
+Newton	1039
+Torre Oria	1039
+Château Lamothe-Bergeron	1038
+Hannes Reeh	1038
+Primarius	1037
+Passione Natura	1036
+Domaine Taupenot-Merme	1034
+Château Siran	1033
+Cambria	1032
+Château de Ferrand	1031
+Château Capbern	1029
+Château de Mercuès	1028
+Pierre Usseglio	1027
+Volver	1027
+Tenuta di Renieri	1026
+Raimat	1026
+Fuligni	1025
+La Gerla	1025
+Rosenblum Cellars	1024
+Canalicchio di Sopra	1024
+St. Supéry	1024
+Brovia	1023
+B Side	1022
+Château La Fleur de Boüard	1020
+Il Capolavoro	1019
+Georges Vigouroux	1017
+Château Charmail	1016
+Quilceda Creek	1015
+Castello della Paneretta	1015
+Château Bouscassé	1014
+Château du Retout	1014
+Château Tronquoy-Lalande	1012
+Bodegas Corral-Don Jacobo	1010
+Château Monbousquet	1010
+Couly-Dutheil	1010
+Château La Pointe	1009
+Château de Lamarque	1008
+Bigi	1006
+Manara	1006
+La Val	1004
+Collosorbo	1002
+Château Fourcas Hosten	1002
+Bonneau du Martray	1002
+Fratelli Serio & Battista Borgogno	1000
+Azabache	999
+Domaine Marquis d'Angerville	995
+Weingut Max Ferd. Richter	994
+Fattoi	994
+Black Saint Peter	993
+V9	993
+Leon Beyer	991
+Castello Romitorio	990
+Domaine Jean Grivot	990
+Martin Ray	989
+Alves de Sousa	988
+Domaine G. Roumier	987
+Géantet-Pansiot	986
+Monólogo	985
+Michel Juillot	984
+Estancia	982
+Vila Regia	981
+G. Milazzo	980
+Hospices de Beaune	980
+Château Bellevue	979
+Glen Carlou	979
+Château de la Rivière	978
+Lake Chalice	976
+Rabble	975
+Nuiton-Beaunoy	975
+Peju	974
+Abkhazia	974
+Philippe Leclerc	974
+Dona Maria	974
+Montigoli	973
+Don Valentin Lacrado	972
+Maison Leroy	967
+Dreissigacker	967
+Corte Giara	966
+Viñedos y Bodegas Muñoz	965
+La Magia	964
+Georg Breuer	963
+Yllera	963
+Château Chantalouette	963
+Château Belregard-Figeac	962
+Château Tour de Pez	962
+Arca Nova	962
+Albino Rocca	962
+Tyrrell's	962
+Château Fongaban	961
+Maximin Grünhaus	961
+Ascheri	957
+Château de Ribebon	955
+Cruz de Alba	952
+Château Castera	951
+Celaya	951
+Cantine Pellegrino	950
+Château de Vaudieu	949
+Château Fortia	948
+Mustiguillo	948
+Château Fourcas Dupré	948
+Messapi	947
+Château Plince	946
+Petaluma	946
+Cantina Vignaioli del Morellino di Scansano	945
+La Bastide Blanche	945
+Capezzana	944
+Château Dalem	943
+Carlo Rossi	940
+Backsberg	940
+Schug	937
+Château de Fonbel	936
+Murrieta's Well	935
+Jim Barry	935
+Château Haut-Bergey	934
+Villa Wolf	934
+Château Puygueraud	934
+St Hugo	934
+Chalk Hill	932
+Château Boutisse	931
+Abbadia Ardenga	931
+Oops	930
+Château Tamagne	928
+Collezione di Paolo	928
+Malondro	927
+Clos Rougeard	926
+Château du Glana	926
+Passopisciaro	925
+Tenuta Pule	924
+Poggio di Sotto	923
+Quinta do Noval	923
+Paolo Bea	923
+Reichsrat von Buhl	923
+Nicolas Joly	923
+Casarena	922
+Rib Shack	921
+Anakena	919
+Giordano	919
+Cecilia Beretta	918
+Vicchiomaggio	918
+Gabriel Meffre	917
+Museum	915
+Domaine Daniel Rion & Fils	914
+Domaine Drouhin-Laroze	912
+Marquis de Greyssac	912
+Château Haut-Beauséjour	910
+Château Pavie Macquin	908
+Cantina Tollo	906
+Quintay	906
+Conti Costanti	906
+Château Marjosse	906
+Domaine Comte Georges de Vogüé	906
+Château Liversan	906
+Château Peymouton	905
+Chandon de Briailles	904
+Lamadrid	904
+Cantolio	902
+Gitton Père & Fils	901
+Broadbent	900
+Château Rayas	898
+Turning Leaf	897
+Dal Pizzol	896
+Roc de Cambes	893
+Pinord	893
+Bruni	892
+Château Beauregard	892
+Altanza	890
+Domaine Ponsot	889
+E. Pira & Figli	889
+Granja Amareleja	889
+Marqués de Vizhoja	888
+Freixenet	886
+Falling Feather	885
+Pierre Amadieu	885
+Pangea	884
+Château l'Évangile	884
+Carta Roja	883
+Château Brown	883
+Luc Pirlet	883
+Jean Foillard	883
+Ferdinando Principiano	883
+Claude Val	882
+Elena Walch	882
+Château Rauzan-Gassies	880
+Apollonio	879
+Château Boyd-Cantenac	876
+Domaine Rossignol-Trapet	876
+Michel Redde	875
+Château Siaurac	874
+Le Casine	872
+Chunky	871
+Roger Sabon	871
+Domaine Weinbach	869
+Kopke	869
+Gaía	868
+Clos Floridène	866
+Buehler	865
+Figli d'Italia	864
+Don Mendo	862
+Château de la Commanderie	862
+Vavasour	860
+Château Saint-Germain	859
+Domaine des Lambrays	857
+Araldica	857
+La Spinetta	857
+Colores del Sol	856
+La Cacciatora	854
+Sant'Orsola	853
+Duca di Salaparuta	853
+Lizard	853
+Pétrus	852
+Bodega Emina	850
+Vidigal	849
+Cavas del Mogor	845
+Wolfberger	844
+Portia	844
+Laurent Miquel	843
+Villadoria	843
+Viña Zaco	841
+Tabali	841
+Artesa	841
+Château La Cardonne	839
+Canepa	839
+Henri Badoux	838
+Shaw + Smith	837
+Mount Pleasant	836
+Maison Carles	836
+Marco Felluga	835
+Château Lamothe-Cissac	835
+Domaine de la Baume	835
+Agro de Bazán	832
+Ironstone	831
+Louis Michel & Fils	830
+Château La Couronne	829
+Château du Bousquet	829
+Isabelle et Pierre Clement (Domaine de Chatenoy)	829
+Notte Rossa	829
+Vetus	828
+Aquinas	828
+Buena Vista	828
+Pelissero	827
+Cantina Vignaioli	827
+Leonetti	826
+Fratelli Alessandria	826
+Château des Laurets	825
+Graham Beck	824
+SalvaTerra	823
+Château Petit-Village	821
+Château Nénin	821
+Reynolds Wine Growers	821
+Domaine Pierre Gelin	820
+Kressmann	820
+Domaine Chante Cigale	820
+Casa da Passarella	820
+Les Costières de Pomerols	819
+Château de Nalys	818
+Confidencial	817
+Botter	817
+Comte Lafond	817
+Caves Saint-Pierre	817
+Tenuta La Fuga	817
+Cape Mentelle	816
+Tenuta Valleselle	816
+Château David Beaulieu	814
+La Jota	814
+Tenuta Carretta	812
+Château La Tour de Bessan	812
+LZC	811
+Matanzas Creek	809
+Whitehall Lane	806
+Gran Appasso	806
+Valentini	805
+Pasas	801
+Gravner	801
+Château La Fleur-Pétrus	800
+Tenuta di Sesta	799
+Te Mata	799
+Las Nubes	798
+Southern Right	798
+Nigl	797
+As Laxas	795
+Château Brillette	794
+Venturini	794
+Guy Saget	793
+Venta Las Vacas	791
+Château les Tuileries	791
+Carlo Sani	791
+Cillar de Silos	790
+Boneshaker	789
+Pieroth	789
+Domaine de Montille	788
+Domaine Bruno Clair	788
+50° Degree	788
+Roagna	788
+Domaine Raymond Usseglio & Fils	784
+Domaine Arlaud	783
+Clos de l'Oratoire	781
+Château Coutet	781
+Château Lassègue	781
+Château Marquis d'Alesme	778
+Gianni Gagliardo	777
+Claude Dugat	777
+Spottswoode	776
+Château Saint Andre	776
+Monopole	775
+Casa Venturini	774
+Domaine des Perdrix	774
+Le Potazzine	773
+Gran Familia	771
+Passitivo	771
+Domaine Tollot-Beaut	769
+Château Lestage Simon	769
+Domaine Vacheron	768
+Siro Pacenti	768
+Girlan	768
+Briego	768
+Reservado	766
+Terra d'Oro	766
+Marimar Estate	765
+Château Croizet-Bages	764
+Quinta do Mouro	763
+Rafael Palacios	761
+ZD Wines	761
+Chacabuco	761
+Château Desmirail	761
+Terroir Al Límit Soc. Lda	759
+Chemin des Papes	758
+Coldstream Hills	758
+Moura Basto	757
+Antares	756
+Mancura	756
+Scarpa	755
+Château Ramage La Batisse	755
+Chivite	754
+Rio Sol	753
+Bodegas y Viñedos U.V.R	751
+Fabiano	751
+Château La Conseillante	750
+Château Le Bourdieu	750
+Casa Perini	746
+Château Dassault	746
+Yves Cheron	745
+Podere 414	745
+Ole Martin Alfsen-OMA	745
+The Eyrie Vineyards	744
+Château Barde-Haut	742
+Château Pineraie	741
+La Pousse d'Or	741
+Domaine Breton-Catherine & Pierre Breton	740
+Rimauresq	738
+Tesco	737
+Château Fonroque	737
+Bodegas José L. Ferrer	734
+Quinta do Morgado	734
+Cascina Ballarin	732
+Les Crêtes	732
+Neirano	731
+Enrique Foster	729
+Château Fonréaud	728
+Burmester	728
+Château Haut-Surget	727
+Bouchard Finlayson	726
+Château Lalande	725
+Martinborough Vineyard	724
+Taurino	723
+Prà	723
+Château Pey de Pont	723
+Château Lafitte-Tramier	722
+90+ Cellars	721
+Franz Hirtzberger	721
+Château Fontesteau	720
+Umberto Cesari	720
+Estefanía	720
+Paradigm	720
+Bodegas La Catedral	719
+Château La Gorce	719
+Lvnae	719
+Cave Vinicole de Hunawihr	718
+Cullen	718
+Château Gravet Renaissance	718
+Trader Joe's	717
+Grande Arche	716
+Château Rouget	715
+Torre Zambra	713
+L'Ecole No 41	713
+Mayacamas	712
+Merryvale	710
+Áster	710
+Domaine du Cayron	710
+Balduzzi	709
+Casa Ermelinda Freitas	708
+Château Bourgneuf (Vieux Château Bourgneuf)	708
+Concannon	707
+Kühling-Gillot	707
+Domaine Pichot	707
+Sordo	707
+Otaviano	707
+Cantina Sampietrana	707
+Domaine du Grand Tinel	707
+Denavolo Rivergaro	705
+Clos des Menuts	705
+Charles Joguet	705
+Château Cap de Faugères	704
+di Lenardo	704
+Château de Puligny Montrachet	704
+Lupé-Cholet	703
+Fox Grove	703
+Château Saint-Roch	702
+Domaine Joseph Roty	701
+Valdivieso	700
+Marani	700
+Auguste Clape	700
+Erben	699
+Izadi	699
+Simonnet-Febvre	699
+Domaine Rapet	698
+Domaine Juliette Avril	697
+Brunelli	697
+Château Puy-Blanquet	695
+Bom Juiz	693
+Elvio Cogno	692
+Seven Falls	692
+Conn Creek	692
+Landron	691
+Monte Faustino	691
+Saxum	690
+Katnook	690
+Château Loudenne	689
+Clos Rene	689
+Marques de Toledo	689
+A. Rafanelli	689
+Sani	688
+Odette	688
+Domaine Arnoux-Lachaux	687
+De Forville	687
+Venica & Venica	687
+Marcarini	686
+Château Grand Corbin-Despagne	686
+Ferraton Père & Fils	685
+Château Bouscaut	685
+Lazy Bones	684
+Grosset	684
+Cave de Lugny	683
+Amore Passo	683
+Casa Montes	682
+Ramey	682
+Broc Cellars	681
+Kaesler	681
+Paso Creek	681
+La Hacienda	681
+Uccelliera	681
+Celler de Capçanes	680
+Oveja Negra	679
+Château Latour Camblanes	679
+Louis Jadot-Domaine Gagey	678
+Quinta dos Roques	678
+Adega Mayor	678
+Le Ragnaie	677
+Delicato	677
+Salvioni	677
+Moss Wood	676
+Château la Vieille Cure	675
+Castelli Martinozzi	675
+Poggio Scalette	674
+Château Coucheroy	673
+Hudelot-Noëllat	673
+Château Maucoil	673
+Giuseppe Cortese	671
+Château Taillefer	671
+Poderi dal Nespoli	670
+J.M. Boillot	670
+Comportillo	670
+Château Les Eyquem	668
+Veo	668
+Santiago Ruiz	667
+Château la Négly	667
+CK Mondavi	667
+Château Fonplégade	667
+Viñedos Hermanos Hernáiz	667
+Masson-Dubois	666
+Château Petit Bocq	666
+Château Lafitte	666
+Attems	666
+Château Mazeyres	666
+Pueblo del Sol	666
+Buglioni	664
+Château Grand Barrail Lamarzelle Figeac	664
+Château Musset Chevalier	663
+Domecq	663
+Losada	661
+If You See Kay	661
+Château Mongravey	661
+Nittardi	660
+Rey de Copas	659
+Château Haut-Sarpe	659
+Tamarí	659
+Château Valandraud	658
+Marietta	657
+Cà Montini	657
+Tomàs Cusiné	657
+Petra	656
+Merrain Rouge	656
+Domaines Schlumberger	655
+Paringa Estate	654
+Foradori	654
+Château Le Grand Verdus	653
+Ca' del Bosco	653
+Clos du Mont-Olivet	651
+Prime Wine	650
+TerraNoble	649
+Château Larose Perganson	648
+Jean-Jacques Confuron	646
+Domaine Nicole Lamarche	645
+Mount Mary	644
+Batch No. 198	644
+Thevenet Quintaine	643
+Château Quinault l'Enclos	643
+Frentana	642
+Domaine Philippe Charlopin-Parizot	642
+Pascal Cotat	641
+Paul Blanck	639
+Lucien Crochet	638
+Cazes	638
+Pasquier Desvignes	638
+Christian Moreau Pere & Fils	637
+Collazzi	636
+Domaine de Terrebrune	636
+Domaines Bunan	636
+Château Joanin Bécot	635
+Château Mangot	635
+Château Picque Caillou	634
+Château Pindefleurs	634
+St. Clement	633
+Stobi	633
+Benanti	632
+Château Grand-Pey-Lescours	632
+Herdade de Coelheiros	632
+Rex Hill	631
+Flagstone	629
+Altamura	629
+Hartford Court	629
+Baltasar Gracián	627
+Zen of Zin	627
+Château de la Dauphine	627
+Château Labrousse	627
+Tenute Guicciardini Strozzi	626
+Alain Voge	626
+Indomita	626
+Château Cote de Baleau	625
+Drostdy-Hof	624
+Gattavecchi	624
+La Boscana	623
+Tenuta San Giorgio	623
+Château Noaillac	623
+Ciù Ciù	622
+Domaine Font de Michelle-Gonnet Père & Fils	621
+Château D'Hanteillan	619
+Ramón Roqueta	619
+Black Ink	618
+Quinta de La Rosa	618
+Les Grandes Serres	617
+Château des Annereaux	616
+Domaine Olga Raffault	616
+Jean Bouchard	615
+Josetta Saffirio	615
+Montebuena	615
+Château Garraud	614
+Vanitá	614
+Le Chai au Quai	613
+Selvapiana	613
+Pascal Bouchard	613
+Bernard Baudry	612
+Crystallum	611
+Itinera Prima Classe	610
+The Seventy Five Wine Company (Est. 75)	609
+Château Lafleur-Gazin	608
+Domaine de Marcoux	608
+Francesco Rinaldi & Figli	607
+Sierra Cantabria	607
+Vila Santa	606
+Château Sixtine	606
+Pride Mountain Vineyards	605
+Ara	604
+Principe Corsini	604
+Château Vieux Manoir	603
+Dominio do Bibei	602
+Stephane Montez-Domaine du Monteillet	600
+Joblot	600
+Château Dutruch Grand Poujeaux	600
+Michel Gros	599
+Château Haut-Segottes	599
+Château Laroze	598
+Librandi	598
+Foppiano Vineyards	597
+Weingut Knoll	597
+Peachy Canyon	597
+Señorío de Sarria	597
+Dourthe N°1	596
+Château Thieuley	595
+Château Le Boscq	595
+Quinta do Côtto	595
+Matusko	594
+Remoissenet Père & Fils	594
+Château d'Yquem	593
+Robert Craig	592
+Château l'Enclos	592
+Château Laffitte Laujac	592
+Georges Lignier et Fils	592
+Diamond Creek	591
+Alfredo Roca	591
+Château les Carmes Haut-Brion	591
+Château Roubine	591
+Yali	590
+Enrico Serafino	590
+Anderson's Conn Valley Vineyards	590
+Château Saint-André Corbin	589
+Hanna	589
+Spice Route	588
+Château La Tour Figeac	588
+Cave Saint Désirat	587
+Domaine Jacques Prieur	586
+Il Marroneto	586
+ARPEPE	585
+Bartoli Giusti	585
+Cantine Birgi	583
+Le Salette	583
+Verbena	583
+Domaine Marc Morey & Fils	582
+Joao Portugal Ramos	582
+Sichel	582
+João Pires	582
+Mirafiore	582
+Rascal	581
+Boland	580
+Château Plantey	580
+Douglas Green	580
+Marqués del Puerto	579
+Keenan	579
+Castelluccio	578
+Dominio de Eguren	576
+Tenute Dettori	575
+Panizzon	574
+Barceliño	574
+Rocca di Montegrossi	573
+Château Bel Air Gloria	573
+Tenuta di Lilliano	572
+Ballaturi	572
+Domaine des Remizières	572
+Cuvée Jean-Paul	572
+Château Haut-Brisson	572
+Château Grand Mayne	571
+Château Marsac Séguineau	571
+Château Deyrem Valentin	570
+Château Ferran	570
+Château Lapelletrie	570
+Chevalier de Bayard	570
+Weingüter Wegeler	570
+Azelia	569
+Villa Girardi	569
+Bowen Estate	568
+André Goichot	568
+Harlan Estate	568
+Sassetti Livio	567
+Ortas-Cave de Rasteau	567
+Ramirana	566
+Nostros	566
+Montelciego	566
+Quinta Milú	565
+Soldepeñas	564
+Woodwork	564
+Auguste Bessac	564
+Borsao Bodegas	564
+Domaine du Grapillon d'Or	564
+Buçaco	564
+Tenuta Friggiali	564
+Château Preuillac	563
+Jorge Rosa Santos	563
+Cloof	563
+Clos Pegase	562
+Anne Amie Vineyards	562
+Château Perenne	562
+Domaine Perrot-Minot	561
+Château Haut-Maillet	561
+Ultimo Passo	561
+Kellerei . Cantina KALTERN	560
+Trerose	559
+Château de La Maltroye	559
+Poderi del Paradiso	558
+Robert Groffier	558
+Château Lestage	558
+Castello di Amorosa	557
+Black Sage Vineyard	557
+Château Grand-Pontet	556
+Château Reysson	556
+Domaine de Cristia	555
+Domaine Saint Préfert	554
+Burgess	552
+Valtea	552
+Villa Cerro	551
+Peyre Rose	551
+Waterbrook	550
+David Bruce	550
+Domaines Ott	549
+Condado de Oriza	549
+Château La Cabanne	549
+Castello di Meleto	548
+Château Belles-Graves	547
+Anubis	547
+Louis Jadot-Domaine Duc de Magenta	546
+False Bay	546
+António Saramago	546
+Château Haut-Bages Monpelou	546
+Quasso	545
+Paul Prieur & Fils	545
+Beaux Frères	544
+Dievole	544
+Château Larcis Ducasse	543
+Colomé	543
+Antoniolo	543
+Collemattoni	543
+Pradorey	542
+MAN	542
+Norte 32	542
+Château de Malleret	542
+Vieux Papes	542
+Tini	542
+Celler del Roure	541
+Adega Ponte da Barca	541
+Dr. Von Bassermann-Jordan	539
+Château Fontenil	539
+A.F. Gros	538
+Jean-Jacques Auchère	537
+Château de Thauvenay	537
+Terre di Talamo	537
+Squealing Pig	536
+Pasetti	536
+Clos Saint Michel	535
+Rodríguez Sanzo	535
+Saint Auriol	534
+Château Rozier	534
+Palladino	534
+Il Pozzo	534
+Château Mayne-Vieil	533
+Tenuta di Gracciano della Seta	533
+Charles et Francois Tardy	532
+Koehler-Ruprecht	532
+Monte Ducay	532
+The Federalist	531
+Monte da Ravasqueira	531
+Château Couhins-Lurton	531
+Château Rahoul	531
+Plaisir de Merle	530
+V. Sattui	530
+La Carraia	530
+Viña Sastre	529
+Le Chiantigiane	529
+Château de Terrefort-Quancard	528
+Château Monbrison	527
+Domaine de la Charbonnière	527
+Peter Michael	527
+La Mozza	527
+Barossa Valley Estate	527
+Cave de Beblenheim	526
+Château Carteau	526
+B.R. Cohn	525
+Vignobles J. Dupuy	525
+Les Courlandes	525
+Loimer	524
+Domaine Laurent Tribut	524
+Château Grand Corbin	523
+Riondo	523
+Cloud Break	522
+Château La Grange Clinet	522
+Domaine Gaston & Pierre Ravaut	521
+Martinet	521
+Barale Fratelli	521
+Heredad Mestral	521
+Saint Lambert	520
+Daniel-Etienne Defaix	520
+Serafin Père & Fils	519
+Willi Schaefer	519
+Lievland Vineyards	519
+Château de Marsannay	518
+Château Doisy-Daëne	518
+Despagne-Rapin	517
+Château Haut Pougnan	517
+Spring Mountain Vineyard	515
+Château du Cleray	514
+Domaine de Cazeau et Perey	514
+Château Clement-Pichon	514
+Yvecourt	513
+Tua Rita	513
+Château Gaudin	513
+Logodaj Winery	512
+Mas des Bressades	512
+Storybook Mountain	512
+Best's	511
+Poderi Colla	511
+Château La Grave Figeac	510
+Sonoma-Loeb	510
+Château Pibran	510
+Cupertinum	510
+Liberalia	510
+Château Baret	510
+Grover Zampa	509
+Hangtime	509
+Kourtaki	509
+Cardinale	509
+Accordini	509
+Château Tour Seran	507
+Veiga da Princesa	507
+Morin Pere & Fils	507
+San Patrignano	506
+Château d’Aussières	506
+Bartolo Mascarello	506
+Vignobles Rollet	505
+Robert Sinskey	505
+Château Laffitte-Carcasset	505
+Château Prieure-Les-Tours	504
+Viña Olabarri	504
+Marchigüe	504
+Weingut Gottardi	504
+Familia Nueva Vineyards	504
+Flaco	503
+Château de Pennautier	503
+Cantina del Dolcetto di Dogliani	502
+Rectoral de Amandi	502
+Bodega Privada	502
+Pepperwood Grove	502
+Anselmann	501
+Reserva dos Amigos	501
+Château Clauzet	501
+Latium Morini	501
+Alain Gautheron	500
+El Círculo	500
+Andrea Oberto	500
+Philip Togni	500
+Côtes Rocheuses	499
+Pietroso	499
+Chateau Lalaurie	498
+Château Perron	498
+Tsantali	498
+Cellier du Rhône	498
+Château Tour des Termes	498
+Lou Dumont	498
+Château Le Bon Pasteur	498
+Château Jean Faure	497
+Rioja Vega	497
+Roberto Voerzio	496
+Pierre André	496
+Château Lacombe Noaillac	496
+Domaine de la Cote de l'Ange	496
+Viticcio	496
+Domaine Aux Moines	495
+Il Tauro	495
+Casar de Burbia	495
+Château Yon-Figeac	494
+Novacorte	494
+Domaine du Castel	494
+Tenuta Corte Pavone	494
+Gallo Signature Series	493
+California Square	493
+Casa Capriolo	492
+Mocali	492
+de Gras	491
+Château Pech-Latt	491
+Bodegas Bianchi	490
+Murviedro	490
+Château Soutard	490
+Château la Haye	489
+Château Gaillard	489
+Conde de Los Andes	488
+Château Corbin	488
+Famiglia Grillo	488
+Château Vieux Lartigue	488
+Château La Grave (Trigant de Boisset)	487
+Colterenzio (Schreckbichl)	487
+Pierre Damoy	487
+Jean Pabiot	487
+Château La Couspaude	487
+Domaine Duroché	487
+Menade	486
+Herdade Paço do Conde	486
+Louis Guntrum	486
+Domaine Les Pallières	485
+Bouquey-Rivallon	485
+Schroeder	485
+Dorgali	485
+Barone Fini	485
+Domaine Georges Mugneret-Gibourg	485
+Quinta de Foz de Arouce	484
+Cain	482
+Menhir	481
+Robertson Winery	481
+Heymann-Löwenstein	481
+Schola Sarmenti	481
+XA Vinos Domecq	480
+Pépière	480
+Berselli & Olivieri	480
+Vicentin	479
+Château La Grace Dieu-Les Menuts	479
+Inurrieta	479
+Domaine Henri Gouges	478
+Château de Pommard	478
+Château Larmande	477
+Dulcinea Santos Ferreira	477
+Alto de la Ballena	477
+Domaine Leroy	476
+PAITIN	475
+Château du Domaine de l'Eglise	475
+Herdade da Farizoa	475
+Monteviejo	475
+Fasoli Gino	475
+Château Coutelin-Merville	475
+Davis Bynum	474
+Bressan	474
+Château La Croix	472
+De Muller	472
+Pierre Jean Larraqué	470
+Sextant	469
+Château de Ricaud	467
+Domaine de Pallus	467
+Domaine du Gour de Chaule	466
+Fontanário de Pegões	466
+Pergola	465
+Château Marsau	465
+Domaine de l'Arlot	465
+Château La Croix de Gay	464
+Domaine Pierre Amiot et Fils	464
+Château Beausejour	464
+Château Bonalgue	464
+Forstmeister Geltz-Zilliken	464
+Château La Serre	463
+Collavini	463
+Trapezio	462
+Roux Père & Fils	462
+Vignerons de l'Enclave	459
+Domaine Maillard Père & Fils	459
+Valmarino	459
+Durón	459
+Prieur-Brunet	458
+Bodegas Ochoa	458
+Château Belair-Monange	458
+Château La Bridane (Chateau Moulin de la Bridane)	458
+Château du Taillan	458
+Veiga Naúm	458
+Cappellano	457
+Tenuta San Pietro	457
+Arribeno	457
+Château Tertre Roteboeuf	456
+Château du Cartillon	456
+J. Rochioli	455
+Sol Y Nieve	455
+Le Chiuse	455
+Château Arnauton	455
+Château Trimoulet	454
+Castorani	453
+Château de la Tour	452
+Clos des Jacobins	452
+Château Lamothe	452
+Château Bessan Ségur	452
+Hubert Lignier	451
+Bannockburn Vineyards	451
+Château Marzy	451
+Château de Valois	450
+Château Les Hauts-Conseillants	450
+DeLoach	450
+Campomaggio	450
+Jasper Hill	449
+Lucien Albrecht	449
+Fontaine-Gagnard	449
+Yvon Mau	449
+Xanadu	448
+Château de Caraguilhes	448
+Josmeyer	447
+Anwilka Vineyard	447
+Vinum Cellars	446
+Château Faizeau	446
+Château de France	446
+Château Grange-Neuve	446
+La Croix d'Austéran	446
+Château Cormeil-Figeac	445
+Château Barrail du Blanc	445
+Château Margerots	444
+Jean-Luc Colombo	444
+Château Villemaurine	444
+Cerbaiona	443
+Cerro Chapeu	443
+Château La Tour du Pin Figeac	443
+Château Latour à Pomerol	443
+Costers del Siurana	443
+Jean-Pierre Moueix	442
+Candidato	442
+Höpler	441
+Domaine Confuron-Cotetidot	441
+Le Preare	441
+Turnbull	441
+Château Anthonic	441
+Château La Marzelle	440
+Château Les Barraillots	440
+Château La Grande Clotte	440
+Carta de Oro	440
+Château Maucamps	440
+Cantine di Castignano	439
+Lang & Reed	439
+Conselve-Sansovino	438
+Château Thivin	438
+Quinta de la Quietud	438
+Casajus	437
+Domaine Long Depaquit	437
+Château de Bel-Air	436
+Corison	436
+Château Ramafort	436
+Château Lyonnat	436
+Viña Aquitania	436
+Espiral	436
+Domaine des Baumard	435
+Adega Cooperativa da Labrugeira	435
+Paolo Manzone	435
+Pooley	434
+Terra d'Aligi	434
+Château Tour de Mirambeau	434
+Casa Magoni	433
+Staglin	433
+Domaine Drouhin	433
+São Domingos	433
+Gómez Cruzado	432
+Eisele Vineyard	432
+Leyda	432
+Cave de Turckheim	432
+Jean-Paul Balland	432
+Abadía Mantrús	432
+Adega de Portalegre Winery	432
+Gérard Raphet	431
+Château Montviel	431
+Clos Fourtet	431
+Vigneau-Chevreau	431
+Peñalolen	431
+Guido Porro	431
+Château Tour Baladoz	431
+Malevo	430
+Castello di Neive	429
+Ramsay	429
+Château Tour Saint-Christophe	429
+Domaine Anne Gros & Jean-Paul Tollot	429
+Richeaume	429
+Perdeberg	428
+Colosi	427
+Cartlidge & Browne	427
+Balbas	427
+Les Cousins Marc & Adrià	426
+Domaine du Clos de Tart	426
+Domaine de la Croix Senaillet	425
+Pirovano	425
+Arceno	425
+Don Pascual	425
+Corte Viola	424
+Pietro Sartori	424
+Quinta da Lixa	423
+Château de Carolle	423
+Vallone	423
+Domaine Roger Belland	423
+Coriole Vineyards	423
+Contri	422
+Jayer Gilles	422
+Bach	422
+Reichsgraf von Kesselstatt	421
+Domaine Lapierre	421
+Woodward Canyon	420
+Maipe	420
+Château Magdelaine	419
+Boscaini Carlo	419
+Tenuta Podernovo	419
+Rocca di Frassinello	419
+Château Falfas	418
+Riecine	418
+Il Faggio	418
+Kollwentz	418
+Château Haut-Logat	417
+Château de Chambert	416
+Bodegas Arrocal	415
+Château Bel-Air Lagrave	415
+Canneto	414
+Castelmaure	414
+Alvi's Drift	414
+Château Beaulieu	414
+Lake's Folly	414
+Château Val Joanis	414
+Château Troupian	414
+Château Guibot	413
+Terras de Cartaxo	412
+Real Forte	412
+Miraval	412
+Pierre-Yves Colin-Morey	411
+Robert Sirugue	411
+Stemmari	411
+Jiménez-Landi	411
+Moselland	410
+Château La Raze Beauvallet	410
+Jacobsdal	410
+Gran Sasso	410
+Château Bourdieu	409
+Roland Lavantureux	409
+Porto Carras	409
+Château Tour Saint Bonnet	409
+Château La Chapelle Aux Moines	409
+Château Grand Corbin Manuel	409
+Château Landat	409
+CHANDON Argentina	409
+Château Soudars	408
+Atlas Peak	408
+Château du Moulin Rouge	408
+Château Magnan La Gaffelière	408
+Witwe Dr. H. Thanisch Erben Müller-Burggraef	408
+Galius	408
+Bear Flag	407
+Château Peyre-Lebade	407
+Montevina	406
+Couvent des Jacobins	406
+Traslascuestas	405
+Moncaro	405
+Château Méaume	405
+Calera	405
+Department 66	404
+Quinta das Bágeiras	404
+Cantine Povero	404
+Dugat-Py	404
+Conti Neri	404
+Château Haut-Cadet	404
+Château La Commanderie	403
+Château Bégadanet	403
+Chateau de Fonsalette	403
+Clos Beauregard	402
+Château Villars	402
+Gramenon	402
+Weingut Bründlmayer	402
+Aldo Rainoldi	401
+Azienda Agricola La Torre	401
+Domaine Thierry Mortet	401
+Avantis	401
+Château Le Sartre	401
+El Angosto	400
+Château Béard La Chapelle	400
+Nicosia	400
+Château Fonbadet	399
+S.A. Prüm	399
+Château Plagnac	399
+Château Couhins	399
+Sassaie	399
+Château La Croix St. Georges	399
+Caves São Bento	399
+Mas Saint Louis	398
+Claude Riffault	398
+Jean Guillot	397
+Pierre Sparr	397
+Château Pontac Lynch	396
+Château Jacques Blanc	396
+Smoking Loon	396
+Les Vignerons de Buzet	396
+Bodegas Pedro Escudero	395
+Trentadue	395
+Berri Estates	395
+Godeval	394
+Château Juguet	394
+Massaya	394
+Marqués de Requena	394
+Sur de Los Andes	394
+Château Patache d'Aux	393
+Domaine du Banneret	392
+Albino Armani	392
+Château Cantenac	391
+Jean Bourdy	391
+Château Branda	391
+Château Verdignan	391
+El Cielo	390
+Château Plaisance	390
+Claus Preisinger	390
+Château Tournefeuille	390
+Contucci	390
+Château Guillemin La Gaffelière	390
+Château Bernateau	389
+Viña Valoria	389
+Radikon	389
+Moillard	389
+Borgo Salcetino	388
+Sumarroca	388
+Château Bellefont-Belcier	388
+Massandra (Массандра)	388
+Château Vieux Chevrol	387
+Château Roquegrave	387
+Wild Horse	387
+Château Griviére	387
+Clemens Busch	386
+Erbhof Unterganzner	386
+Mateus	386
+MonteMajone	385
+Paso Grande	385
+Giuseppe Rinaldi	385
+Magnifico	385
+Château Picard	385
+Voyager Estate	384
+Hatzidakis	384
+Château Ducluzeau	384
+Bottega Vinai	383
+Château Le Gay	383
+Giaconda	383
+Artuke	383
+Vieux Chateau du Terme	383
+Vinarija Benkovac-Korlat Vina	382
+Vignamaggio	382
+Henri Bonneau	382
+Château Pontet-Fumet	381
+Domaine Michelot	380
+Château Rousselle	380
+Château Bel-Orme Tronquoy de Lalande	379
+Château Moulin Haut-Laroque	379
+Famille Berrouet	379
+Château Trotte Vieille	378
+Château de Ségriés	378
+Hoya de Cadenas	378
+Rémi Jobard	377
+I Dogi Neri	377
+Viviani	377
+Château d'Anglès	377
+Louis Carillon et Fils	377
+Kitchen Sink	376
+RAR	376
+Barbanera	376
+Herdade das Mouras	376
+Jarvis	376
+Domaine de Fontsainte	376
+Proyecto Garnachas de España	376
+7 Cascine	376
+Domaine La Roquète	374
+Luciano Arduini	374
+Cantina Miglianico	374
+Vignerons de Caractere	374
+Dugladze	373
+Casa Emma	373
+1907	373
+Saintsbury	373
+Cellers Unió	373
+Viña Extremeña	373
+Ilurce	373
+Annabella	371
+William Cole	371
+Redman	371
+Wwe. Dr. H. Thanisch-Erben Thanisch	371
+Prosper Maufoux	371
+Viña Cumbrero	370
+Costa di Bussia-Tenuta Arnulfo	370
+Vincent Bouzereau	370
+Ca' Vittoria	370
+Château Pradeaux	370
+Screaming Eagle	370
+Guerrieri Rizzardi	370
+Terra Aprica	369
+Espuela del Gaucho	369
+Amézola de la Mora	369
+Château La Croix du Casse	368
+Malesan	368
+Langmeil	367
+Jackson-Triggs	366
+Acronym	366
+Andre Dezat & Fils	366
+Domaine du Salvard	366
+Nicolis	365
+Michel Magnien	365
+Scanavino	365
+Mariflor	365
+Jordan Wines	364
+Borgobruno	364
+Emera	364
+Château La Gurgue	363
+Li Veli	363
+Straccali	363
+Tahbilk	363
+Domaine de Courcel	363
+Chalise	363
+Adega Familiar Eladio Piñeiro	363
+Le Bonheur	362
+Domaine Michel Lafarge	362
+Phebus	362
+Álvarez y Díez	361
+Dante Robino	361
+Torciano	360
+Château La Fleur Pourret	360
+Clos du Clocher	360
+Field Recordings	359
+Louis Max	359
+Wave Series	358
+Château La Favière	358
+Zardoz	358
+Domaine du Cheval Blanc	358
+Piancornello	357
+Domaine Michel Niellon	356
+Château Tour du Cauze	356
+Selbach-Oster	356
+Inycon	356
+Castello del Terriccio	355
+Pluvium	355
+Château d'Arvigny	355
+Luigi Oddero	355
+Château Haut-Chaigneau	355
+Castillo de Cuzcurrita	354
+Drylands	354
+Vriesenhof	354
+Soldera	354
+Raíces	354
+Ottosoldi	353
+Domaine de La Meynarde	353
+Casa Rojo	353
+Château Cap l'Ousteau	353
+Château l'Eglise-Clinet	352
+Cantalupo	352
+Fisher Vineyards	352
+Parent	352
+Château Fargueirol	352
+Stimson Estate Cellars	351
+Junta	351
+Château Aney	351
+Pascual Toso	351
+Steltzner	351
+Bravio	350
+Château Haut Breton Larigaudière	350
+Château La Grâce Dieu	350
+Basilisco	350
+Paternoster	350
+Masseria Frattasi	349
+Amiot Guy	349
+Opera Prima	347
+Château de Ségure	347
+Château Tour de Capet	347
+Château Chauvin	347
+Château Certan de May	347
+La Millière	347
+Raoul Clerget	346
+Conte Ferdinando Guicciardini	346
+Pierre Bourée Fils	345
+Valdorella	344
+Château Montlabert	344
+Château Branas Grand Poujeaux	343
+Stellenzicht	343
+Château Malmaison	343
+Château Biston-Brillette	343
+Château Guadet	343
+Cave de Saumur	343
+Citra	342
+Fontana Candida	342
+Château de Monturon	342
+Château Andron-Blanquet	342
+Ap	341
+Gemtree	341
+Venta del Puerto	341
+Château de Panigon	340
+Château Haut Piquat	340
+Franco Serra	340
+Château Roquevieille	340
+Leasingham	339
+Urmeneta	339
+Vrai Canon Bouché	338
+Casa de Mouraz	338
+Riddoch	338
+Caterina Zardini	338
+Bindella-Tenuta Vallocaia	338
+Antonio Caggiano	338
+J.B. Becker	337
+Quinta de São Sebastião	337
+Landhaus Mayer	336
+Château Moulin Saint-Georges	336
+Château Demazel	336
+Maison Capitain-Gagnerot	336
+Lar de Paula	336
+Heinrich	336
+Bajoz	336
+Quinta Vale d'Aldeia	335
+Domaine des Varoilles	335
+Vinícola Hiragami	335
+Château Meyre	335
+Domaine de Trévallon	335
+Ermita de San Lorenzo	335
+Château le Grand Housteau	335
+Dante Rivetti	335
+Bernard Defaix	334
+Pirosso	334
+Casato Mastino	334
+Azienda Agricola Il Colle	333
+Château Lapeyre	332
+Castillo Labastida	332
+Château La France	332
+Weingut Schloss Bockfliess	332
+Künstler	332
+Bucci	332
+Château La Croix de Marbuzet	331
+Murua	331
+El Aviador	331
+Xavier Vignon	330
+Schloss Reinhartshausen	330
+Il Conventino	330
+Vinea Familiae	330
+Echeverría	330
+Grand Maestro Italiano	329
+Comte Armand	328
+François Bertheau	328
+Aldegheri	328
+Rioja Santiago	328
+Fratelli Vogadori	327
+Chateau Haut-Beychevelle-Gloria	327
+Château du Tailhas	327
+Scarzello	327
+Château La Patache	327
+Aldeya	327
+Château Moulin à Vent	326
+Château Daugay	326
+Ronchi di Cialla	326
+Château Les Trois Croix	325
+La Togata	325
+Château Cordet	325
+Château Berliquet	325
+Domaine Michel & Sylvie Esmonin	325
+Château Gombaude-Guillot	325
+Emmanuel Rouget	325
+Château l'Arrosee	324
+Château de Saint-Pey	324
+Save Me San Francisco	324
+Domaine de Chantemerle	323
+Tunquelen	323
+Charles Melton	323
+Chateau Tauzinat l'Hermitage	323
+Château Victoria	322
+Dutton-Goldfield	321
+Collefrisio	321
+Château Destieux	321
+Mandorla	321
+Domaine Gueguen	321
+Tablas Creek Vineyard	321
+Emil Bauer & Söhne	321
+Aromo	320
+Château Mirefleurs	320
+Quinta do Monte d'Oiro	320
+Terramore	320
+Fess Parker	320
+Château de Goëlane	320
+Predella	320
+Grandjó	320
+Dalla Valle	319
+Château Vieux Maillet	319
+Louis Sipp	319
+Château Trotanoy	319
+Domaine Henri Boillot	319
+Matasci	319
+Mi Terruño	319
+Clos l'Eglise	319
+Domaine Rostaing	318
+Baricci	318
+Château Grand Ormeau	317
+Tenuta Santa Maria di Gaetano Bertani	317
+Château Larrivaux	317
+Poggio Al Tesoro	317
+Château Sansonnet	317
+Brown Brothers	316
+Cims de Porrera	316
+Château Mercier	316
+Wendouree	316
+Château Beausejour (héritiers Duffau-Lagarrosse)	316
+Casa Vinironia	316
+Roberto Mazzi	315
+Ottella	315
+Famille Laplace	315
+Domaine Roulot	315
+Château Ausone	314
+Famiglia Castellani	314
+Château Maurac	313
+Château La Croix Taillefer	313
+Mondelli	313
+Sevilen	313
+Château Tour de Marbuzet	312
+Jolimont	312
+Garofoli	312
+Jean-Louis Chavy	312
+Kumala	312
+Domaines Roland Dumas	311
+Château Moulin Delille	311
+Château Hermitage Mazeyres	311
+Luigi Baudana	311
+Poggio Anima	311
+Château Balestard La Tonnelle	310
+Château Vrai Caillou	309
+Gran Clos	309
+Château Chevrol Bel-Air	309
+San Leonino	309
+Marrenon	309
+Château Le Bonnat	309
+Château Peyredon Lagravette	309
+Rebel Coast	308
+Caves de Bovinac	308
+Cryptic	308
+Rotllan Torra	308
+Castro Brey	308
+Vignobles Mayard	308
+Château Cap d’Or	307
+Domaine du Clos Salomon	307
+Il Passo di Sabina	307
+F.X. Pichler	307
+Lenz Moser	307
+Château Roquefort	306
+Château d'Escurac	306
+Cantina del Coppiere	306
+Château Ségur	306
+Viñedos de Alcohuaz	306
+Domaine La Garrigue	306
+Filus	305
+Fanetti-Tenuta S. Agnese	305
+Los Aguilares	305
+Jean-Louis Trocard	305
+Château Saint-Ahon	304
+Cascina Boschetti Gomba	304
+Bridão	304
+Château Pouget	304
+Dr. Jebediah Drinkwell's	303
+El Circo	303
+Balthasar Ress	303
+I Heart	303
+Jean-Michel Guillon	303
+Château Duplessis	303
+Casanuova delle Cerbaie	302
+Château de Bellevue	302
+Montevetrano	302
+Tall Horse	302
+Nebbiolo di Carema	302
+Château La Papeterie	302
+Domaine Tabordet	302
+Domdechant Werner	301
+Livon	301
+Scarborough Wine Co	301
+Finca La Solana	301
+Cantina Oliena	301
+Domaine Salmon	300
+Château Les Ormes Sorbet	300
+Château Franc Grace-Dieu	300
+Bodegas Urbina	300
+Château la Bastide	300
+Tenuta Rapitalà	300
+Château Mazails	300
+Château La Providence	299
+Château Teynac	299
+Château Le Caillou	299
+Bodegas Langa	299
+Les Celliers d'Orfèe	299
+Dom Cândido	299
+Finca La Estacada	299
+Château Ferrand	299
+Routhier & Darricarrère	298
+Bacca Nera	298
+Our Daily	298
+Château Le Castelot	298
+Château Bellevue Figeac	298
+Zifar	298
+Bodegas Páez Morilla	298
+Metala	297
+Château Pontac Monplaisir	297
+Antica Cascina	296
+Mantellassi	296
+Casa de Santa Vitoria	296
+La Rose Pauillac	295
+Chateau de Lussac	295
+Château La Faurie Maison Neuve	295
+Clos du Roy	295
+Château Grand Faurie La Rose	294
+St Hallett	294
+Parra Alta	294
+Gilles Barge	294
+Vina Herminia	293
+Union de Producteurs de Lugon	293
+Mourchon	293
+Marisa Cuomo	292
+Château Ste Anne	292
+Doña Dolores	292
+Château du Gazin	292
+Château Tanesse	292
+Domaine Sylvain Cathiard	292
+Bigode	291
+Château Cardinal Villemaurine	291
+Ca' del Monte	291
+Grand Listrac	290
+Vinecol	289
+Tenuta di Tavignano	289
+Bibbiano	289
+Porte du Roy	289
+Talosa	288
+Borie Manoux	288
+Vincent Pinard	288
+René Renon	288
+Château St. Georges	288
+Valle dell'Acate	288
+Burchino	287
+Evolúció	287
+Château de Belcier	287
+Ghislaine Barthod	287
+Château Belair-Coubet	287
+Geoff Merrill	286
+Château Treytins	286
+Billaud-Simon	286
+Guarda Rios	286
+Maison Bouachon	286
+Baron Roland de Onffroy	286
+Borgogno Francesco	285
+Forte Elerone	285
+Domaine Santa Duc	285
+Château du Courlat	285
+Château de La Chaize	285
+Domaine Servin	285
+Capraia	285
+Dominique Roger	285
+Château Roudier	284
+Ferro13	284
+Velenosi	284
+Marc Brédif	284
+Coopers Creek	284
+Château Vieux Robin	283
+Cantina Bolzano / Kellerei Bozen	283
+La Vinyeta	283
+Fattoria della Aiola	283
+Francois et Antoine Jobard	282
+Anselmi	282
+Château Haut Veyrac	282
+Château Brun	282
+Château Feytit-Clinet	281
+Domaine de la Renaudie	281
+Teliani Valley	281
+Château Haut Gravet	281
+Dominique Piron	281
+Massimago	281
+Almirante	281
+Monterinaldi	281
+Château du Val d'Or	280
+Corte Alla Flora	280
+Bodega Sommos	280
+Jean Noël Gagnard	280
+Tim Adams	279
+Granducato	279
+Vicente Gandía	279
+Comte Senard	279
+Domaine André Mathieu	279
+Berthet-Rayne	278
+René Muré	278
+Mommessin	278
+Viader	278
+Château Tour Peyronneau	278
+Leitz	277
+Alfredo Maestro	277
+Blason Timberlay	277
+Mario Ercolino	277
+Abbona	277
+Michel Bouzereau	277
+Domaine Denis Bachelet	277
+Château Le Coteau	277
+Gergenti	277
+Dominique Laurent	277
+Don Aurelio	277
+Michel Noëllat	277
+Château Tertre Daugay	276
+François Lurton	276
+Tisdale	276
+Domaine Mark and Martial Angeli	276
+Mitchell	276
+Château Croque Michotte	276
+Sullivan	275
+Le Monde	275
+Crociani	275
+Arnaiz	275
+Château-Grillet	274
+Della Robbia	274
+Baron de Montfort	274
+Viña Alicia	274
+Château Crabitey	274
+Welmoed	274
+Vasco Sassetti	274
+Château d'Epiré	274
+Goyenechea	273
+Materia	273
+Château Laborde	273
+Klein Constantia	273
+Opta	273
+Bufferia	273
+Diabolica	273
+Bodegas Lleiroso	273
+David Duband	272
+Château Muret	272
+Bodega Marañones	272
+Domaine Michel Goubard & Fils	272
+Pelaquie	271
+Château Moulin de Curat	271
+Château Graville-Lacoste	271
+Château Moulinet	271
+Tres Reyes	271
+Scott Family Estate	270
+Zandvliet	270
+Sonoma Hills	270
+Carneros Creek	269
+Domaines Brocard	269
+Château La Croix Fourney	268
+Castillo de Monjardin	268
+Bond	268
+Les Gravieres de Marsac	268
+Domaine de Valori	268
+Château de Bon Ami	267
+Château Cheval Brun	267
+Domaine Tortochot	267
+Capetta	267
+Château Tour du Haut Moulin	267
+Château Laplagnotte-Bellevue	267
+Vignobles Leydet	267
+Château Lafite Monteil	266
+Les Trois Colonnes	266
+Contini	266
+Soloperto	266
+Manifesto	266
+Maybach	266
+Loriñón	266
+Gioso	265
+Demon Noir	265
+Campolargo	265
+Château La Bonnelle	265
+Château de la Grille	265
+Navarro López	265
+Stellina di Notte	264
+Pelassa	264
+Duchessa Lia	264
+Conde de Siruela	264
+First Cape	263
+Forefront	263
+Château Soussans	263
+Fornacina	263
+Pearly Bay	263
+Gigondas La Cave	263
+Azores Wine Company	262
+Querceto di Castellina	262
+McWilliam's	262
+Estampa	262
+Terrabianca	261
+Tempore	261
+Navajas	261
+Château Miqueu	261
+Chalone Vineyard	261
+Principi di Butera	261
+IBY	261
+Rickshaw	261
+Lander-Jenkins	260
+Corte Sant'Alda	260
+Château du Raux	260
+Osiris	260
+3 Wooly Sheep	260
+Brokenwood	260
+Louis Boillot & Fils	260
+Domaine Pierre André	259
+RGMX	259
+Château Franc Mayne	259
+Koyle	259
+Casisano-Colombaio	258
+Mioranza	258
+Château Grand Champs	258
+Giacomo Grimaldi	258
+ASDA	257
+Cave de Ribeauville	257
+Valdipiatta	257
+Château Rieussec	257
+Lidl	257
+Huguet de Can Feixes	256
+Château du Jaunay	256
+Domaine de Tavernel	255
+Panther Creek	255
+Bodega Pirineos	255
+Domaine de Sahari	255
+Chateau La Rose Perrière	255
+Mulderbosch	255
+Suertes del Marqués	255
+Château La Fleur Cravignac	255
+Château Ripeau	255
+Château Laniote	255
+Château Lieujean	255
+Château Larruau	254
+Maison Chandesais	254
+Domaine Le Galantin	254
+Jean-Michel Gerin	254
+Château Le Chatelet	254
+Silvio Grasso	254
+Jean Chartron	254
+Trossos del Priorat	254
+Parini	253
+Cantina Colomba Bianca	253
+Castelo do Sulco	253
+Cape of Good Hope	253
+Coup de Foudre	252
+Buitenverwachting	252
+Grati	252
+Château La Roque	252
+Château de Candale	252
+Sol fa Soul	252
+Kay Brothers	252
+Château Labat	252
+Jean-Claude Boisset	252
+San Salvatore	252
+Château du Barry	252
+Tana di Lupo	251
+Amity	251
+Château Peymartin	251
+Chavy-Chouet	251
+Domaine De Longue Toque	251
+Château du Cauze	251
+Chateau de Malengin	251
+Château Vieux Pourret	250
+Château Ségur de Cabanac	250
+Stone Cellars	250
+Château Saint-Christoly	249
+Domaine Joseph Voillot	249
+Maison Castel	249
+Château Matras	249
+Johanneshof Reinisch	249
+Feudo Croce	248
+Arganza	248
+Il Grappolo	248
+Luigi Giordano	248
+Aegerter	248
+Jaws	248
+Domeniile Sahateni	247
+Green & Red	247
+Domaine François Gaunoux	247
+Château Sergant	247
+Seifried Estate	247
+Paolo Conterno	246
+Marques de Vitoria	246
+Manousakis	246
+Château Mazeris	245
+Seven Hills	245
+Franck Despagne	245
+Big House	245
+Alphonse Mellot	245
+Marquis de Saint-Estèphe	244
+Uitkyk	244
+Winzergenossenschaft Mayschoss-Altenahr	244
+Arrowood	244
+Château Moulin Bellegrave	244
+Château Tanunda	244
+Deltetto	243
+Integro	243
+Tenuta Vignega	243
+Château Canada	243
+Beso de Rechenna	243
+Château Fonsèche	243
+Bodega Cuarto Dominio	242
+Castelbarco	242
+Château Patris	242
+Château Gromel Bel Air	241
+Le Radici	241
+Tardieu-Laurent	241
+Pinhel	241
+La Tosa	241
+Latitude 41	241
+Cantina Sava	240
+Quercecchio	240
+Ropiteau Freres	240
+Château La Gasparde	240
+Château Lestruelle	239
+Hanzell	239
+Château Grand-Jean	239
+Vergniol	239
+Garibaldi	239
+Domaine de Pignan	239
+Château Vannières	239
+Tribute	239
+Giovanni Righetti	239
+Issi	239
+Château Hourtin-Ducasse	239
+Château Domeyne	238
+Henri Naudin-Ferrand	238
+BelColle	238
+San Valero	238
+Domaine de Suremain	238
+Domaine Guy Robin & Fils	238
+Anselma Giacomo	237
+Gerard Tremblay	237
+Tenute Fiorebelli	237
+Poggio Alla Sala	237
+Laudun-Chusclan (Maison Sinnae)	237
+Clusel-Roch	237
+Bosco	237
+Goldwater	236
+Alain Paret	236
+The Seeker	236
+Château Tour du Pas Saint-Georges	235
+Château du Courneau	235
+Canti	234
+Triacca	234
+Domaine Marc Roy	234
+Domaine de la Pinte	234
+Canalicchio-Franco Pacenti	234
+Terre	233
+Inkerman/Інкерман	233
+Domaine Anne Gros	233
+Chapel Hill	233
+Château Haut-Blaignan	233
+Château Peyreau	233
+Cantina di Custoza	232
+Il Poggio dei Vigneti	232
+Château Tour Haut-Caussan	232
+Canaletto	232
+Feiler-Artinger	232
+Château Cadet-Piola	232
+Two Paddocks	232
+Wild Duck Creek Estate	232
+Château des Graviers	232
+Chateau Bel-Air	231
+Château Saint-Bonnet	231
+Peique	231
+Vergenoegd	231
+Cuna de Tierra	231
+Doudet Naudin	231
+Dupeuble	230
+Ovid	230
+Baccolo	230
+Tobin James Cellars	230
+Domaine Thénard	230
+Domaine Ostertag	230
+Château Mondotte Bellisle	230
+Domaine Bourillon Dorléans	229
+Solar de Serrade	229
+Château Tartuguière	229
+Mauro Franchino	229
+Château Les Charmes Godard	229
+El Grifo	229
+Familia Cecchin	229
+Dominio Dostares	229
+Imbuko	228
+Reverdito	228
+Ancient Peaks	228
+Château Brulesecaille	228
+Licinia	227
+Château Chante Alouette	227
+Château Dillon	226
+Swanson	226
+Château de Lisse	226
+Château La Claymore	226
+Amiot-Servelle	226
+Stonyridge Vineyard	225
+Reynolds Family Winery	225
+Château de Chambrun-Château Moncets	225
+Bel Air-Marquis d'Aligre	225
+Puydeval	225
+Scacciadiavoli	225
+Château Montaiguillon	225
+Château Lafleur	225
+Finca Río Negro	225
+Van Duzer	224
+Château du Lort	224
+La Velona	224
+Baron d'Ardeuil	224
+Gigi Rosso	224
+Gesellmann	224
+Costa Lazaridi	224
+Eguren Ugarte	223
+Château Moulin de la Rose	223
+Plessis-Duval	223
+Mercer Estates	223
+Quinta da Fronteira	223
+Parducci	223
+Brampton	223
+Canciller	223
+Rocca di Fabbri	223
+Clos Frantin	223
+Finca del Mar	222
+Cave Kientzheim Kaysersberg-Anne Boecklin	222
+Rubinelli Vajol	222
+Bava	222
+Fattoria dei Pagliaresi	222
+Neyers	221
+Viña Amate	221
+Montinore Estate	221
+Château Carcanieux	221
+Château Pavie Decesse	221
+Conti Capponi-Villa Calcinaia	220
+Altas Quintas	220
+Château Vray Croix de Gay	220
+Corzano e Paterno	220
+Four Virtues	220
+Château Moulinet-Lasserre	220
+Domaine Giraud	220
+Cà Maiol	220
+Château Haut-Goujon	220
+Don Giovanni	220
+Sonata	220
+Cavit	220
+Fratelli Bettini	219
+Château Pontoise Cabarrus	219
+Egervin	219
+Château de Villegeorge	218
+Château Corbin-Michotte	218
+Albert Schweitzer	218
+Lassalle Yves & Fils	218
+Bertrand Ravache	217
+Château Tour Saint-Joseph	217
+Vignobles Chaigne et Fils	217
+Château Saint-Jean	217
+Château de Camarsac	217
+Domaine Heresztyn-Mazzini	217
+Château Langlais	217
+Loredan Gasparini	217
+Scriani	217
+Graffigna	217
+Château Vignelaure	216
+Bracamonte	216
+Skouras	216
+Santa Tresa	216
+Château Beau Soleil	216
+Viniterra	216
+Antichi Poderi Jerzu	215
+Château Cap de Mourlin	215
+Chungará	215
+Hourglass	215
+Château de Maison Neuve	215
+Brown Estate	214
+Podere le Ripi	214
+SIGNÆ	214
+Vecchie Terre di Montefili	214
+Blue Light	214
+Domaine la Fourmone	214
+Château L'Ermitage	214
+Jean-Max Roger	213
+Château Bujan	213
+Geyser Peak	213
+Domaine Pinson	212
+Meridian	212
+Tierra Imperial	212
+Vignobles Chatelier	211
+Karthäuserhof	211
+Henri Meurgey	211
+Guelbenzu	211
+Brusset	210
+Iris Vineyards	210
+Filliatreau	210
+Castoro Cellars	210
+Château Ricardelle	210
+La Tour des Prelats-La Cour des Prelats	210
+Château Le Gardera	210
+Finca La Celia	210
+Domänenweingut Schloss Schönborn-Graf von Schönborn	210
+Villa Cerna	209
+Adega da Covilha	209
+Château de l'Abbaye	209
+Altos del Condor	209
+Agro Batoréu	209
+Boutari	209
+Les Trois Couronnes	209
+Château Beau-Site Haut-Vignoble	209
+Basilium	208
+Peninsula	208
+Château Tour Bel Air	208
+Meridiana Wine Estate	208
+Magistrate	208
+Château Tapie	208
+Heredad de Baroja	207
+Domaine Faury	207
+Corte Fiore	207
+Evening Land	207
+Firestone	207
+Vignerons Catalans	206
+Château Tour Grand Faurie	206
+Chateau de Viaud-Lalande	206
+Allram	205
+Château Cruzeau	205
+Joh. Jos. Christoffel Erben	205
+Rectoral do Umia	205
+Gran Castillo	205
+Sangre y Arena	205
+Domaine de la Vieille Julienne	205
+Château Bellevue de Tayac	205
+Vintage Longbottom	205
+Beyra	205
+JAX Vineyards	205
+Jeromin	204
+Domaine Lejeune	204
+Lodi Estates	204
+Castello di Uzzano	204
+Petit-Figeac	204
+Vinding Montecarrubo	204
+Gardo & Morris	204
+Jean-Pierre Grossot	204
+Villa Monteleone	203
+Château Lassus	203
+Château Haut-Badon	203
+Château Saint-Didier-Parnac	203
+Château Fonrazade	203
+Château Ollieux Romanis	203
+Château Tour Canon	202
+Schiavenza	202
+Thierry Allemand	202
+Thunevin-Calvet	202
+Château Granins Grand-Poujeaux	201
+Corte Ibla	201
+Gundlach Bundschu	201
+Château Trapaud	201
+Dellatorri	200
+Grgić	200
+Ervideira	200
+Château de Beaupré	200
+De Wetshof	200
+Château Cadet-Bon	199
+Barnett	199
+Fitapreta	199
+Domaine du Comte Liger-Belair	199
+Casetta	199
+Patrick Jasmin	198
+Luisa	198
+Cave du Château des Loges	198
+Château La Fleur Plaisance	198
+Roberto Sarotto	198
+Antologia	198
+Château Grand Moulinet	198
+Pulcino	197
+El Molino	197
+Château Prieurs de la Commanderie	197
+Domaine du Colombier	196
+Buried Cane	196
+Punset	196
+Vivaldi	196
+Calatrasi	196
+Laborie	196
+Monte Cascas	196
+Sigillo	195
+Château Castegens	195
+Marques del Romeral	195
+Tamborini Carlo	195
+Prophecy	195
+Philippe Livera (Domaine des Tilleuls)	194
+Château Franc Jaugue Blanc	194
+Vinarija Dingač	194
+Patrice Rion	194
+Domaine Trintignant	194
+Las Flores	193
+Chamisal Vineyards	193
+Pazo de Villarei	193
+Digioia-Royer	193
+Roussellet	193
+Xplorador	192
+Château La Croix St-Vincent	192
+Jaro	192
+Black Opal	192
+Left Field	192
+Château La Bourrée	192
+Bodegas Latúe	192
+Bosca	192
+Laurel Glen	192
+Château Mauvinon	192
+Poggio Lauro	192
+Plaimont	191
+Frank Cornelissen	191
+Cavic	191
+Domaine Potinet-Ampeau	191
+Gialdi	191
+Dalwhinnie	191
+Ordóñez	190
+Collina del Sole	190
+Villabella	190
+Vinattieri Ticinesi	189
+Château l'Hospitalet	189
+Ferriño	189
+Château Tour Calon	189
+Lazy Creek	189
+Synthesis	189
+Tooth & Nail	189
+Jérémie Huchet	189
+Clos Les Lunelles	189
+Vigilance	189
+La Tunella	189
+Casa do Cónego	188
+Château d'Estoublon	188
+Château Durand-Laplagne	188
+Château Lafargue	188
+Château La Prade	188
+Château Saint Georges Côte Pavie	188
+Republique	188
+Domaine Masson-Blondelet	188
+Willy Gisselbrecht	188
+Château Guillou	187
+Château Vieux Clos St. Emilion	187
+Mogen David	187
+Château de Barbe	187
+Gaetano d’Aquino	187
+Château de la Roulerie	187
+Paladin	187
+Ernst Triebaumer	186
+Schröder & Schÿler	186
+Piemaggio	186
+Bera	186
+Bryant Family Vineyard	186
+Vieux Château Palon	186
+Saltram	186
+Bénédicte et Stéphane Tissot	185
+Conti Buneis	185
+Paul Autard	185
+Кубань-Вино (Kuban-Vino)	184
+Le Marognole	184
+J.A. Ferret	184
+Hazaña	184
+Château de Tiregand	184
+Vale Perdido	184
+Candido	184
+Château Lavillotte	184
+La Châsse	184
+Christophe Mestre	184
+Bollinger	183
+Château La Clotte	183
+Skyside	183
+Château d'Eyran	183
+Boisseaux-Estivant	183
+Clos Erasmus	183
+San Donatino	182
+Camus Père & Fils	182
+Trambusti	182
+Palatium	182
+Today's Special	182
+Bocquillon	182
+Domaine Palon	182
+Pfeiffer Wines	182
+Landskroon	181
+Château Grand Baril	181
+Domaine Chevalier	181
+Château de Roques	181
+Washington Hills	181
+Domaine d'Elise	181
+Château Arnauld	181
+Castellani Michele	181
+McNab Ridge	181
+Château German	181
+René Barbier	181
+Château Sigognac	181
+Bishop's Leap	181
+Château Colombier-Monpelou	180
+Colgin	180
+Robert-Denogent	180
+Sur Andino	180
+Jean Macle	180
+Señorío de Nava	179
+Château La Rousseliere	179
+Château Larroque	179
+All Out	179
+Château Bertineau St.-Vincent	179
+La Giareta	179
+Zlatan Otok	179
+Domaine Forey Père & Fils	179
+Moio	179
+Prieler	178
+Château Caroline	178
+Clos Magne Figeac	178
+Rollin Père et Fils	178
+Jean-Claude Debeaune	178
+Domaine François Gerbet	177
+Château Giscon	177
+Château Briot	177
+Pinino	177
+Château Petit Clos du Roy	177
+Pertinace	177
+Château Les Gravières	176
+Tezza	176
+Château Lalaudey-Château Pomeys	176
+Château Haut Baradieu	176
+Henri Rebourseau	176
+Château Notton	176
+Encostas d'Alqueva	176
+Clavel	176
+Marchese Montefusco	176
+Costers del Sió	176
+Château Croix de Labrie	175
+Domaine L. Chatelain	175
+Conti di Numio	175
+Cantina di Castelnuovo del Garda	175
+Duca di Castelmonte	175
+Cantina Sociale di Gattinara	174
+Château La Chapelle Despagnet	174
+Tenuta Margon	174
+Château le Peuy-Saincrit	174
+Château La Croix St-André	174
+Palacio de Arganza	174
+Franzen	174
+Les Terradieres	174
+Château Saint Corbian	174
+Château Clos de Sarpe	174
+Lamy-Pillot	174
+Canals & Nubiola	173
+Stambolovo	173
+Twomey	173
+Caves Primavera	173
+Christian Bonfils	173
+Mas de Libian	173
+Hubert Lamy	172
+Château des Moines	172
+Middelvlei	172
+Castillo Perelada	172
+Von Strasser	172
+Château Lagrézette	172
+Tinto Negro (TintoNegro)	172
+Domaine Duffour	172
+Ruggeri Corsini	172
+Gorgo	171
+Château de Clotte	171
+Château Bourseau	171
+Château La Bastienne	171
+Château Guitignan	171
+Bellavista	171
+Van Zellers	171
+CARM	170
+Chateau Tour du Roc	170
+Hugo Casanova	170
+Magpie Estate	170
+Monticello Vineyards	169
+Rex Goliath	169
+Château du Trignon	169
+Schiopetto	169
+Lucien Barrot & Fils	169
+Pfaffenheim	169
+Château Franc Pipeau	169
+Château du Moulin	169
+Crash Wines	169
+Bodega Toneles	168
+Angove	168
+Terme	168
+Château Franc-Cardinal	168
+Denis Durantou	168
+The Winemaker's Secret Barrels	167
+Jean-Michel Giboulot	167
+Bodegas Pascual	167
+Vidal	167
+Domaine du Grand Ormeau	167
+Clos Trimoulet	167
+Santiago 1541	167
+Bixby Creek Bridge	167
+Cabo da Roca	166
+Domaine Dubreuil-Fontaine	166
+Masseria Supreno	166
+Château La Croix de Pez	166
+Domaine la Soumade	166
+Château La Fagnouse	165
+Château Lagrange de Lescure	165
+Belcrème de Lys	165
+Château Balac	165
+Quinta da Pedra Alta	165
+Château Pontet Plaisance	165
+Domaine Michel Voarick	165
+Château au Pont de Guitres	164
+Château Lafleur-Vauzelle	164
+Château Haut-Tayac	163
+Château La Fleur de Gay	163
+Domaine René Leclerc	163
+Coli	163
+Jorge Rubio	163
+Fattoria Aldobrandesca	163
+Château Cossieu-Coutelin	163
+Haut des Terres Blanches	162
+The Beach House	162
+Georges Noëllat	162
+Podere la Casa Rossa	162
+Domaine Parize	162
+Collovray & Terrier	162
+Château Le Chêne	162
+Louis Moreau	162
+Château Mauvesin	161
+KEO	161
+Dupont-Tisserandot	161
+Domaine René Monnier	160
+Parker Coonawarra Estate	160
+Señorío de Libano	160
+Morgenster Estate	160
+Château Marquis de Mons	160
+Château d'Arche	159
+Fratelli Ferrero	159
+Trionfo	159
+Duca del Frassino	159
+Calina	159
+Le Bèrne	159
+Montostoli	158
+Taltarni	158
+Vincent Lumpp	158
+Domaine de la Vougeraie	158
+Château Fonguillon	158
+Weinbauer	157
+Rivetti Massimo	157
+El Bravo	157
+Lezíria	157
+Château Grandis	157
+Domaine Billard-Gonnet	157
+Vila de Frades	157
+Château Rochers Bellevue	157
+Domaine Bruno Clavelier	156
+Huaso de Sauzal	156
+Domaine Bertagna	156
+Vagnoni	156
+Château La Rose Perruchon	156
+1725	156
+Emrich-Schönleber	155
+Casa Galiotto	155
+Cantina di Montefiascone	155
+Murfatlar	155
+Domaine Jean-Pierre Gaussen	155
+Villiera	155
+G. Roblot Marchand & Fils	155
+Château Picampeau	155
+Château Hortevie	154
+Feudi Salentini	154
+Château Fonpiqueyre	154
+Five Wise	154
+Tenute del Cerro	154
+Maison Bouey	153
+The Divining Rod	153
+Beyerskloof	153
+Saddleback	153
+Château La Croix Sainte-Anne	153
+Château Moulin du Cadet	153
+Ata Rangi	152
+Château Saint Estèphe	152
+Château Petit Faurie de Soutard	152
+Conte d'Attimis Maniago	151
+Tra Produttori	151
+Château Vieux Moulin	151
+Domaine du Galet des Papes	151
+Knipser	151
+Tenta	150
+Château Petit Mangot	150
+Terra Franca	150
+Cabutto-Tenuta La Volta	150
+Lucky Duck	150
+Clos des Nobles	150
+La Cave d'Irouleguy	149
+Château Haut-Lavignere	149
+Loxarel	149
+Stonyfell	149
+Manuel Correia	149
+Château Tour de Perrigal	149
+Château Moulin de Pez	148
+La Mondotte	148
+White Rock Vineyards	148
+Château l'Etoile de Viaud	148
+Château Haut-Bernat	148
+Pierre Morey	148
+Chateau Haut-Mazieres	148
+Boulaouane	147
+Château La Tulipe de La Garde	147
+Chateau Haut-Plantade	147
+Bodegas Illana	147
+Peter Mertes Tradition	147
+De Bortoli	147
+Orlando	147
+Berthet Bondet	146
+Sumerton	146
+Château Fourcas Loubaney	146
+Voerzio Martini	146
+Domaine Buisson Battault	146
+Cordier	146
+Château d'Arlay	146
+Philippe e Casteja	145
+Casa de la Ermita	145
+Quinta da Alameda	145
+Leonard Kreusch	145
+Sassoregale	145
+Antonio Bernardino Paulo da Silva	144
+Domaine Pochon	144
+Saladini Pilastri	144
+Château Tour Haut Vignoble	144
+Domaine Jean Deydier & Fils	144
+Leon Perdigal	144
+William Fèvre Chile	144
+Middle Sister	144
+Rui Roboredo Madeira	144
+La Wines-Lucien Arkas Bağları	144
+Château La Gravière Grand Poujeaux	143
+Tipici dell'Aretino	143
+Pontual	143
+Vignerons de Puisseguin Lussac Saint-Emilion	143
+Domaine Machard de Gramont	143
+Domaine Frédéric Esmonin	143
+Fermasa	143
+Gérard Mugneret	143
+Grace Family Vineyards	143
+Richard Maniere	143
+Château Tessendey	142
+Sevenhill	142
+Camille Giroud	142
+Château Cabrières	142
+Dupont-Fahn	142
+Jean-René Germanier	142
+Villa Russiz	142
+Angelo Righetti	142
+Lacheteau	142
+Domaine Chante Perdrix	142
+Château Castaing	142
+Maurice Écard	141
+Jean Durup	141
+Château de Rayne Vigneau	141
+Bodegas Yuntero	141
+Oro Italiano	141
+Quinta do Conde	141
+Laird Family Estate	140
+Delaforce	140
+Marc Colin	140
+Château La Fleur Milon	140
+Robert’s Rock	140
+Domaine Chatelain	140
+Qupé	140
+Henri Prudhon & Fils	140
+Domaine Le Sang des Cailloux	140
+Château le Bourdieu Vertheuil	140
+Realm	139
+Château Jacques Noir	139
+White Oak	139
+Quinta da Falorca	139
+Château de Dracy	139
+Château Gandoy-Perrinat	139
+Pagliaia	139
+Château Canteloudette	138
+Château La Tour Haut-Brion	138
+Château Suau	138
+Hospices de Nuits	138
+Château de Marchesseau	138
+Château de Respide	138
+Bodegas la Tonada	138
+Fattoria Paradiso	138
+Weingut Reinhold Haart	137
+Domaine Jeannin Naltet	137
+Martinez Bujanda	137
+Le Regge	137
+Bernard Faurie	137
+Karl H. Johner	137
+McBride Sisters	136
+Vignobles Lavaud	136
+Virely-Rougeot	136
+Maculan	135
+Henri Richard	135
+Abad	135
+Erwin Sabathi	135
+Expert Club	134
+Château Merville	134
+Château Pomys	134
+Monte Giove	133
+Château Moulin Pey-Labrie	133
+Château Morin	133
+Kiona Vineyards	133
+Rotem & Mounir Saouma	133
+Château Haut-Bages Averous	133
+Cantine Volpi	133
+Foucard & Fils	132
+Agramont	132
+Oristan	132
+Saint Gayan	132
+Fattoria Zerbina	132
+Houghton	132
+Maison Henri Boillot	131
+Manischewitz	131
+Château Bélingard	131
+Julia James	131
+Château Grand Martinet	130
+Joseph Burrier (Château de Beauregard)	130
+Château la Fleur Saint Georges	130
+Château de Haux	129
+Hafner	129
+Château La Borie	129
+Château Haut Corbin	129
+Château Petrus Gaïa	129
+Château de Villambis	129
+Château La Croix-Toulifaut	129
+Dr. Heger	129
+Paul Barre	129
+Sanford	128
+Senorio de Ondas	128
+Ballot Millot	128
+Côtes d'Olt	127
+Les Armes de Chablis	127
+Morey-Coffinet	127
+Château Rochebelle	127
+Domaine Belle	127
+Tenuta Pozzopalo	127
+Mount Langi Ghiran	127
+Le Boncie	127
+Philippe Foreau	127
+Domaine Wardy	126
+Tiflis Wine Cellar	126
+Domaine du Roucas de St Pierre	126
+P.Lex	125
+Albert Boxler	125
+Kante	125
+Château Tour Bellevue	125
+Château Belle Garde	125
+Gordo	124
+Château Faurie de Souchard	124
+Corte Aleardi	124
+Bodegas Carrau	124
+Quinta da Sequeira	124
+Chanin	124
+Château Barthez	124
+Château Belair Saint-Georges	123
+Jean-Marc Morey	123
+Philippe et Vincent Lécheneaut	123
+Domaine Jean-Marc Bouley	123
+Domaine Barmès Buecher	123
+Renwood	123
+Château Vieux Coutelin	123
+Infinitus	123
+Tre Donne	123
+Daniel Roland et Gisele Vernay	123
+Tierras y Viñas	123
+Domaine Bryczek	123
+Domaine Chapelle et Fils	122
+Augey	122
+Château Redortier	122
+Château Magence	122
+Château Le Prieuré	122
+Château Magondeau	121
+Château Vieux Faurie	121
+Terre Molin	121
+John's Blend	120
+Domaine Humbert Frères	120
+Château Martinens	120
+Castelvero	120
+L'Union des Vignerons des Côtes du Rhône	120
+Château Hennebelle	120
+Château Joly	120
+Seigneur de Lauris	120
+Robert Ampeau et Fils	120
+Château La Garde	120
+Château Real-Caillou	120
+Primitivo Quiles	120
+Jean & Pierre Testuz	120
+Domaine de Viaud	119
+Domaine Jaboulet Vercherre	119
+Fattoria I Veroni	119
+Jean-Luc & Eric Burguet	119
+Château Noble Meynard	119
+Dr. Konstantin Frank	119
+La Cave de Bennwihr	119
+Château Fontarney	118
+Clos Sainte-Anne	118
+Tobia	118
+Barros	118
+Quinta do Pinto	118
+Château Sablard du Grand Moine	118
+Azienda Agraria Santa Lucia	118
+Domaine de la Poulette	118
+Veliterna Vini	118
+Clos Malverne	117
+Château Cordeillan-Bages	117
+Domaine du Clos des Fées	117
+Tierra del Fuego	117
+Domaine Les Chenevières	117
+Immich-Batterieberg	117
+Château du Cayrou	117
+Schloss Saarstein	117
+S.C. Guillard	117
+Didier Fornerol	116
+Château Haut Cloquet	116
+Bernard Delagrange	116
+Stonestreet	116
+Mastro Binelli	116
+Leyendas de Familia	116
+Château Picourneau	116
+Domaine Ragot	116
+Ginestet	116
+Château La Clare	115
+Château Clos Saint Martin	115
+Les Vaux Sereins	115
+Paul Pernot	115
+Château La Rose Brana	115
+Le Vigne di San Pietro	115
+Bodegas El Cidacos	115
+Carranc	114
+Château Donissan	114
+Bernhard Huber	114
+Hill-Smith Estate	114
+Alasia	114
+Chartron et Trébuchet	114
+Château Robin	114
+Gray Monk	113
+Del Dotto	113
+Campante	113
+Château Puy Castera	113
+Domaine Parigot	113
+Château La Renaissance	113
+Marcel Langoux	112
+Govone	112
+Irvine	112
+Marks & Spencer	112
+Château du Perier	112
+Château Liouner	112
+Château Elisee	111
+Fantesca Estate	111
+Dorigo	111
+Cape Heights	111
+Luciana Cordioli	111
+Pierre Naigeon	111
+Chateau Paradis Casseuil	110
+Château Seguineau	110
+Salomon Undhof	110
+Naia	110
+San Silvestro	110
+Portal del Alto	110
+Rolet	110
+Kathryn Kennedy Winery	110
+Château La Fleur du Casse	110
+Château la Croix de Berny	110
+Château des Maures	110
+Provins	110
+Domaine des Escaravailles	110
+Jean Luc Joillot	109
+Stefano Farina	109
+Sinuelo	109
+Château le Meynieu	109
+Château des Tourelles	109
+Quinta de Santiago	109
+Quintus	109
+Domaine du Pavillon	109
+Seppelt	109
+Quinta de S. José	109
+Domaine Maume	109
+Domaine François Buffet	109
+Château Finet	109
+Château Plincette	109
+Finca Manzanos	109
+Domaine Glantenay	108
+Moccagatta	108
+Château Bechereau	108
+Il Teatro del Vino	108
+Peter & Peter	108
+Domaine Odoul-Coquard	108
+Château La Mouline	108
+Château Haut-Milon	107
+Malat	107
+Keystone	107
+Comte de Terrefont	107
+Domaine Dominique Gallois	107
+Domaine Bachelet-Ramonet	107
+Von Othegraven	106
+Iron Horse	106
+Château La Chapelle des Tours	106
+Château Les Combes	106
+Michael Frank	106
+Château Capitoul	106
+Château Baron Bellevue	106
+Château de Cardaillan	106
+Reine Pédauque	106
+Marqués de Carrión	106
+Karl Erbes	106
+Gruber Röschitz	105
+Il Palazzone	105
+Sine Qua Non	105
+Robert Weil	105
+Victor Berard	105
+Domaine Bernard Moreau et Fils	105
+Truchard	105
+Roc de Puisseguin	105
+Château Vieux Chaigneau	105
+Dopff au Moulin	105
+François Millet	105
+Padelletti	105
+Vadiaperti	104
+Two Vines	104
+Albert Morot	104
+Anta Banderas	104
+Alain Roux & Fils	104
+Château d'Etroyes	104
+Domaine Boyar	104
+Zema	103
+Château Vieux Ferrand	103
+Coste-Caumartin	103
+Izway	103
+Château Sainte-Marie	103
+Châteaux Destieux Veyrac	103
+Granja União	103
+Domaine Philippe Naddef	103
+Domaine de la Roncière	103
+Alzinger	102
+Casale Daviddi	102
+Château Haut Coteau	102
+Flavio Roddolo	101
+Château Chambert-Marbuzet	101
+Jean Marc Pillot	101
+Marc Sorrel	101
+Château Monplaisir	101
+Finca La Escondida	101
+Château les Petites Ranga	101
+Domaine Jomain Fréres	101
+Groszer Wein	101
+Fattoria San Francesco	101
+Château Capet	101
+Santa Lucia	100
+Musso	100
+Cascina Garitina	100
+Dr. Pauly-Bergweiler	100
+Château La Violette	100
+Château Vaugelas	100
+Marsaglia	100
+Château Tour Saint-Pierre	100
+Costaripa	99
+Vieux Château Gachet	99
+Domaine Christian Clerget	99
+Château Croix de Tourans	99
+Torre de Oña	99
+Jakob Jung	99
+Calcareous	99
+Vieux Château Champs de Mars	99
+Robert Young Estate Winery	99
+Château Le Jurat	99
+Domeco de Jarauta	98
+Château Barateau	98
+Conte Ottavio Piccolomini	98
+Longridge Winery	98
+Borgo Scopeto	98
+Gagnard-Delagrange	98
+Château Sainte-Jeanne	98
+Era dos Ventos	98
+Cave des Vins de Sancerre	98
+Villa Montes	98
+Château Petit Bert	98
+Redbank	98
+Château La Vaisinerie	98
+Joel Gott	98
+Corino	97
+Il Poggiolo Rodolfo Cosimi	97
+Huguenot	97
+Château Graulet	97
+Bodegas Esmeralda	97
+Forest Hill	97
+Trinitas	97
+Convento Viejo	97
+Château Cabannieux	96
+Le Casalte	96
+Château Perthus	96
+L.Thienpont	95
+Dard & Ribo	95
+Manzone	95
+Korta	95
+Prinz von Hessen	95
+Azienda Biologica Basile	95
+Seavey Vineyard	95
+Chevaux des Girondins	95
+Sean Thackrey	95
+GWF Frankenwein	94
+Château Tour Saint-André	94
+René Lequin-Colin	94
+Quinta de Arcossó	94
+Marchand Grillot	94
+Château Blagnac	94
+Château Fougas	94
+Château Camino Salva	93
+Château Lestage-Darquier	93
+Château Bonneau	93
+Bodegas Ismael Arroyo	93
+Durigan	93
+Azienda Agricola Pugnane	93
+Fonte do Ouro	93
+Château Grand Launay	93
+La Sorte	92
+Château Tour du Roc Milon	92
+Niel Joubert	92
+Canção	92
+Abreu	92
+Domaine de Rabusas	92
+Cheval Quancard	92
+Rooiberg Winery	92
+Craiglee	91
+Balgownie Estate	91
+Palacio de Anglona	91
+Domaine de Pierredon	91
+Flor del Montgó	91
+Domaine de la Laidiere	91
+Livernano	91
+Badia al Colle	91
+Bernard Munier	91
+Viúva Gomes	90
+Cassal del Ronco	90
+Le Pin	90
+The Wine Society	90
+Joel Taluau	90
+Allende	90
+Domaine Follin-Arbelet	90
+Blaauwklippen	90
+Moillard-Grivot	89
+Château Myon de l'Enclos	89
+Prada a Tope-Palacio de Canedo	89
+Marqués de Arviza	88
+Cascina del Colle	88
+Tbilvino	88
+Daniel Bocquenet	88
+Château les Chaumes	88
+Château Aillan	88
+I Mandorli	88
+Gusto	88
+Château Mouchet	88
+Feudo di San Maurizio	88
+Château Saint Louis	87
+Château Beausejour de Bonalgue	87
+Terre di Puglia	87
+Château Violette	87
+Machiavelli	87
+Château Caruel	87
+Remoriquet	87
+Seignouret Frères	87
+Balgera	87
+Fattoria Le Fonti	87
+Goldschmidt Vineyards	86
+Frias	86
+Château Haut Macô	86
+Vignobles Meyre	86
+Bric Cenciurio	86
+Domaine de Granajolo	86
+Grigolli	86
+Windsor	86
+CDL	86
+Jean Geiler	85
+Piazzo	85
+Stanley	85
+Tomich Wines	85
+Cuvaison	85
+Walnut Crest	85
+Sogrape	85
+Umathum	85
+Lava Cap	85
+Château de Pitray	84
+Château Les Grandes Murailles	84
+Ànima Negra	84
+Seven of Hearts	84
+Gehringer Brothers	84
+Bitouzet-Prieur	84
+Bader-Mimeur	84
+Galadino	83
+Benedetti La Villa	83
+Domaines Philippe Porcheron	83
+Laurent Roumier	83
+Château La Truffe	83
+Jean-Marc Millot	83
+Curious Beasts	83
+Château de Clairefont	83
+Robert Giraud	83
+Pietro Nera	82
+Pascal Janvier	82
+Clos Saint Andre	82
+Cave du Château de Chenas	82
+Domaine Voarick	82
+Bruno Desaunay Bissey	82
+Collezione Privata	81
+Château Belle-Brise	81
+La Francette	81
+Les Brebis	81
+Ardhuy	81
+Domaine Sauger	81
+The Winery of Good Hope	81
+Domaine Chapuis	81
+Domaine Poulleau Père & Fils	80
+Vio Giobatta-BioVio	80
+Black Cellar	80
+Chateau Jonc-Blanc	80
+Domaine des Baguiers	80
+Terres des Templiers	79
+Podere Laila	79
+Mas d'en Blei	79
+Leonardi	79
+Caillot	79
+Mönchhof	79
+Knappstein	79
+Château Vray Canon Boyer	78
+Paul Ginglinger	78
+Porta Palo	78
+Château Plantey de la Croix	78
+Zerioli	78
+Château Constant Lesquireau	77
+Domaine de Val Frais	77
+Terreno	77
+Domaine Marchand Freres	77
+Tenute Orestiadi	77
+Casa Roscoli	77
+Château Saint Pierre	77
+Avide	77
+Domaine Gallet	77
+Château Montgrand-Milon	76
+Del Rei	76
+Château Haut-Guiraud	76
+Monteleiva	76
+Arbor Mist	76
+Dezzani	76
+Pietro di Campo	76
+Château Reignac de Tizac	76
+Coursodon	76
+Fort Ross	76
+Quantum	75
+Weingut Carl Ehrhard	75
+Freiherr Langwerth von Simmern	75
+Stella Rosa	75
+Weingut Bernhard Jakoby	75
+De Tarczal	75
+Santos Jorge	75
+Château Yveline	75
+Berry Bros & Rudd	75
+Domaine Lucien Jacob	75
+San Fabiano	75
+Jacques Cacheux	75
+Zanlorenzi	74
+Domaine Pavelot	74
+Château Les Eyquems	74
+Charles Noëllat	74
+Domaine François Xavier de Vaux	74
+Château Ruat Petit Poujeaux	74
+Zebra View	74
+Giuseppe Lonardi	73
+Château Terrey-Gros-Cailloux	73
+Ca' Rome'	73
+J. Coudray-Bizot	73
+Thomas Fogarty	73
+Château de Roquebrune	73
+Fassati	72
+Château Bel Air	72
+Bortoluzzi	72
+Boissac	72
+Val Duna	72
+Clos de Bigos	72
+Domaine des Souchons	72
+Château Sémeillan Mazeau	72
+Château La Bécasse	72
+Kongsgaard	72
+Montevannos	72
+Weninger	72
+Maison Roche de Bellene	72
+Villa Sandi	72
+Gilles Burguet	71
+Russo	71
+Brothers In Arms	71
+Meroni	71
+Biniagual	71
+DFJ	71
+Chateau Grand Traverse	70
+Château Faget	70
+Domaine Vocoret et Fils	70
+Cantina del Redi	70
+Anayón	70
+Cantina Kurtatsch	70
+Jean François Ganevat	69
+Domaine Louis Remy	69
+Dom Minval	69
+Vignobles Poitou Operie	69
+Château Mazeris Bellevue	69
+Cantina Rotaliana	69
+Château Monlot	69
+Château Junayme	68
+Monna Lisa	68
+Domaine de Bablut	68
+Château Lalande Villeneuve	68
+Yves Boyer-Martenot	67
+Pietro Rinaldi	67
+Fornaro	67
+Jean Féry & Fils	67
+Lawson's	67
+Piat Pére & Fils	67
+Miali	67
+Château Tour Coutelin	67
+F. Verpoix	67
+Château Toumalin	67
+Lignier-Michelot	66
+Georis	66
+Weingut H. Schwaab-Kiebel	66
+Domaine Jean Monnier & Fils	66
+Del Grano	66
+Vinarstvi Novosedly Vinofol	66
+Michel & Stéphane Ogier	66
+Eyzaguirre	65
+Château de Chorey	65
+David Fulton	65
+Château de Juliénas	65
+Farella Vineyards	65
+Pighin	65
+Château La Croix Davids	65
+Irache	65
+Sorrentino	65
+Antichello	65
+Domaine Rossignol-Février Père & Fils	65
+Domaine du Burignon-Château Rochefort	65
+Neudorf Vineyards	64
+Château La Rosé Saint-Germain	64
+Prats Freres	64
+Château Tour Rigaud	64
+Viapiana	64
+Carmel (יקבי כרמל)	64
+Domaine de la Perriere	64
+Château Milon la Grave	63
+Pierre Marey & Fils	63
+Château Cassagne Haut-Canon	63
+Borgo del Tiglio	63
+Recchia	63
+Comera	63
+Fre	63
+JJ Hahn	62
+Summers	62
+Optima	62
+Auvigue	62
+Henri Clerc	62
+Château La Caminade	62
+Weingut Netzl	62
+Vignobles Dupeyrat & Fils	62
+Tatachilla	62
+Château Lartaude	62
+Château Teysson	61
+Domaine Regis Rossignol Changarnier	61
+Saó del Coster	61
+Yoichi Wine	61
+Bella Sera	61
+Antica Fattoria	61
+Müller-Catoir	61
+Patrick Miolane	61
+Bouzereau-Gruère	61
+Howard Park	61
+Tenuta di Fiorano	61
+Domaine Bart	61
+Joseph Castan	60
+Telteca	60
+Christophe	60
+Domaine Françoise André	60
+Terre di Gioia	60
+Antonutti	60
+Jérôme Chézeaux	60
+Gaudio-Bricco Mondalino	60
+Domaine Chanzy	60
+Señorío de la Serna	60
+Domaine des Pasquiers	59
+Daniel Moine-Hudelot	59
+Chateau La Commanderie de Mazeyres	59
+Fortant	58
+Fabbrica di San Martino	58
+Château Marsauda-Bellevue	58
+Antawara	58
+Château Pontet Chappaz	58
+Cantina Parroco	58
+Domaine Jean-Michel Gaunoux	58
+La Sala	58
+Domaine Venot	57
+Domaine Jean Guiton	57
+Château Fougeailles	57
+Roccolo del Lago	57
+Domaine de Cabasse	57
+Château de Mille	57
+Sangrato	57
+Quinta do Olivardo	57
+Viña Enterizo	57
+Grans-Fassian	57
+Domaine Jean Collet	57
+Château Tour Pomys	57
+Sylla Sebaste	57
+Laurent Perrachon	57
+Condesa de Leganza	56
+Domaine de Rochebin	56
+Fratelli Rabino	56
+Domaine Mussy	56
+I Tre Cipressi	56
+Pierre Ponnelle	56
+Zehnthof Luckert	56
+Domaine Prunier	56
+Marchetti	56
+Le Colline dei Filari	56
+Laposa	56
+Manosso	56
+Domaine Cornu	56
+Château Nozieres	56
+Milani	56
+Königschaffhausen-Kiechlinsbergen	56
+La Castellina Fondazione Fojanini	56
+Les Fils Maye	55
+Château Hostens-Picant	55
+Colle Picchioni	55
+A. Fougeres & Cie	55
+Clos d'Audhuy	55
+Azienda Agricola Poggio Salvi	55
+Château Bergat	55
+Château Haut Guillebot	55
+Domaine Gabriel et Paul Jouard	55
+Kendermanns	55
+Ruppertsberger	54
+Château Lambert	54
+Domaine Chantal Lescure	54
+Château Ferrand Lartigue	54
+Michel & Marc Rossignol	54
+Comte de Lauze	54
+Coffele	54
+Palazzo Vecchio	54
+Bott Frères	54
+Château Langoiran	54
+Alexis Lichine	53
+Henri Magnien	53
+Château Constellation	53
+Château Sainte-Luce Bellevue	53
+Château Grand Bossuet	53
+Domaine Fernand & Laurent Pillot	53
+La Croix Laroque	53
+Nicolas Fayolle	53
+Leth	53
+Château Lille-Coutelin	52
+Lenz Winery	52
+Wantirna Estate	52
+Château des Cerfs	52
+Kayra	52
+Domaine Jean Charles Rion	52
+Casa del Valle	52
+Pascal Clément	52
+August Kesseler	52
+Red Hill Estate	51
+Paradiso di Cacuci	51
+Theo Cattin & Fils	51
+Château Canon Chaigneau	51
+La Casella	51
+Artemis Karamolegos	51
+Château le Couvent	51
+Paul Achs	51
+Eberle	51
+Château Puy Guilhem	51
+Familie Bauer	51
+Château Bellerive	51
+Michel Picard	51
+Baden Trocken	51
+Château Bellevue-Mondotte	51
+Bertrand Machard de Gramont	51
+Crane Lake	50
+Nicolas Theuriet	50
+Château Saint-Nicolas	50
+Château Jeandeman	50
+Château Tour du Roch-Milon	50
+Château de Cayx	50
+Quinta de Alderiz	50
+Cave de Cairanne	50
+Ormonde	50
+Château de Comigne	50
+Château Grand Renouil	50
+Amador Cellars	50
+Hinojosa	50
+Maria Reumann	50
+Castello di Selvole	50
+Comtesse Bernard de Chérisey	50
+Vieil Armand	49
+Navarro Vineyards	49
+Weingut Fritz Kupelwieser	49
+Castillo de Vinaral	49
+Michel Gay & Fils	49
+Villa Iñigo	49
+St. Hubertus Estate Winery	49
+Tulloch	49
+Forchir	49
+Maison Roux-Oulié	49
+Tomasella	49
+Château Belloy	49
+Domaine Roumagnac	48
+Michel Frantz	48
+Domaine Sylvain Langoureau	48
+Gere Tamás	48
+Jean Claude Bachelet & Fils	48
+La Source	48
+Domaine Jean Chauvenet	48
+Cameron	48
+Wm. Harrison	48
+Château La Valade	48
+Lauriers	48
+Molinari Carlo	48
+Neil Ellis	47
+Pierre Luneau-Papin	47
+Domaine Bois de Boursan	47
+Christian et Pascal Menaut-La Jolivode	47
+Ramirez de la Piscina	47
+Montvac	47
+Chateau Marbuzet	47
+Fort du Mirail	47
+Nicolas Dabudyk-Château Lariveau	47
+Maurice Gavignet	47
+Berceo	46
+Serve	46
+Günther Steinmetz	46
+Trénel	46
+Krauthaker	46
+La Fornace	46
+Dolle	46
+Domaine de la Commanderie-Philippe Pain	46
+Domaine de la Tour du Bon	46
+Pinna Fidelis	46
+Botte Buona	46
+Confradeiro	46
+Baron de Roche	46
+Pikes	46
+Domaine Philippe Delesvaux	46
+Catafesta	46
+Württembergische Weingärtner-Zentralgenossenschaft e. G.	46
+Domaine la Casenove	45
+Viña Marichalar	45
+Château Les Graves de Lavaud	45
+Castello di Luzzano	45
+Winkler-Hermaden	45
+Allendorf	45
+Takahata	45
+Tavridia	45
+Château Damase	45
+Xavier Flouret	45
+Domaine Naudet	45
+Les Jonqueyres	45
+Henri & Philippe Jouan	45
+Domaine Prieuré Roch	45
+Château de Pasquette	45
+Ermacora	45
+André Lurton	45
+Cornarea	45
+Villa Ponte	44
+Tiberio	44
+Château Bayens	44
+Château Rocher Bellevue Figeac	44
+Marcio Lopes	44
+Ferruccio Sgubin	44
+Château Champ de Nayat	44
+Weingut Loacker	44
+Arthur Barolet & Fils	44
+Château du Hureau	44
+Bertrand Ambroise	44
+Bürgerspital	44
+Château Canterane	44
+Sylvain Gaudron	44
+Château de Môle	44
+Morgadío	44
+Château Baudare	44
+Laballe	44
+Domaine du Moulin de Dusenbach	44
+Umberto Fiore	44
+Pipers Brook Vineyard	43
+Château Lachesnaye	43
+Château Moulins-Listrac	43
+Falchini	43
+Pietraserena	43
+Barone Cornacchia	43
+Swartland Winery	43
+Viña Arazu	43
+Château Gravereau	43
+Balestri Valda	43
+Achaia Clauss	43
+Château Tuileries de Lansac	43
+Terre d'Agala	43
+Evesham Wood	42
+Baracco Pietro	42
+Weingut Robert König	42
+Château du Cèdre	42
+Campo Burgo	42
+Château Saint Marc	42
+Les Caves des Hautes-Cotes	42
+Château La Fleur Chevrol	42
+Domaine Cauvard	42
+Bischöfliche Weingüter Trier	42
+Domaine Maldant Pauvelot	42
+Precision	42
+Poggio Tosco	42
+Château Fleur de Plaisance	42
+René Cacheux	42
+Jean-Louis Moissenet-Bonnard	42
+L'Avenir	42
+Savanha	42
+Chapelle de Novilis	41
+Le Vigne di Cà Nova	41
+Vigne di San Donaci	41
+Kelham	41
+Jurtschitsch	41
+Cingles Blaus	41
+Château Segonnes	41
+Greenock Creek	41
+Sandalford	41
+Azienda Agricola Signano	41
+Domaine Marcilhac	40
+Domaine de la Tour-Domaine Joblot Fabrice	40
+Domaine Cady	40
+Château Le Piat	40
+Bodegas Breton Criadores	40
+Hagafen	40
+Frederic Mochel	40
+Bethany	40
+Hope Estate	40
+Domaine Nicolas Rossignol	40
+Cardwell Hill	40
+Cantine Cavallotti	40
+Moulin de la Roque	40
+Casa de Saima	39
+Las Campanas	39
+Casata Monticello	39
+Serveau & Fils	39
+Contratto	39
+Domaine de la Citadelle	39
+Gavioli Antica	39
+Domaine Pascal Marthouret	39
+Karlsmühle	39
+Château Peyrolan	39
+Morris of Rutherglen	39
+Corbett Canyon	39
+Domaine de Pouilly	39
+Montellori	39
+Mont'Albano	38
+Château de Prade	38
+Domaine des Coteaux des Travers	38
+Faccin	38
+Château les Hautes Tuileries	38
+Mitchelton	38
+Callabriga	38
+Pinto	38
+Casata Merge	38
+Albert Boillot	38
+Château Turcan	38
+Bestheim	38
+Château La Tuilerie du Puy	38
+Berthenet	38
+Domaine Henri Delagrange et Fils	37
+Turley	37
+Clos des Moines	37
+Mill Creek	37
+Domaine Drevon	37
+Pavillons de Saint Estephe	37
+Château Moulin des Laurets	37
+Chris Ringland	37
+Vignobles Dorneau	37
+Château de Viaud	37
+Château de Blissa	37
+Gatt Wines	37
+Juris	36
+Château Durand Moreau	36
+Rothbury Estate	36
+Jean Tardy & Fils	36
+Popphof	36
+Castillo de Enériz	36
+Château Gontier	36
+Château de Malle	36
+Plou & Fils	36
+Rabl	36
+Vaucher Père & Fils	36
+Schmitges	35
+Monkey Puzzle	35
+Domaine Pillot et Laurent Romain-Jean Michel et Laurent Pillot	35
+Messina Hof	35
+Mathilde Lafleur	35
+Château Canon de Brem	35
+Nantucket Vineyard	35
+Cantine Ronco	35
+Château Duplessy	35
+Redbank Winery	35
+Concilio	35
+Grimaldi Luigino	34
+Rubissow	34
+Skolni Statek Melnik	34
+Domaine Jean Defaix	34
+Château Chaigneau	34
+Huber-Verdereau	34
+Bodegas Victorianas	34
+Castel Huniade	34
+Heller Estate	33
+Château du Bois de Tau	33
+Jean du Barre	33
+Château La Vicomtesse	33
+Hunt Country Vineyards	33
+Château Grand Jour	33
+Château Laval	33
+Bounty Hunter	33
+Domaine Vaquer	33
+Guy & Yvan Dufouleur	33
+Curlewis	32
+Vereinigte Hospitien	32
+York Creek	32
+Husch Vineyards	32
+Domaine Monier Perréol	32
+Ecco Domani	32
+Clos des Religieuses	32
+Kalin Cellars	32
+Yugo	32
+Château Houissant	32
+Regnery	32
+Santa Cruz Mountain Vineyard	32
+Huntington Estate	32
+Château de Montahut	32
+Antico Portico	32
+Château d'Aurilhac	32
+Chaddsford	31
+Domaine Courbet	31
+Cooper-Garrod	31
+Villa Romanti	31
+Plozza	31
+Château Moulis	31
+Vignobles Coureau	31
+Tiefenbrunner	31
+La Calonica	31
+Cru de l'Hopital	31
+Ruskin Ridge	31
+Comoara Pivniței	31
+Château Plat Faisant	30
+Erste+Neue	30
+Norman	30
+Château de Monrecueil	30
+Domaine de la Ronceray	30
+Ticket to Chile	30
+Francois Gay et Fils	30
+Erzherzog Johann	30
+Ratzenberger	30
+Johannishof	30
+Cantina Tamburino Sardo Azienda Agricola	30
+Philippe Bouzereau-Chateau de Citeaux	30
+Château Grave La Cour	30
+Antonio Ferrari	29
+Château l'Ermitage de la Garenne	29
+Colutta	29
+Echelon	29
+Domaine Alain Michelot	29
+Diel	29
+Rijckaert	29
+Paul Reitz	29
+Kellermeister Wines	29
+Château Beau Site de la Tour	29
+Francois Carillon	29
+Guéfen	29
+Jean-Baptiste Béjot	29
+Byington Vineyard and Winery	28
+Terra Burdigala	28
+Boschetto di Montiano	28
+Botobolar	28
+Weingut Toni Jost	28
+The Reserve Bank	28
+Villa Mt. Eden	28
+Francois Martenot	28
+GWC	28
+La Genestière	28
+Thierry Laffay	28
+Domaine Prunier Damy	28
+Jean Becker	28
+Château de Lidonne	28
+Domaine Seilly	28
+Comte de Moucheron	28
+Domaine Castaing	27
+Chateau Belbec	27
+Torraccia di Presura	27
+Château Dufilhot	27
+Château Les Pradines	27
+Chateau les Hauts de Plaisance	27
+Lingenfelder	27
+Drouet Fréres	27
+Prince Florent de Mérode	27
+Rappenhof	27
+Geneletti	27
+Château La Valliere	27
+Château Haut de Domy	27
+Domaine de Bellair	27
+Château Mansenoble	27
+Oakville Ranch	27
+Château Haut-Gardere	26
+Domaine Martin Noblet	26
+Sant'Agnese	26
+Domaine Schoffit	26
+Barrel Oak	26
+Château Perreau Bel Air	26
+Château de Lugagnac	26
+Sepp Moser	26
+Nittnaus	26
+Domaine Chevillon-Chezeaux	26
+Louis Lequin	26
+Benoit Lafont	26
+Château Champs de Lalande	26
+Château la Fontaine	25
+Château Grand-Duroc-Milon	25
+Maison Forestier	25
+Cameron Hughes	25
+Chateau La Fleur Canon	25
+Château des Demoiselles	25
+Shenandoah Vineyards	25
+Diwald	25
+Château de Fesles	25
+Brookland Valley	25
+Massucco	25
+Portal d'Azenha	24
+Joseph Freudenreich	24
+Tenuta Baiocchi	24
+Zähringer	24
+Quevedo	24
+Jean-Claude Regnaudot	24
+La Crotta di Vegneron	24
+Domaine d'Auvenay (Lalou Bize Leroy)	24
+Domaine des Géléries	24
+Christopher Creek	24
+Château Bois des Graves	24
+Bernard Bronner	24
+Château Cadillac-Branda	23
+Sylvain Bzikot	23
+Château Moly	23
+Casa Brasil Nardini	23
+Koblevo (Коблево)	23
+Weingut Paulinshof	23
+Charles Viénot	23
+Linaje	23
+Antichi Massari di San Grato	23
+Senorio d'Vale	23
+Domaine Delarche	23
+Marguerite Carillon	23
+Alba Vineyard	23
+Château les Templiers	23
+Borghi Fioriti	22
+Château Moulin de Saint Vincent	22
+Juhász	22
+Château Renard	22
+Château La Clusière	22
+Biltmore	22
+Domaine Estelle du Rocan	22
+Valentin Bianchi	22
+Piazza Paolo Angelo	22
+Pircas Negras	22
+La Sclusa	22
+Villa Aurora	22
+Domaine d'Orfeuilles	22
+Villa Spinosa	22
+Mileştii Mici	22
+Moselschild	22
+Christoffel-Berres	21
+California Spring	21
+Chateau Curé-Bon	21
+Domaine Jean Gros	21
+Château Grand Tayac	21
+Ludwig	21
+Chateau Yaldara-1847	21
+Joseph Swan Vineyards	21
+Antico Fuoco	21
+Château Labatut	21
+Prince Poniatowski	20
+Château Jean Voisin	20
+Rio Mendoza	20
+Château des Trois Chardons	20
+Château Petit Fombrauge	20
+Guasti Clemente	20
+Château Saint Vincent	20
+Domaine Castagnier	20
+Château Grand Rigaud	20
+Hothum	20
+Mezzogiorno	20
+Christian Confuron	20
+Canova	20
+Spalletti	20
+Domaine Fabien Coche (Domaine Coche-Bizouard)	20
+Bertrand Capdevigne	19
+Virgin Hills	19
+Lemon Creek	19
+Gerard Peirazeau & Fils	19
+Dessilani Luigi e Figlio	19
+Cruz de Hierro	19
+Pavillon des Charmes	19
+Louis Violland	19
+Stéphane Brocard-Closerie des Alisiers	19
+Château Canon-Moueix	19
+G.H. Mumm	19
+Josef Valihrach	19
+Terra do Vinho	19
+Château Berthenon	19
+J. Lebegue	19
+Moraga Estate	18
+Domäne Müller	18
+Dominique Mugneret	18
+Weingut Dr Leimbrock-C Schmidt	18
+Château Lamarche Canon	18
+Domaine Arnoux Pére & Fils	18
+Casal Pilozzo	18
+Willm	18
+Domaine Charles Allexant	18
+RedHeads	18
+Château Beauferan	18
+Les Corioles	17
+Finca de Zalameña	17
+Château Peychaud	17
+Cobenzl	17
+Pope Valley	17
+André Tempé-Domaine du Meywihr	17
+Prairie Berry	17
+Senorio del Bierzo	17
+Dufouleur Père & Fils	17
+Domaine des Aubuisieres-Bernard Fouquet	17
+Materne Haegelin	17
+Fonte della Vigna	17
+Domaine Lolicé	17
+Cascina Rossa	17
+Domaine de la Galopiere	17
+Tudal Family	16
+deLorimier	16
+Longview Vineyard	16
+Haut Marquis	16
+La Buxynoise	16
+Domaine Fleurot Larose	16
+Regal	16
+Henri Montagny	16
+Pindar Vineyards	16
+Henri Jayer	16
+Bayle-Carreau	16
+Aubert Lefas	16
+Domaine Jean Goulley & Fils	16
+André Ziltener	15
+Picaraza	15
+C.H.Berres	15
+Paul Beaudet	15
+Terre di Nano	15
+Brusina Brandler	15
+Tulocay	15
+Château Philippe-Le-Hardi	15
+Langtry Estate	15
+Caveau des Byards	15
+Gutiérrez de la Vega	14
+Ferrari	14
+Ringenbach	14
+JP	14
+Domaines Delon	14
+Tiffán's	14
+Volker Schwaab	14
+Château Ligondras	14
+G. Vachet Rousseau	14
+Bodegas Príncipe de Viana	14
+Tenuta Cerequio	14
+Alain et Vincent Creusefond	14
+Château Roc de Bernon	14
+Havens	14
+J. Bookwalter	14
+Château Baury	14
+Kranz Junk	13
+Sommer	13
+Mont Marçal	13
+Domenico Fraccaroli	13
+Mount Avoca	13
+K Martini & Sohn	13
+Le Vinali	13
+Seguin-Manuel	13
+Vignobles Lalande Moreau	13
+Woodside	13
+Lou Miranda	13
+Palumbo Family	13
+Vini San Nicola	13
+J. Truchot Martin	13
+Heritage	13
+Gioiello Estate	13
+Jean-Marie Strubbler	13
+Niebaum Coppola	13
+Domaine René Engel	12
+Domaine Saint-Sébaste	12
+Domaine La Berangeraie	12
+Château Saint Pierre Sevaistre	12
+Acacia	12
+Domaine du Mas Blanc	12
+Alto Vintage	12
+Antonini Ceresa	12
+Preston Farm & Winery	12
+Château Franquet Grand Poujeax	12
+Domaine Lebreuil	12
+Domaine Desmures	12
+Livingston Moffett	12
+Château Crusquet de Lagarcie	12
+Emile Chandesais	12
+Château de Labourgade	12
+Albert Seltz	12
+Good Harbor	12
+Karly Winery	12
+Château Bouzy La Marechale	11
+Jost Vineyards	11
+Lucien Muzard & Fils	11
+Armentia y Madrazo	11
+Casa Vinicola Cortese-Selectvini	11
+Laleure Piot	11
+Obiz	11
+Domaine de la Tour du Bief	11
+Weingut Hoffmann Michael	11
+Maison Champy	11
+Fortino	11
+Clavelier & Fils	11
+Michel Delorme	11
+Jean Pierre Mugneret	11
+Caves de la Muyre	11
+Robller Vineyards	11
+Michel Colin-Deléger et Fils	11
+Bodegas Casa de la Reina	10
+Mestre	10
+Domaine René Bessac	10
+Jacques de Pourquery	10
+Josef Friederich	10
+Château Cambriel	10
+Château Roulet	10
+Georg Mosbacher	9
+Morey-Blanc	9
+Château Segonzac	9
+Santa Barbara Winery	9
+Michel Blouin	9
+Martin Pasler	9
+Fattoria la Loggia	9
+Cantine Minini	9
+Domaine Ramonet-Prudhon	9
+Castillo de Mureva	9
+Vignaioli del Tortonese	9
+Château Lalande de Gravelongue	9
+Heinrich Mayer	9
+Berticot	9
+Kazayak Vin	9
+Hanappier Peyrelongue	9
+Navisa	9
+Henri Laroche	9
+Château Gaillardet	9
+El Espigon	8
+Château Duplessis Fabre	8
+Chatter Creek	8
+Viña Hermosa	8
+Miguel A. Aguado Zazo	8
+Theo Engel	8
+Hubert Moret	8
+Domaine de Mirail	8
+Hanging Rock Winery	8
+Domaine François et Julien Pinon	8
+Maldonado	8
+Marchese Villadoria	8
+J. Vandermeulen Decanniere	8
+Staatliche Weinbaudomäne Oppenheim	8
+A. Chamvermeil	8
+Marynissen Estates	8
+Krug'scher Hof	8
+Pascal Jolivet	7
+JF Falkenburg	7
+Mountain Valley	7
+Pierre Bouzereau-Emonin	7
+Lourensford	7
+Vinícola Guaravera	7
+Louis Blanc	7
+Michel-Schlumberger	7
+Woodlands	7
+Stone Bluff Cellars	7
+Catherine Battault	7
+Cantina d'Angelo	6
+Verget	6
+Adrian et Diego Mathier	6
+Louis Bernard	6
+Cornaianum	6
+Domaine Rougeot	6
+Gouailhardou	6
+McPherson	6
+De Zoete Inval	6
+A Pernin Rossin	6
+Auffray	6
+Calliga	6
+Bernard Morey	5
+Miolo-Conde de Foucauld	5
+Domaine Pico-Race	5
+Jean Soleil	5
+Domaine des Aspes	5
+Fratelli Cella	5
+Altes Schlösschen	5
+Pavillon des Connetables	5
+Siben	5
+Lazzari	5
+Sauk-Dere	5
+Balkan Crest	5
+Domaine de Rully Saint-Michel	5
+Long Vineyards	5
+Abel	5
+Les Blanches Fleurs	5
+Weingut Am Rosenberg	5
+De Lorenzi	5
+Château de Montpatey	5
+White Cottage Ranch	4
+Le Chai de la Chapelle	4
+Cocci Grifoni	4
+Vinos de León	4
+Château Haut Bernon	4
+Diamond Valley	4
+Freyburger	4
+Domaine Henry Lamarche	4
+Henri de Villamont	4
+Domain Sakar	4
+Coron Père & Fils	4
+Château La Plante	4
+Traguardo	4
+Dott G. Damilano	4
+Tapada do Chiques	4
+Moondah Brook	4
+Jaffelin	4
+Château Roubaud	4
+La Maison Rouget	3
+Château Couvent des Cordeliers	3
+Adega Collina	3
+Pierre Plouzeau	3
+S.Zibio	3
+Cave Berthaudin	3
+Dorrien	3
+Fratelli Minuto	3
+Pacheco Ranch	3
+Dr. Zenzen	3
+Les Celliers des Terres de France	3
+Château Peybonhomme	3
+L. Rosenheim & Fils	3
+Real Rache	3
+Château Peyredoulle	3
+Bertrand de Marcellus	3
+Whitcraft	2
+Château la Salle de Poujeaux	2
+CHANDON Brazil	2
+Manière-Noirot	2
+Braun Nierstein	2
+Van Volxem	2
+Château Lamothe de Haux	2
+Jean Boillot & Fils	2
+Château-Chalon	2
+Château de Caillavet	2
+Henri Moroni	2
+Enologica Valtellinese	2
+Château Cassevert	2
+Francone	2
+Stone Creek	2
+A. de Luze	1
+Château Haut-Franquet	1
+Paul de Ville	1
+Château de Puisseguin	1
+Michelot Buisson	1
