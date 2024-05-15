@@ -1,0 +1,1261 @@
+                                                                        coef    std err          t     P>|t|     [0.025     0.975]
+0                                                          const      3.8498      0.025    154.912  0.000***      3.801      3.899
+1                                      C(Type, Helmert)[H.White]     -0.0525      0.003    -19.012  0.000***     -0.058     -0.047
+2                                     C(Acidity, Helmert)[H.Low]      0.0311      0.007      4.245  0.000***      0.017      0.045
+3                                  C(Acidity, Helmert)[H.Medium]      0.0245      0.003      7.371  0.000***      0.018      0.031
+4                               C(Body, Helmert)[H.Light-bodied]     -0.0870      0.006    -15.414  0.000***     -0.098     -0.076
+5                              C(Body, Helmert)[H.Medium-bodied]      0.0067      0.002      2.808   0.005**      0.002      0.011
+6                           C(Body, Helmert)[H.Very full-bodied]      0.0520      0.002     25.010  0.000***      0.048      0.056
+7                          C(Body, Helmert)[H.Very light-bodied]      0.0037      0.024      0.155     0.877     -0.043      0.051
+8                            C(Label, Helmert)[H.19 Crimes 2009]      0.0139      0.184      0.075     0.940     -0.347      0.374
+9                            C(Label, Helmert)[H.19 Crimes 2010]      0.0182      0.076      0.240     0.811     -0.131      0.167
+10                           C(Label, Helmert)[H.19 Crimes 2011]     -0.0146      0.044     -0.331     0.740     -0.101      0.072
+11                           C(Label, Helmert)[H.19 Crimes 2012]     -0.0158      0.036     -0.436     0.663     -0.087      0.055
+12                           C(Label, Helmert)[H.19 Crimes 2013]     -0.0223      0.026     -0.864     0.388     -0.073      0.028
+13                           C(Label, Helmert)[H.19 Crimes 2014]     -0.0123      0.022     -0.559     0.576     -0.055      0.031
+14                           C(Label, Helmert)[H.19 Crimes 2015]      0.0368      0.018      2.100    0.036*      0.002      0.071
+15                           C(Label, Helmert)[H.19 Crimes 2016]     -0.0064      0.016     -0.389     0.697     -0.039      0.026
+16                           C(Label, Helmert)[H.19 Crimes 2017]     -0.0002      0.013     -0.016     0.987     -0.027      0.026
+17                           C(Label, Helmert)[H.19 Crimes 2018]     -0.0021      0.012     -0.182     0.856     -0.025      0.021
+18                           C(Label, Helmert)[H.19 Crimes 2019]      0.0031      0.011      0.290     0.772     -0.018      0.024
+19                           C(Label, Helmert)[H.19 Crimes 2020]     -0.0021      0.010     -0.204     0.838     -0.022      0.018
+20                           C(Label, Helmert)[H.19 Crimes 2021]      0.0209      0.012      1.761     0.078     -0.002      0.044
+21                              C(Label, Helmert)[H.Alamos 2008]     -0.0078      0.008     -1.024     0.306     -0.023      0.007
+22                              C(Label, Helmert)[H.Alamos 2009]     -0.0208      0.007     -3.020   0.003**     -0.034     -0.007
+23                              C(Label, Helmert)[H.Alamos 2010]     -0.0096      0.006     -1.567     0.117     -0.022      0.002
+24                              C(Label, Helmert)[H.Alamos 2011]     -0.0089      0.006     -1.620     0.105     -0.020      0.002
+25                              C(Label, Helmert)[H.Alamos 2012]     -0.0172      0.005     -3.305   0.001**     -0.027     -0.007
+26                              C(Label, Helmert)[H.Alamos 2013]     -0.0094      0.005     -1.919     0.055     -0.019      0.000
+27                              C(Label, Helmert)[H.Alamos 2014]     -0.0067      0.005     -1.427     0.154     -0.016      0.002
+28                              C(Label, Helmert)[H.Alamos 2015]     -0.0008      0.005     -0.179     0.858     -0.010      0.008
+29                              C(Label, Helmert)[H.Alamos 2016]     -0.0019      0.004     -0.438     0.662     -0.011      0.007
+30                              C(Label, Helmert)[H.Alamos 2017]      0.0002      0.004      0.042     0.967     -0.008      0.009
+31                              C(Label, Helmert)[H.Alamos 2018]      0.0050      0.004      1.235     0.217     -0.003      0.013
+32                              C(Label, Helmert)[H.Alamos 2019]     -0.0057      0.004     -1.505     0.132     -0.013      0.002
+33                              C(Label, Helmert)[H.Alamos 2020]      0.0050      0.004      1.268     0.205     -0.003      0.013
+34                              C(Label, Helmert)[H.Alamos 2021]      0.0001      0.007      0.020     0.984     -0.013      0.014
+35                     C(Label, Helmert)[H.Angélica Zapata 2008]      0.0202      0.007      3.050   0.002**      0.007      0.033
+36                     C(Label, Helmert)[H.Angélica Zapata 2009]      0.0190      0.006      2.981   0.003**      0.007      0.032
+37                     C(Label, Helmert)[H.Angélica Zapata 2010]      0.0180      0.006      3.189   0.001**      0.007      0.029
+38                     C(Label, Helmert)[H.Angélica Zapata 2011]      0.0195      0.005      3.563  0.000***      0.009      0.030
+39                     C(Label, Helmert)[H.Angélica Zapata 2012]      0.0157      0.006      2.707   0.007**      0.004      0.027
+40                     C(Label, Helmert)[H.Angélica Zapata 2013]      0.0170      0.005      3.554  0.000***      0.008      0.026
+41                     C(Label, Helmert)[H.Angélica Zapata 2014]      0.0142      0.005      2.840   0.005**      0.004      0.024
+42                     C(Label, Helmert)[H.Angélica Zapata 2015]      0.0192      0.005      3.952  0.000***      0.010      0.029
+43                     C(Label, Helmert)[H.Angélica Zapata 2016]      0.0159      0.005      3.073   0.002**      0.006      0.026
+44                     C(Label, Helmert)[H.Angélica Zapata 2017]      0.0076      0.005      1.515     0.130     -0.002      0.018
+45                     C(Label, Helmert)[H.Angélica Zapata 2018]      0.0129      0.004      2.870   0.004**      0.004      0.022
+46                     C(Label, Helmert)[H.Angélica Zapata 2019]      0.0112      0.005      2.330    0.020*      0.002      0.021
+47                     C(Label, Helmert)[H.Angélica Zapata 2020]      0.0155      0.004      3.627  0.000***      0.007      0.024
+48                            C(Label, Helmert)[H.Antinori 2008]      0.0081      0.002      3.795  0.000***      0.004      0.012
+49                            C(Label, Helmert)[H.Antinori 2009]      0.0087      0.002      3.844  0.000***      0.004      0.013
+50                            C(Label, Helmert)[H.Antinori 2010]      0.0050      0.002      2.310    0.021*      0.001      0.009
+51                            C(Label, Helmert)[H.Antinori 2011]      0.0054      0.002      2.608   0.009**      0.001      0.009
+52                            C(Label, Helmert)[H.Antinori 2012]      0.0045      0.002      2.225    0.026*      0.001      0.008
+53                            C(Label, Helmert)[H.Antinori 2013]      0.0042      0.002      2.171    0.030*      0.000      0.008
+54                            C(Label, Helmert)[H.Antinori 2014]      0.0026      0.002      1.322     0.186     -0.001      0.006
+55                            C(Label, Helmert)[H.Antinori 2015]      0.0049      0.002      2.634   0.008**      0.001      0.009
+56                            C(Label, Helmert)[H.Antinori 2016]      0.0050      0.002      2.667   0.008**      0.001      0.009
+57                            C(Label, Helmert)[H.Antinori 2017]      0.0046      0.002      2.409    0.016*      0.001      0.008
+58                            C(Label, Helmert)[H.Antinori 2018]      0.0042      0.002      2.360    0.018*      0.001      0.008
+59                            C(Label, Helmert)[H.Antinori 2019]      0.0045      0.002      2.568    0.010*      0.001      0.008
+60                            C(Label, Helmert)[H.Antinori 2020]      0.0041      0.002      2.396    0.017*      0.001      0.007
+61                             C(Label, Helmert)[H.Apothic 2008]     -0.0025      0.004     -0.549     0.583     -0.011      0.006
+62                             C(Label, Helmert)[H.Apothic 2009]     -0.0037      0.004     -0.970     0.332     -0.011      0.004
+63                             C(Label, Helmert)[H.Apothic 2010]     -0.0072      0.003     -2.150    0.032*     -0.014     -0.001
+64                             C(Label, Helmert)[H.Apothic 2011]     -0.0060      0.003     -1.838     0.066     -0.013      0.000
+65                             C(Label, Helmert)[H.Apothic 2012]     -0.0094      0.003     -3.174   0.002**     -0.015     -0.004
+66                             C(Label, Helmert)[H.Apothic 2013]     -0.0041      0.003     -1.276     0.202     -0.010      0.002
+67                             C(Label, Helmert)[H.Apothic 2014]     -0.0046      0.003     -1.609     0.108     -0.010      0.001
+68                             C(Label, Helmert)[H.Apothic 2015]     -0.0036      0.003     -1.286     0.199     -0.009      0.002
+69                             C(Label, Helmert)[H.Apothic 2016]     -0.0036      0.003     -1.290     0.197     -0.009      0.002
+70                             C(Label, Helmert)[H.Apothic 2017]     -0.0028      0.003     -1.043     0.297     -0.008      0.002
+71                             C(Label, Helmert)[H.Apothic 2018]     -0.0030      0.003     -1.108     0.268     -0.008      0.002
+72                             C(Label, Helmert)[H.Apothic 2019]     -0.0027      0.003     -1.011     0.312     -0.008      0.003
+73                             C(Label, Helmert)[H.Apothic 2020]     -0.0040      0.003     -1.417     0.156     -0.010      0.002
+74                            C(Label, Helmert)[H.Bacalhôa 2008]     -0.0023      0.001     -1.846     0.065     -0.005      0.000
+75                            C(Label, Helmert)[H.Bacalhôa 2009]     -0.0044      0.001     -3.332   0.001**     -0.007     -0.002
+76                            C(Label, Helmert)[H.Bacalhôa 2010]     -0.0041      0.001     -3.463   0.001**     -0.006     -0.002
+77                            C(Label, Helmert)[H.Bacalhôa 2011]     -0.0038      0.001     -3.205   0.001**     -0.006     -0.001
+78                            C(Label, Helmert)[H.Bacalhôa 2012]     -0.0048      0.001     -3.685  0.000***     -0.007     -0.002
+79                            C(Label, Helmert)[H.Bacalhôa 2013]     -0.0027      0.001     -2.476    0.013*     -0.005     -0.001
+80                            C(Label, Helmert)[H.Bacalhôa 2014]     -0.0006      0.001     -0.607     0.544     -0.003      0.001
+81                            C(Label, Helmert)[H.Bacalhôa 2015]     -0.0009      0.001     -0.848     0.397     -0.003      0.001
+82                            C(Label, Helmert)[H.Bacalhôa 2016]     -0.0017      0.001     -1.747     0.081     -0.004      0.000
+83                            C(Label, Helmert)[H.Bacalhôa 2017]     -0.0012      0.001     -1.144     0.253     -0.003      0.001
+84                            C(Label, Helmert)[H.Bacalhôa 2018]     -0.0016      0.001     -1.635     0.102     -0.004      0.000
+85                            C(Label, Helmert)[H.Bacalhôa 2019]      0.0007      0.001      0.695     0.487     -0.001      0.003
+86                            C(Label, Helmert)[H.Bacalhôa 2020]     -0.0009      0.001     -0.899     0.369     -0.003      0.001
+87                               C(Label, Helmert)[H.Banfi 2008]     -0.0003      0.001     -0.268     0.789     -0.002      0.002
+88                               C(Label, Helmert)[H.Banfi 2009]     -0.0022      0.001     -2.146    0.032*     -0.004     -0.000
+89                               C(Label, Helmert)[H.Banfi 2010]     -0.0022      0.001     -2.284    0.022*     -0.004     -0.000
+90                               C(Label, Helmert)[H.Banfi 2011]     -0.0015      0.001     -1.566     0.117     -0.003      0.000
+91                               C(Label, Helmert)[H.Banfi 2012]     -0.0016      0.001     -1.720     0.085     -0.003      0.000
+92                               C(Label, Helmert)[H.Banfi 2013]     -0.0007      0.001     -0.777     0.437     -0.002      0.001
+93                               C(Label, Helmert)[H.Banfi 2014]     -0.0021      0.001     -2.340    0.019*     -0.004     -0.000
+94                               C(Label, Helmert)[H.Banfi 2015]     -0.0015      0.001     -1.737     0.082     -0.003      0.000
+95                               C(Label, Helmert)[H.Banfi 2016]     -0.0013      0.001     -1.637     0.102     -0.003      0.000
+96                               C(Label, Helmert)[H.Banfi 2017]     -0.0003      0.001     -0.410     0.682     -0.002      0.001
+97                               C(Label, Helmert)[H.Banfi 2018]     -0.0010      0.001     -1.156     0.248     -0.003      0.001
+98                               C(Label, Helmert)[H.Banfi 2019]     -0.0012      0.001     -1.395     0.163     -0.003      0.000
+99                               C(Label, Helmert)[H.Banfi 2020]     -0.0010      0.001     -1.108     0.268     -0.003      0.001
+100                              C(Label, Helmert)[H.Banfi 2021]     -0.0031      0.003     -1.197     0.231     -0.008      0.002
+101                           C(Label, Helmert)[H.Barefoot 2008]     -0.0063      0.001     -4.838  0.000***     -0.009     -0.004
+102                           C(Label, Helmert)[H.Barefoot 2009]     -0.0053      0.001     -3.914  0.000***     -0.008     -0.003
+103                           C(Label, Helmert)[H.Barefoot 2010]     -0.0056      0.001     -4.438  0.000***     -0.008     -0.003
+104                           C(Label, Helmert)[H.Barefoot 2011]     -0.0059      0.001     -4.700  0.000***     -0.008     -0.003
+105                           C(Label, Helmert)[H.Barefoot 2012]     -0.0058      0.001     -4.644  0.000***     -0.008     -0.003
+106                           C(Label, Helmert)[H.Barefoot 2013]     -0.0067      0.001     -5.391  0.000***     -0.009     -0.004
+107                           C(Label, Helmert)[H.Barefoot 2014]     -0.0039      0.001     -3.228   0.001**     -0.006     -0.002
+108                           C(Label, Helmert)[H.Barefoot 2015]     -0.0064      0.001     -5.327  0.000***     -0.009     -0.004
+109                           C(Label, Helmert)[H.Barefoot 2016]     -0.0036      0.001     -3.022   0.003**     -0.006     -0.001
+110                           C(Label, Helmert)[H.Barefoot 2017]     -0.0031      0.001     -2.493    0.013*     -0.006     -0.001
+111                           C(Label, Helmert)[H.Barefoot 2018]     -0.0034      0.001     -2.855   0.004**     -0.006     -0.001
+112                           C(Label, Helmert)[H.Barefoot 2019]     -0.0038      0.001     -3.157   0.002**     -0.006     -0.001
+113                           C(Label, Helmert)[H.Barefoot 2020]     -0.0035      0.001     -2.934   0.003**     -0.006     -0.001
+114                           C(Label, Helmert)[H.Barefoot 2021]      0.0027      0.003      0.978     0.328     -0.003      0.008
+115                       C(Label, Helmert)[H.Baron de Ley 2008]     -0.0006      0.001     -0.512     0.609     -0.003      0.002
+116                       C(Label, Helmert)[H.Baron de Ley 2009]      0.0002      0.001      0.193     0.847     -0.002      0.002
+117                       C(Label, Helmert)[H.Baron de Ley 2010]      0.0008      0.001      0.774     0.439     -0.001      0.003
+118                       C(Label, Helmert)[H.Baron de Ley 2011]      0.0009      0.001      0.906     0.365     -0.001      0.003
+119                       C(Label, Helmert)[H.Baron de Ley 2012]     -0.0002      0.001     -0.230     0.818     -0.002      0.002
+120                       C(Label, Helmert)[H.Baron de Ley 2013]  -9.844e-05      0.001     -0.091     0.927     -0.002      0.002
+121                       C(Label, Helmert)[H.Baron de Ley 2014]      0.0011      0.001      1.093     0.275     -0.001      0.003
+122                       C(Label, Helmert)[H.Baron de Ley 2015]      0.0007      0.001      0.788     0.431     -0.001      0.003
+123                       C(Label, Helmert)[H.Baron de Ley 2016]     -0.0003      0.001     -0.263     0.793     -0.002      0.002
+124                       C(Label, Helmert)[H.Baron de Ley 2017]      0.0009      0.001      0.848     0.397     -0.001      0.003
+125                       C(Label, Helmert)[H.Baron de Ley 2018]   7.008e-05      0.001      0.073     0.942     -0.002      0.002
+126                       C(Label, Helmert)[H.Baron de Ley 2019]      0.0014      0.001      1.431     0.152     -0.001      0.003
+127                       C(Label, Helmert)[H.Baron de Ley 2020]     -0.0001      0.001     -0.135     0.893     -0.002      0.002
+128                       C(Label, Helmert)[H.Baron de Ley 2021]      0.0009      0.003      0.270     0.787     -0.006      0.008
+129                           C(Label, Helmert)[H.Beringer 2008]     -0.0005      0.001     -0.810     0.418     -0.002      0.001
+130                           C(Label, Helmert)[H.Beringer 2009]     -0.0020      0.001     -3.515  0.000***     -0.003     -0.001
+131                           C(Label, Helmert)[H.Beringer 2010]     -0.0011      0.001     -2.165    0.030*     -0.002     -0.000
+132                           C(Label, Helmert)[H.Beringer 2011]     -0.0025      0.001     -4.999  0.000***     -0.004     -0.002
+133                           C(Label, Helmert)[H.Beringer 2012]     -0.0006      0.000     -1.279     0.201     -0.002      0.000
+134                           C(Label, Helmert)[H.Beringer 2013]     -0.0016      0.000     -3.567  0.000***     -0.003     -0.001
+135                           C(Label, Helmert)[H.Beringer 2014]     -0.0011      0.001     -2.092    0.036*     -0.002  -6.68e-05
+136                           C(Label, Helmert)[H.Beringer 2015]      0.0005      0.001      1.064     0.287     -0.000      0.002
+137                           C(Label, Helmert)[H.Beringer 2016]     -0.0002      0.001     -0.367     0.713     -0.001      0.001
+138                           C(Label, Helmert)[H.Beringer 2017]      0.0004      0.001      0.724     0.469     -0.001      0.001
+139                           C(Label, Helmert)[H.Beringer 2018]     -0.0001      0.001     -0.205     0.838     -0.001      0.001
+140                           C(Label, Helmert)[H.Beringer 2019]     -0.0011      0.001     -2.048    0.041*     -0.002  -4.84e-05
+141                           C(Label, Helmert)[H.Beringer 2020]     -0.0010      0.001     -1.992    0.046*     -0.002  -1.65e-05
+142                           C(Label, Helmert)[H.Beringer 2021]      0.0046      0.003      1.470     0.141     -0.002      0.011
+143             C(Label, Helmert)[H.Bodega Finca Las Moras 2008]     -0.0022      0.001     -3.605  0.000***     -0.003     -0.001
+144             C(Label, Helmert)[H.Bodega Finca Las Moras 2009]     -0.0027      0.001     -5.185  0.000***     -0.004     -0.002
+145             C(Label, Helmert)[H.Bodega Finca Las Moras 2010]     -0.0015      0.000     -3.264   0.001**     -0.002     -0.001
+146             C(Label, Helmert)[H.Bodega Finca Las Moras 2011]     -0.0028      0.000     -6.304  0.000***     -0.004     -0.002
+147             C(Label, Helmert)[H.Bodega Finca Las Moras 2012]     -0.0023      0.000     -5.015  0.000***     -0.003     -0.001
+148             C(Label, Helmert)[H.Bodega Finca Las Moras 2013]     -0.0024      0.000     -5.614  0.000***     -0.003     -0.002
+149             C(Label, Helmert)[H.Bodega Finca Las Moras 2014]     -0.0025      0.000     -5.796  0.000***     -0.003     -0.002
+150             C(Label, Helmert)[H.Bodega Finca Las Moras 2015]     -0.0017      0.000     -4.165  0.000***     -0.003     -0.001
+151             C(Label, Helmert)[H.Bodega Finca Las Moras 2016]     -0.0020      0.000     -5.019  0.000***     -0.003     -0.001
+152             C(Label, Helmert)[H.Bodega Finca Las Moras 2017]     -0.0012      0.000     -3.209   0.001**     -0.002     -0.000
+153             C(Label, Helmert)[H.Bodega Finca Las Moras 2018]     -0.0015      0.000     -4.109  0.000***     -0.002     -0.001
+154             C(Label, Helmert)[H.Bodega Finca Las Moras 2019]     -0.0014      0.000     -3.381   0.001**     -0.002     -0.001
+155             C(Label, Helmert)[H.Bodega Finca Las Moras 2020]     -0.0016      0.000     -3.739  0.000***     -0.002     -0.001
+156             C(Label, Helmert)[H.Bodega Finca Las Moras 2021]     -0.0030      0.001     -4.397  0.000***     -0.004     -0.002
+157                      C(Label, Helmert)[H.Bodega Norton 2008]     -0.0036      0.000     -7.291  0.000***     -0.005     -0.003
+158                      C(Label, Helmert)[H.Bodega Norton 2009]     -0.0030      0.000     -6.643  0.000***     -0.004     -0.002
+159                      C(Label, Helmert)[H.Bodega Norton 2010]     -0.0020      0.000     -4.737  0.000***     -0.003     -0.001
+160                      C(Label, Helmert)[H.Bodega Norton 2011]     -0.0021      0.000     -5.259  0.000***     -0.003     -0.001
+161                      C(Label, Helmert)[H.Bodega Norton 2012]     -0.0025      0.000     -6.074  0.000***     -0.003     -0.002
+162                      C(Label, Helmert)[H.Bodega Norton 2013]     -0.0024      0.000     -5.873  0.000***     -0.003     -0.002
+163                      C(Label, Helmert)[H.Bodega Norton 2014]     -0.0026      0.000     -6.957  0.000***     -0.003     -0.002
+164                      C(Label, Helmert)[H.Bodega Norton 2015]     -0.0018      0.000     -4.642  0.000***     -0.002     -0.001
+165                      C(Label, Helmert)[H.Bodega Norton 2016]     -0.0016      0.000     -3.921  0.000***     -0.002     -0.001
+166                      C(Label, Helmert)[H.Bodega Norton 2017]     -0.0008      0.000     -1.974    0.048*     -0.002  -5.73e-06
+167                      C(Label, Helmert)[H.Bodega Norton 2018]     -0.0009      0.000     -2.190    0.029*     -0.002  -9.05e-05
+168                      C(Label, Helmert)[H.Bodega Norton 2019]     -0.0014      0.000     -3.589  0.000***     -0.002     -0.001
+169                      C(Label, Helmert)[H.Bodega Norton 2020]     -0.0017      0.000     -4.271  0.000***     -0.002     -0.001
+170                      C(Label, Helmert)[H.Bodega Norton 2021]      0.0009      0.001      1.009     0.313     -0.001      0.003
+171                              C(Label, Helmert)[H.Bogle 2008]     -0.0010      0.001     -1.283     0.199     -0.003      0.001
+172                              C(Label, Helmert)[H.Bogle 2009]     -0.0002      0.001     -0.254     0.799     -0.002      0.001
+173                              C(Label, Helmert)[H.Bogle 2010]   8.843e-05      0.001      0.120     0.904     -0.001      0.002
+174                              C(Label, Helmert)[H.Bogle 2011]     -0.0009      0.001     -1.294     0.196     -0.002      0.000
+175                              C(Label, Helmert)[H.Bogle 2012]     -0.0008      0.001     -1.114     0.265     -0.002      0.001
+176                              C(Label, Helmert)[H.Bogle 2013]     -0.0001      0.001     -0.149     0.882     -0.001      0.001
+177                              C(Label, Helmert)[H.Bogle 2014]      0.0003      0.001      0.440     0.660     -0.001      0.002
+178                              C(Label, Helmert)[H.Bogle 2015]      0.0004      0.001      0.547     0.584     -0.001      0.002
+179                              C(Label, Helmert)[H.Bogle 2016]    7.33e-06      0.001      0.011     0.991     -0.001      0.001
+180                              C(Label, Helmert)[H.Bogle 2017]      0.0003      0.001      0.394     0.693     -0.001      0.002
+181                              C(Label, Helmert)[H.Bogle 2018]      0.0007      0.001      1.058     0.290     -0.001      0.002
+182                              C(Label, Helmert)[H.Bogle 2019]      0.0003      0.001      0.496     0.620     -0.001      0.002
+183                              C(Label, Helmert)[H.Bogle 2020]      0.0004      0.001      0.510     0.610     -0.001      0.002
+184                        C(Label, Helmert)[H.Campo Viejo 2008]     -0.0005      0.001     -0.731     0.465     -0.002      0.001
+185                        C(Label, Helmert)[H.Campo Viejo 2009]     -0.0011      0.001     -1.461     0.144     -0.003      0.000
+186                        C(Label, Helmert)[H.Campo Viejo 2010]     -0.0003      0.001     -0.407     0.684     -0.002      0.001
+187                        C(Label, Helmert)[H.Campo Viejo 2011]      0.0002      0.001      0.345     0.730     -0.001      0.002
+188                        C(Label, Helmert)[H.Campo Viejo 2012]     -0.0013      0.001     -2.020    0.043*     -0.003  -3.91e-05
+189                        C(Label, Helmert)[H.Campo Viejo 2013]     -0.0014      0.001     -2.044    0.041*     -0.003   -5.9e-05
+190                        C(Label, Helmert)[H.Campo Viejo 2014]     -0.0007      0.001     -1.087     0.277     -0.002      0.001
+191                        C(Label, Helmert)[H.Campo Viejo 2015]     -0.0012      0.001     -1.826     0.068     -0.003   8.93e-05
+192                        C(Label, Helmert)[H.Campo Viejo 2016]   8.848e-05      0.001      0.134     0.894     -0.001      0.001
+193                        C(Label, Helmert)[H.Campo Viejo 2017]     -0.0004      0.001     -0.546     0.585     -0.002      0.001
+194                        C(Label, Helmert)[H.Campo Viejo 2018]     -0.0004      0.001     -0.620     0.535     -0.002      0.001
+195                        C(Label, Helmert)[H.Campo Viejo 2019]      0.0003      0.001      0.571     0.568     -0.001      0.002
+196                        C(Label, Helmert)[H.Campo Viejo 2020]     -0.0006      0.001     -1.017     0.309     -0.002      0.001
+197                             C(Label, Helmert)[H.Carmen 2008]      0.0003      0.000      0.797     0.426     -0.000      0.001
+198                             C(Label, Helmert)[H.Carmen 2009]      0.0004      0.000      1.133     0.257     -0.000      0.001
+199                             C(Label, Helmert)[H.Carmen 2010]     -0.0002      0.000     -0.554     0.580     -0.001      0.001
+200                             C(Label, Helmert)[H.Carmen 2011]     -0.0006      0.000     -1.665     0.096     -0.001      0.000
+201                             C(Label, Helmert)[H.Carmen 2012]     -0.0002      0.000     -0.503     0.615     -0.001      0.001
+202                             C(Label, Helmert)[H.Carmen 2013]     -0.0003      0.000     -0.837     0.402     -0.001      0.000
+203                             C(Label, Helmert)[H.Carmen 2014]     -0.0005      0.000     -1.610     0.107     -0.001      0.000
+204                             C(Label, Helmert)[H.Carmen 2015]     -0.0002      0.000     -0.730     0.465     -0.001      0.000
+205                             C(Label, Helmert)[H.Carmen 2016]     -0.0007      0.000     -2.134    0.033*     -0.001   -5.6e-05
+206                             C(Label, Helmert)[H.Carmen 2017]     -0.0002      0.000     -0.693     0.488     -0.001      0.000
+207                             C(Label, Helmert)[H.Carmen 2018]     -0.0004      0.000     -1.448     0.148     -0.001      0.000
+208                             C(Label, Helmert)[H.Carmen 2019]     -0.0005      0.000     -1.478     0.139     -0.001      0.000
+209                             C(Label, Helmert)[H.Carmen 2020]     -0.0002      0.000     -0.660     0.509     -0.001      0.000
+210                             C(Label, Helmert)[H.Carmen 2021]      0.0014      0.002      0.683     0.494     -0.003      0.006
+211                            C(Label, Helmert)[H.Cartuxa 2008]      0.0029      0.001      4.863  0.000***      0.002      0.004
+212                            C(Label, Helmert)[H.Cartuxa 2009]      0.0021      0.001      3.607  0.000***      0.001      0.003
+213                            C(Label, Helmert)[H.Cartuxa 2010]      0.0018      0.001      3.089   0.002**      0.001      0.003
+214                            C(Label, Helmert)[H.Cartuxa 2011]      0.0017      0.001      3.033   0.002**      0.001      0.003
+215                            C(Label, Helmert)[H.Cartuxa 2012]      0.0012      0.001      2.240    0.025*      0.000      0.002
+216                            C(Label, Helmert)[H.Cartuxa 2013]      0.0008      0.001      1.560     0.119     -0.000      0.002
+217                            C(Label, Helmert)[H.Cartuxa 2014]      0.0014      0.001      2.771   0.006**      0.000      0.002
+218                            C(Label, Helmert)[H.Cartuxa 2015]      0.0018      0.001      3.556  0.000***      0.001      0.003
+219                            C(Label, Helmert)[H.Cartuxa 2016]      0.0020      0.001      3.789  0.000***      0.001      0.003
+220                            C(Label, Helmert)[H.Cartuxa 2017]      0.0022      0.001      4.189  0.000***      0.001      0.003
+221                            C(Label, Helmert)[H.Cartuxa 2018]      0.0022      0.001      4.372  0.000***      0.001      0.003
+222                            C(Label, Helmert)[H.Cartuxa 2019]      0.0020      0.001      3.935  0.000***      0.001      0.003
+223                            C(Label, Helmert)[H.Cartuxa 2020]      0.0020      0.001      3.987  0.000***      0.001      0.003
+224                   C(Label, Helmert)[H.Casa Ferreirinha 2008]      0.0012      0.001      2.165    0.030*      0.000      0.002
+225                   C(Label, Helmert)[H.Casa Ferreirinha 2009]      0.0011      0.001      2.196    0.028*      0.000      0.002
+226                   C(Label, Helmert)[H.Casa Ferreirinha 2010]      0.0002      0.001      0.376     0.707     -0.001      0.001
+227                   C(Label, Helmert)[H.Casa Ferreirinha 2011]      0.0008      0.000      1.692     0.091     -0.000      0.002
+228                   C(Label, Helmert)[H.Casa Ferreirinha 2012]      0.0008      0.000      1.531     0.126     -0.000      0.002
+229                   C(Label, Helmert)[H.Casa Ferreirinha 2013]      0.0002      0.000      0.490     0.624     -0.001      0.001
+230                   C(Label, Helmert)[H.Casa Ferreirinha 2014]      0.0007      0.000      1.636     0.102     -0.000      0.002
+231                   C(Label, Helmert)[H.Casa Ferreirinha 2015]      0.0017      0.000      3.510  0.000***      0.001      0.003
+232                   C(Label, Helmert)[H.Casa Ferreirinha 2016]      0.0018      0.000      3.884  0.000***      0.001      0.003
+233                   C(Label, Helmert)[H.Casa Ferreirinha 2017]      0.0015      0.001      2.947   0.003**      0.000      0.002
+234                   C(Label, Helmert)[H.Casa Ferreirinha 2018]      0.0010      0.001      1.918     0.055  -2.27e-05      0.002
+235                   C(Label, Helmert)[H.Casa Ferreirinha 2019]      0.0019      0.000      3.995  0.000***      0.001      0.003
+236                   C(Label, Helmert)[H.Casa Ferreirinha 2020]      0.0019      0.000      4.038  0.000***      0.001      0.003
+237                   C(Label, Helmert)[H.Casa Ferreirinha 2021]      0.0022      0.002      1.218     0.223     -0.001      0.006
+238                       C(Label, Helmert)[H.Casa Valduga 2008]     -0.0013      0.000     -3.826  0.000***     -0.002     -0.001
+239                       C(Label, Helmert)[H.Casa Valduga 2009]     -0.0011      0.000     -2.919   0.004**     -0.002     -0.000
+240                       C(Label, Helmert)[H.Casa Valduga 2010]     -0.0008      0.000     -2.393    0.017*     -0.001     -0.000
+241                       C(Label, Helmert)[H.Casa Valduga 2011]     -0.0009      0.000     -3.001   0.003**     -0.001     -0.000
+242                       C(Label, Helmert)[H.Casa Valduga 2012]     -0.0014      0.000     -4.558  0.000***     -0.002     -0.001
+243                       C(Label, Helmert)[H.Casa Valduga 2013]     -0.0006      0.000     -2.038    0.042*     -0.001  -2.44e-05
+244                       C(Label, Helmert)[H.Casa Valduga 2014]     -0.0006      0.000     -2.112    0.035*     -0.001  -4.44e-05
+245                       C(Label, Helmert)[H.Casa Valduga 2015]     -0.0001      0.000     -0.485     0.628     -0.001      0.000
+246                       C(Label, Helmert)[H.Casa Valduga 2016]   9.517e-05      0.000      0.283     0.777     -0.001      0.001
+247                       C(Label, Helmert)[H.Casa Valduga 2017]     -0.0001      0.000     -0.358     0.720     -0.001      0.000
+248                       C(Label, Helmert)[H.Casa Valduga 2018]      0.0004      0.000      1.465     0.143     -0.000      0.001
+249                       C(Label, Helmert)[H.Casa Valduga 2019]     -0.0002      0.000     -0.623     0.534     -0.001      0.000
+250                       C(Label, Helmert)[H.Casa Valduga 2020]      0.0007      0.000      2.474    0.013*      0.000      0.001
+251                       C(Label, Helmert)[H.Casa Valduga 2021]      0.0013      0.000      2.869   0.004**      0.000      0.002
+252               C(Label, Helmert)[H.Casillero del Diablo 2008]     -0.0019      0.000     -4.605  0.000***     -0.003     -0.001
+253               C(Label, Helmert)[H.Casillero del Diablo 2009]     -0.0007      0.000     -1.771     0.077     -0.002    7.9e-05
+254               C(Label, Helmert)[H.Casillero del Diablo 2010]     -0.0004      0.000     -1.191     0.234     -0.001      0.000
+255               C(Label, Helmert)[H.Casillero del Diablo 2011]     -0.0011      0.000     -2.939   0.003**     -0.002     -0.000
+256               C(Label, Helmert)[H.Casillero del Diablo 2012]     -0.0005      0.000     -1.365     0.172     -0.001      0.000
+257               C(Label, Helmert)[H.Casillero del Diablo 2013]     -0.0008      0.000     -2.038    0.042*     -0.001  -2.89e-05
+258               C(Label, Helmert)[H.Casillero del Diablo 2014]     -0.0006      0.000     -1.584     0.113     -0.001      0.000
+259               C(Label, Helmert)[H.Casillero del Diablo 2015]     -0.0004      0.000     -1.247     0.212     -0.001      0.000
+260               C(Label, Helmert)[H.Casillero del Diablo 2016]     -0.0004      0.000     -1.105     0.269     -0.001      0.000
+261               C(Label, Helmert)[H.Casillero del Diablo 2017]     -0.0003      0.000     -0.864     0.388     -0.001      0.000
+262               C(Label, Helmert)[H.Casillero del Diablo 2018]     -0.0003      0.000     -0.977     0.328     -0.001      0.000
+263               C(Label, Helmert)[H.Casillero del Diablo 2019]     -0.0004      0.000     -1.271     0.204     -0.001      0.000
+264               C(Label, Helmert)[H.Casillero del Diablo 2020]     -0.0007      0.000     -2.087    0.037*     -0.001  -4.28e-05
+265               C(Label, Helmert)[H.Casillero del Diablo 2021]     -0.0002      0.001     -0.309     0.757     -0.002      0.001
+266                      C(Label, Helmert)[H.Catena Zapata 2008]      0.0015      0.000      4.362  0.000***      0.001      0.002
+267                      C(Label, Helmert)[H.Catena Zapata 2009]      0.0016      0.000      5.193  0.000***      0.001      0.002
+268                      C(Label, Helmert)[H.Catena Zapata 2010]      0.0014      0.000      4.791  0.000***      0.001      0.002
+269                      C(Label, Helmert)[H.Catena Zapata 2011]      0.0011      0.000      3.878  0.000***      0.001      0.002
+270                      C(Label, Helmert)[H.Catena Zapata 2012]      0.0011      0.000      3.984  0.000***      0.001      0.002
+271                      C(Label, Helmert)[H.Catena Zapata 2013]      0.0012      0.000      4.557  0.000***      0.001      0.002
+272                      C(Label, Helmert)[H.Catena Zapata 2014]      0.0012      0.000      4.602  0.000***      0.001      0.002
+273                      C(Label, Helmert)[H.Catena Zapata 2015]      0.0016      0.000      6.304  0.000***      0.001      0.002
+274                      C(Label, Helmert)[H.Catena Zapata 2016]      0.0016      0.000      6.212  0.000***      0.001      0.002
+275                      C(Label, Helmert)[H.Catena Zapata 2017]      0.0018      0.000      7.186  0.000***      0.001      0.002
+276                      C(Label, Helmert)[H.Catena Zapata 2018]      0.0019      0.000      7.284  0.000***      0.001      0.002
+277                      C(Label, Helmert)[H.Catena Zapata 2019]      0.0013      0.000      4.908  0.000***      0.001      0.002
+278                      C(Label, Helmert)[H.Catena Zapata 2020]      0.0017      0.000      6.043  0.000***      0.001      0.002
+279                      C(Label, Helmert)[H.Catena Zapata 2021]      0.0022      0.001      2.848   0.004**      0.001      0.004
+280                             C(Label, Helmert)[H.Caymus 2008]      0.0018      0.001      2.283    0.022*      0.000      0.003
+281                             C(Label, Helmert)[H.Caymus 2009]      0.0020      0.001      3.158   0.002**      0.001      0.003
+282                             C(Label, Helmert)[H.Caymus 2010]      0.0023      0.001      3.270   0.001**      0.001      0.004
+283                             C(Label, Helmert)[H.Caymus 2011]      0.0023      0.001      3.674  0.000***      0.001      0.004
+284                             C(Label, Helmert)[H.Caymus 2012]      0.0022      0.001      3.514  0.000***      0.001      0.003
+285                             C(Label, Helmert)[H.Caymus 2013]      0.0018      0.001      3.135   0.002**      0.001      0.003
+286                             C(Label, Helmert)[H.Caymus 2014]      0.0019      0.001      3.040   0.002**      0.001      0.003
+287                             C(Label, Helmert)[H.Caymus 2015]      0.0017      0.001      2.827   0.005**      0.001      0.003
+288                             C(Label, Helmert)[H.Caymus 2016]      0.0016      0.001      3.041   0.002**      0.001      0.003
+289                             C(Label, Helmert)[H.Caymus 2017]      0.0013      0.001      2.528    0.011*      0.000      0.002
+290                             C(Label, Helmert)[H.Caymus 2018]      0.0016      0.001      3.106   0.002**      0.001      0.003
+291                             C(Label, Helmert)[H.Caymus 2019]      0.0016      0.001      2.788   0.005**      0.000      0.003
+292                             C(Label, Helmert)[H.Caymus 2020]      0.0017      0.001      2.957   0.003**      0.001      0.003
+293                             C(Label, Helmert)[H.Caymus 2021]   -8.27e-05      0.001     -0.079     0.937     -0.002      0.002
+294              C(Label, Helmert)[H.Chateau Ste. Michelle 2008]      0.0002      0.000      0.705     0.481     -0.000      0.001
+295              C(Label, Helmert)[H.Chateau Ste. Michelle 2009]      0.0002      0.000      0.671     0.502     -0.000      0.001
+296              C(Label, Helmert)[H.Chateau Ste. Michelle 2010]      0.0002      0.000      0.867     0.386     -0.000      0.001
+297              C(Label, Helmert)[H.Chateau Ste. Michelle 2011]      0.0002      0.000      0.644     0.520     -0.000      0.001
+298              C(Label, Helmert)[H.Chateau Ste. Michelle 2012]      0.0006      0.000      2.192    0.028*   5.91e-05      0.001
+299              C(Label, Helmert)[H.Chateau Ste. Michelle 2013]   4.829e-05      0.000      0.185     0.854     -0.000      0.001
+300              C(Label, Helmert)[H.Chateau Ste. Michelle 2014]      0.0002      0.000      0.629     0.529     -0.000      0.001
+301              C(Label, Helmert)[H.Chateau Ste. Michelle 2015]      0.0001      0.000      0.538     0.590     -0.000      0.001
+302              C(Label, Helmert)[H.Chateau Ste. Michelle 2016]      0.0004      0.000      1.706     0.088  -6.28e-05      0.001
+303              C(Label, Helmert)[H.Chateau Ste. Michelle 2017]      0.0004      0.000      1.353     0.176     -0.000      0.001
+304              C(Label, Helmert)[H.Chateau Ste. Michelle 2018]  -1.911e-05      0.000     -0.079     0.937     -0.000      0.000
+305              C(Label, Helmert)[H.Chateau Ste. Michelle 2019]   8.979e-05      0.000      0.345     0.730     -0.000      0.001
+306              C(Label, Helmert)[H.Chateau Ste. Michelle 2020]      0.0001      0.000      0.377     0.706     -0.000      0.001
+307              C(Label, Helmert)[H.Chateau Ste. Michelle 2021]     -0.0016      0.001     -1.622     0.105     -0.004      0.000
+308                      C(Label, Helmert)[H.Concha y Toro 2008]  -7.216e-05      0.000     -0.240     0.810     -0.001      0.001
+309                      C(Label, Helmert)[H.Concha y Toro 2009]     -0.0006      0.000     -2.237    0.025*     -0.001  -7.51e-05
+310                      C(Label, Helmert)[H.Concha y Toro 2010]     -0.0006      0.000     -2.380    0.017*     -0.001     -0.000
+311                      C(Label, Helmert)[H.Concha y Toro 2011]     -0.0005      0.000     -2.184    0.029*     -0.001  -5.29e-05
+312                      C(Label, Helmert)[H.Concha y Toro 2012]     -0.0008      0.000     -3.373   0.001**     -0.001     -0.000
+313                      C(Label, Helmert)[H.Concha y Toro 2013]     -0.0008      0.000     -3.375   0.001**     -0.001     -0.000
+314                      C(Label, Helmert)[H.Concha y Toro 2014]     -0.0012      0.000     -5.339  0.000***     -0.002     -0.001
+315                      C(Label, Helmert)[H.Concha y Toro 2015]     -0.0008      0.000     -3.764  0.000***     -0.001     -0.000
+316                      C(Label, Helmert)[H.Concha y Toro 2016]     -0.0009      0.000     -3.645  0.000***     -0.001     -0.000
+317                      C(Label, Helmert)[H.Concha y Toro 2017]     -0.0010      0.000     -4.265  0.000***     -0.001     -0.001
+318                      C(Label, Helmert)[H.Concha y Toro 2018]     -0.0009      0.000     -3.808  0.000***     -0.001     -0.000
+319                      C(Label, Helmert)[H.Concha y Toro 2019]     -0.0008      0.000     -3.434   0.001**     -0.001     -0.000
+320                      C(Label, Helmert)[H.Concha y Toro 2020]     -0.0010      0.000     -3.964  0.000***     -0.002     -0.001
+321                      C(Label, Helmert)[H.Concha y Toro 2021]     -0.0025      0.001     -4.584  0.000***     -0.004     -0.001
+322                           C(Label, Helmert)[H.Cono Sur 2008]     -0.0009      0.000     -4.588  0.000***     -0.001     -0.001
+323                           C(Label, Helmert)[H.Cono Sur 2009]     -0.0005      0.000     -2.674   0.007**     -0.001     -0.000
+324                           C(Label, Helmert)[H.Cono Sur 2010]     -0.0015      0.000     -7.954  0.000***     -0.002     -0.001
+325                           C(Label, Helmert)[H.Cono Sur 2011]     -0.0015      0.000     -8.451  0.000***     -0.002     -0.001
+326                           C(Label, Helmert)[H.Cono Sur 2012]     -0.0009      0.000     -4.965  0.000***     -0.001     -0.001
+327                           C(Label, Helmert)[H.Cono Sur 2013]     -0.0011      0.000     -6.341  0.000***     -0.001     -0.001
+328                           C(Label, Helmert)[H.Cono Sur 2014]     -0.0009      0.000     -5.614  0.000***     -0.001     -0.001
+329                           C(Label, Helmert)[H.Cono Sur 2015]     -0.0007      0.000     -4.377  0.000***     -0.001     -0.000
+330                           C(Label, Helmert)[H.Cono Sur 2016]     -0.0009      0.000     -5.326  0.000***     -0.001     -0.001
+331                           C(Label, Helmert)[H.Cono Sur 2017]     -0.0008      0.000     -4.521  0.000***     -0.001     -0.000
+332                           C(Label, Helmert)[H.Cono Sur 2018]     -0.0006      0.000     -3.768  0.000***     -0.001     -0.000
+333                           C(Label, Helmert)[H.Cono Sur 2019]     -0.0005      0.000     -3.200   0.001**     -0.001     -0.000
+334                           C(Label, Helmert)[H.Cono Sur 2020]     -0.0008      0.000     -4.333  0.000***     -0.001     -0.000
+335                           C(Label, Helmert)[H.Cono Sur 2021]     -0.0006      0.000     -1.686     0.092     -0.001   9.48e-05
+336                      C(Label, Helmert)[H.Cousiño-Macul 2008]     -0.0008      0.000     -2.674   0.007**     -0.001     -0.000
+337                      C(Label, Helmert)[H.Cousiño-Macul 2009]      0.0003      0.000      1.106     0.269     -0.000      0.001
+338                      C(Label, Helmert)[H.Cousiño-Macul 2010]     -0.0005      0.000     -2.082    0.037*     -0.001  -3.19e-05
+339                      C(Label, Helmert)[H.Cousiño-Macul 2011]     -0.0008      0.000     -3.341   0.001**     -0.001     -0.000
+340                      C(Label, Helmert)[H.Cousiño-Macul 2012]     -0.0009      0.000     -3.745  0.000***     -0.001     -0.000
+341                      C(Label, Helmert)[H.Cousiño-Macul 2013]     -0.0007      0.000     -2.938   0.003**     -0.001     -0.000
+342                      C(Label, Helmert)[H.Cousiño-Macul 2014]     -0.0009      0.000     -3.649  0.000***     -0.001     -0.000
+343                      C(Label, Helmert)[H.Cousiño-Macul 2015]     -0.0003      0.000     -1.426     0.154     -0.001      0.000
+344                      C(Label, Helmert)[H.Cousiño-Macul 2016]     -0.0003      0.000     -1.250     0.211     -0.001      0.000
+345                      C(Label, Helmert)[H.Cousiño-Macul 2017]  -7.047e-05      0.000     -0.291     0.771     -0.001      0.000
+346                      C(Label, Helmert)[H.Cousiño-Macul 2018]     -0.0003      0.000     -1.166     0.244     -0.001      0.000
+347                      C(Label, Helmert)[H.Cousiño-Macul 2019]      0.0001      0.000      0.464     0.643     -0.000      0.001
+348                      C(Label, Helmert)[H.Cousiño-Macul 2020]  -6.278e-05      0.000     -0.226     0.822     -0.001      0.000
+349                      C(Label, Helmert)[H.Cousiño-Macul 2021]      0.0004      0.001      0.467     0.641     -0.001      0.002
+350                         C(Label, Helmert)[H.Doña Paula 2008]     -0.0012      0.000     -4.207  0.000***     -0.002     -0.001
+351                         C(Label, Helmert)[H.Doña Paula 2009]     -0.0003      0.000     -1.189     0.234     -0.001      0.000
+352                         C(Label, Helmert)[H.Doña Paula 2010]     -0.0007      0.000     -2.954   0.003**     -0.001     -0.000
+353                         C(Label, Helmert)[H.Doña Paula 2011]     -0.0004      0.000     -1.932     0.053     -0.001   6.29e-06
+354                         C(Label, Helmert)[H.Doña Paula 2012]     -0.0009      0.000     -3.747  0.000***     -0.001     -0.000
+355                         C(Label, Helmert)[H.Doña Paula 2013]     -0.0002      0.000     -0.999     0.318     -0.001      0.000
+356                         C(Label, Helmert)[H.Doña Paula 2014]     -0.0004      0.000     -1.912     0.056     -0.001   1.02e-05
+357                         C(Label, Helmert)[H.Doña Paula 2015]     -0.0004      0.000     -1.792     0.073     -0.001   3.87e-05
+358                         C(Label, Helmert)[H.Doña Paula 2016]     -0.0005      0.000     -2.275    0.023*     -0.001  -7.33e-05
+359                         C(Label, Helmert)[H.Doña Paula 2017]     -0.0006      0.000     -2.454    0.014*     -0.001     -0.000
+360                         C(Label, Helmert)[H.Doña Paula 2018]     -0.0007      0.000     -3.090   0.002**     -0.001     -0.000
+361                         C(Label, Helmert)[H.Doña Paula 2019]     -0.0002      0.000     -1.017     0.309     -0.001      0.000
+362                         C(Label, Helmert)[H.Doña Paula 2020]     -0.0003      0.000     -1.166     0.244     -0.001      0.000
+363                         C(Label, Helmert)[H.Doña Paula 2021]      0.0003      0.000      0.640     0.522     -0.001      0.001
+364                          C(Label, Helmert)[H.E. Guigal 2008]      0.0004      0.000      1.686     0.092  -6.81e-05      0.001
+365                          C(Label, Helmert)[H.E. Guigal 2009]      0.0006      0.000      2.438    0.015*      0.000      0.001
+366                          C(Label, Helmert)[H.E. Guigal 2010]      0.0005      0.000      2.222    0.026*   5.98e-05      0.001
+367                          C(Label, Helmert)[H.E. Guigal 2011]      0.0004      0.000      1.610     0.107  -7.95e-05      0.001
+368                          C(Label, Helmert)[H.E. Guigal 2012]      0.0005      0.000      2.178    0.029*   5.03e-05      0.001
+369                          C(Label, Helmert)[H.E. Guigal 2013]      0.0004      0.000      1.729     0.084  -5.22e-05      0.001
+370                          C(Label, Helmert)[H.E. Guigal 2014]      0.0005      0.000      2.361    0.018*   9.05e-05      0.001
+371                          C(Label, Helmert)[H.E. Guigal 2015]      0.0007      0.000      3.017   0.003**      0.000      0.001
+372                          C(Label, Helmert)[H.E. Guigal 2016]      0.0006      0.000      2.779   0.005**      0.000      0.001
+373                          C(Label, Helmert)[H.E. Guigal 2017]      0.0007      0.000      3.218   0.001**      0.000      0.001
+374                          C(Label, Helmert)[H.E. Guigal 2018]      0.0004      0.000      1.590     0.112  -9.12e-05      0.001
+375                          C(Label, Helmert)[H.E. Guigal 2019]      0.0004      0.000      1.941     0.052  -4.47e-06      0.001
+376                          C(Label, Helmert)[H.E. Guigal 2020]      0.0004      0.000      1.585     0.113     -9e-05      0.001
+377                            C(Label, Helmert)[H.El Coto 2008]     -0.0002      0.000     -0.622     0.534     -0.001      0.001
+378                            C(Label, Helmert)[H.El Coto 2009]     -0.0005      0.000     -1.252     0.211     -0.001      0.000
+379                            C(Label, Helmert)[H.El Coto 2010]     -0.0006      0.000     -1.574     0.115     -0.001      0.000
+380                            C(Label, Helmert)[H.El Coto 2011]  -8.553e-05      0.000     -0.226     0.821     -0.001      0.001
+381                            C(Label, Helmert)[H.El Coto 2012]     -0.0002      0.000     -0.576     0.565     -0.001      0.000
+382                            C(Label, Helmert)[H.El Coto 2013]     -0.0003      0.000     -0.723     0.470     -0.001      0.000
+383                            C(Label, Helmert)[H.El Coto 2014]     -0.0004      0.000     -1.149     0.251     -0.001      0.000
+384                            C(Label, Helmert)[H.El Coto 2015]    5.91e-05      0.000      0.174     0.862     -0.001      0.001
+385                            C(Label, Helmert)[H.El Coto 2016]  -9.481e-05      0.000     -0.293     0.770     -0.001      0.001
+386                            C(Label, Helmert)[H.El Coto 2017]     -0.0006      0.000     -1.521     0.128     -0.001      0.000
+387                            C(Label, Helmert)[H.El Coto 2018]     -0.0004      0.000     -1.062     0.288     -0.001      0.000
+388                            C(Label, Helmert)[H.El Coto 2019]      0.0002      0.000      0.523     0.601     -0.001      0.001
+389                            C(Label, Helmert)[H.El Coto 2020]   7.913e-05      0.000      0.236     0.813     -0.001      0.001
+390                            C(Label, Helmert)[H.El Coto 2021]      0.0010      0.001      0.925     0.355     -0.001      0.003
+391                         C(Label, Helmert)[H.El Enemigo 2008]      0.0018      0.000      5.047  0.000***      0.001      0.002
+392                         C(Label, Helmert)[H.El Enemigo 2009]      0.0014      0.000      3.991  0.000***      0.001      0.002
+393                         C(Label, Helmert)[H.El Enemigo 2010]      0.0013      0.000      3.764  0.000***      0.001      0.002
+394                         C(Label, Helmert)[H.El Enemigo 2011]      0.0016      0.000      4.985  0.000***      0.001      0.002
+395                         C(Label, Helmert)[H.El Enemigo 2012]      0.0013      0.000      4.087  0.000***      0.001      0.002
+396                         C(Label, Helmert)[H.El Enemigo 2013]      0.0013      0.000      4.628  0.000***      0.001      0.002
+397                         C(Label, Helmert)[H.El Enemigo 2014]      0.0014      0.000      5.132  0.000***      0.001      0.002
+398                         C(Label, Helmert)[H.El Enemigo 2015]      0.0013      0.000      4.625  0.000***      0.001      0.002
+399                         C(Label, Helmert)[H.El Enemigo 2016]      0.0017      0.000      5.916  0.000***      0.001      0.002
+400                         C(Label, Helmert)[H.El Enemigo 2017]      0.0016      0.000      5.804  0.000***      0.001      0.002
+401                         C(Label, Helmert)[H.El Enemigo 2018]      0.0015      0.000      4.907  0.000***      0.001      0.002
+402                         C(Label, Helmert)[H.El Enemigo 2019]      0.0016      0.000      5.637  0.000***      0.001      0.002
+403                         C(Label, Helmert)[H.El Enemigo 2020]      0.0013      0.000      4.224  0.000***      0.001      0.002
+404                         C(Label, Helmert)[H.El Enemigo 2021]      0.0028      0.001      2.643   0.008**      0.001      0.005
+405                           C(Label, Helmert)[H.Emiliana 2008]     -0.0007      0.000     -3.534  0.000***     -0.001     -0.000
+406                           C(Label, Helmert)[H.Emiliana 2009]     -0.0008      0.000     -4.178  0.000***     -0.001     -0.000
+407                           C(Label, Helmert)[H.Emiliana 2010]     -0.0009      0.000     -5.582  0.000***     -0.001     -0.001
+408                           C(Label, Helmert)[H.Emiliana 2011]     -0.0008      0.000     -5.616  0.000***     -0.001     -0.001
+409                           C(Label, Helmert)[H.Emiliana 2012]     -0.0008      0.000     -5.258  0.000***     -0.001     -0.001
+410                           C(Label, Helmert)[H.Emiliana 2013]     -0.0006      0.000     -4.209  0.000***     -0.001     -0.000
+411                           C(Label, Helmert)[H.Emiliana 2014]     -0.0008      0.000     -5.345  0.000***     -0.001     -0.001
+412                           C(Label, Helmert)[H.Emiliana 2015]     -0.0005      0.000     -3.444   0.001**     -0.001     -0.000
+413                           C(Label, Helmert)[H.Emiliana 2016]     -0.0005      0.000     -3.554  0.000***     -0.001     -0.000
+414                           C(Label, Helmert)[H.Emiliana 2017]     -0.0006      0.000     -3.546  0.000***     -0.001     -0.000
+415                           C(Label, Helmert)[H.Emiliana 2018]     -0.0004      0.000     -2.476    0.013*     -0.001  -7.78e-05
+416                           C(Label, Helmert)[H.Emiliana 2019]  -9.387e-05      0.000     -0.585     0.559     -0.000      0.000
+417                           C(Label, Helmert)[H.Emiliana 2020]     -0.0007      0.000     -4.152  0.000***     -0.001     -0.000
+418                           C(Label, Helmert)[H.Emiliana 2021]      0.0015      0.000      3.153   0.002**      0.001      0.002
+419                        C(Label, Helmert)[H.Emilio Moro 2008]      0.0005      0.000      1.084     0.278     -0.000      0.001
+420                        C(Label, Helmert)[H.Emilio Moro 2009]      0.0007      0.000      1.637     0.102     -0.000      0.002
+421                        C(Label, Helmert)[H.Emilio Moro 2010]      0.0008      0.000      1.936     0.053  -1.03e-05      0.002
+422                        C(Label, Helmert)[H.Emilio Moro 2011]      0.0008      0.000      2.027    0.043*   2.81e-05      0.002
+423                        C(Label, Helmert)[H.Emilio Moro 2012]   2.363e-05      0.001      0.046     0.963     -0.001      0.001
+424                        C(Label, Helmert)[H.Emilio Moro 2013]      0.0006      0.000      1.554     0.120     -0.000      0.001
+425                        C(Label, Helmert)[H.Emilio Moro 2014]      0.0010      0.000      2.620   0.009**      0.000      0.002
+426                        C(Label, Helmert)[H.Emilio Moro 2015]      0.0004      0.000      1.143     0.253     -0.000      0.001
+427                        C(Label, Helmert)[H.Emilio Moro 2016]      0.0010      0.000      2.608   0.009**      0.000      0.002
+428                        C(Label, Helmert)[H.Emilio Moro 2017]      0.0007      0.000      1.582     0.114     -0.000      0.001
+429                        C(Label, Helmert)[H.Emilio Moro 2018]      0.0008      0.000      1.901     0.057  -2.41e-05      0.002
+430                        C(Label, Helmert)[H.Emilio Moro 2019]      0.0006      0.000      1.496     0.135     -0.000      0.001
+431                        C(Label, Helmert)[H.Emilio Moro 2020]      0.0007      0.000      1.928     0.054  -1.21e-05      0.001
+432                          C(Label, Helmert)[H.Errazuriz 2008]  -8.447e-05      0.000     -0.431     0.667     -0.000      0.000
+433                          C(Label, Helmert)[H.Errazuriz 2009]   5.391e-05      0.000      0.276     0.783     -0.000      0.000
+434                          C(Label, Helmert)[H.Errazuriz 2010]  -2.063e-05      0.000     -0.119     0.905     -0.000      0.000
+435                          C(Label, Helmert)[H.Errazuriz 2011]     -0.0002      0.000     -1.224     0.221     -0.001      0.000
+436                          C(Label, Helmert)[H.Errazuriz 2012]  -3.416e-05      0.000     -0.204     0.838     -0.000      0.000
+437                          C(Label, Helmert)[H.Errazuriz 2013]     -0.0003      0.000     -1.691     0.091     -0.001   4.37e-05
+438                          C(Label, Helmert)[H.Errazuriz 2014]     -0.0001      0.000     -0.881     0.378     -0.000      0.000
+439                          C(Label, Helmert)[H.Errazuriz 2015]     -0.0003      0.000     -1.844     0.065     -0.001    1.8e-05
+440                          C(Label, Helmert)[H.Errazuriz 2016]     -0.0002      0.000     -1.503     0.133     -0.001   6.92e-05
+441                          C(Label, Helmert)[H.Errazuriz 2017]     -0.0001      0.000     -0.862     0.389     -0.000      0.000
+442                          C(Label, Helmert)[H.Errazuriz 2018]     -0.0003      0.000     -2.179    0.029*     -0.001  -3.19e-05
+443                          C(Label, Helmert)[H.Errazuriz 2019]     -0.0001      0.000     -0.916     0.360     -0.000      0.000
+444                          C(Label, Helmert)[H.Errazuriz 2020]   3.258e-06      0.000      0.021     0.984     -0.000      0.000
+445                          C(Label, Helmert)[H.Errazuriz 2021]      0.0007      0.001      0.687     0.492     -0.001      0.003
+446                 C(Label, Helmert)[H.Escorihuela Gascón 2008]     -0.0002      0.000     -0.856     0.392     -0.001      0.000
+447                 C(Label, Helmert)[H.Escorihuela Gascón 2009]     -0.0001      0.000     -0.632     0.527     -0.000      0.000
+448                 C(Label, Helmert)[H.Escorihuela Gascón 2010]     -0.0005      0.000     -2.989   0.003**     -0.001     -0.000
+449                 C(Label, Helmert)[H.Escorihuela Gascón 2011]     -0.0003      0.000     -1.688     0.091     -0.001   4.42e-05
+450                 C(Label, Helmert)[H.Escorihuela Gascón 2012]     -0.0002      0.000     -0.924     0.355     -0.000      0.000
+451                 C(Label, Helmert)[H.Escorihuela Gascón 2013]     -0.0001      0.000     -0.661     0.509     -0.000      0.000
+452                 C(Label, Helmert)[H.Escorihuela Gascón 2014]   2.879e-05      0.000      0.183     0.855     -0.000      0.000
+453                 C(Label, Helmert)[H.Escorihuela Gascón 2015]    4.06e-05      0.000      0.269     0.788     -0.000      0.000
+454                 C(Label, Helmert)[H.Escorihuela Gascón 2016]      0.0002      0.000      1.489     0.137  -7.18e-05      0.001
+455                 C(Label, Helmert)[H.Escorihuela Gascón 2017]   8.144e-05      0.000      0.529     0.597     -0.000      0.000
+456                 C(Label, Helmert)[H.Escorihuela Gascón 2018]      0.0003      0.000      1.933     0.053   -4.4e-06      0.001
+457                 C(Label, Helmert)[H.Escorihuela Gascón 2019]      0.0003      0.000      2.031    0.042*   1.14e-05      0.001
+458                 C(Label, Helmert)[H.Escorihuela Gascón 2020]      0.0004      0.000      2.353    0.019*   6.99e-05      0.001
+459                 C(Label, Helmert)[H.Escorihuela Gascón 2021]     -0.0009      0.000     -2.111    0.035*     -0.002  -6.34e-05
+460                            C(Label, Helmert)[H.Esporão 2008]     -0.0002      0.000     -0.923     0.356     -0.001      0.000
+461                            C(Label, Helmert)[H.Esporão 2009]  -9.296e-05      0.000     -0.455     0.649     -0.000      0.000
+462                            C(Label, Helmert)[H.Esporão 2010]  -5.971e-05      0.000     -0.326     0.744     -0.000      0.000
+463                            C(Label, Helmert)[H.Esporão 2011]  -7.813e-05      0.000     -0.393     0.694     -0.000      0.000
+464                            C(Label, Helmert)[H.Esporão 2012]     -0.0001      0.000     -0.758     0.448     -0.001      0.000
+465                            C(Label, Helmert)[H.Esporão 2013]  -4.191e-05      0.000     -0.235     0.814     -0.000      0.000
+466                            C(Label, Helmert)[H.Esporão 2014]     -0.0002      0.000     -1.070     0.285     -0.001      0.000
+467                            C(Label, Helmert)[H.Esporão 2015]      0.0001      0.000      0.785     0.432     -0.000      0.000
+468                            C(Label, Helmert)[H.Esporão 2016]   4.708e-05      0.000      0.275     0.783     -0.000      0.000
+469                            C(Label, Helmert)[H.Esporão 2017]      0.0002      0.000      1.336     0.181     -0.000      0.001
+470                            C(Label, Helmert)[H.Esporão 2018]      0.0003      0.000      1.543     0.123   -7.1e-05      0.001
+471                            C(Label, Helmert)[H.Esporão 2019]      0.0003      0.000      1.930     0.054  -5.36e-06      0.001
+472                            C(Label, Helmert)[H.Esporão 2020]      0.0001      0.000      0.669     0.504     -0.000      0.000
+473                            C(Label, Helmert)[H.Esporão 2021]      0.0013      0.001      1.459     0.145     -0.000      0.003
+474                     C(Label, Helmert)[H.Familia Torres 2008]     -0.0003      0.000     -1.944     0.052     -0.001   2.73e-06
+475                     C(Label, Helmert)[H.Familia Torres 2009]     -0.0004      0.000     -2.473    0.013*     -0.001  -8.66e-05
+476                     C(Label, Helmert)[H.Familia Torres 2010]     -0.0003      0.000     -2.323    0.020*     -0.001  -5.21e-05
+477                     C(Label, Helmert)[H.Familia Torres 2011]     -0.0003      0.000     -1.978    0.048*     -0.001  -2.52e-06
+478                     C(Label, Helmert)[H.Familia Torres 2012]     -0.0007      0.000     -4.876  0.000***     -0.001     -0.000
+479                     C(Label, Helmert)[H.Familia Torres 2013]     -0.0006      0.000     -4.057  0.000***     -0.001     -0.000
+480                     C(Label, Helmert)[H.Familia Torres 2014]     -0.0003      0.000     -2.613   0.009**     -0.001  -8.48e-05
+481                     C(Label, Helmert)[H.Familia Torres 2015]     -0.0002      0.000     -1.381     0.167     -0.000   7.43e-05
+482                     C(Label, Helmert)[H.Familia Torres 2016]     -0.0003      0.000     -1.999    0.046*     -0.000  -4.84e-06
+483                     C(Label, Helmert)[H.Familia Torres 2017]     -0.0003      0.000     -2.663   0.008**     -0.001   -8.9e-05
+484                     C(Label, Helmert)[H.Familia Torres 2018]  -9.943e-05      0.000     -0.803     0.422     -0.000      0.000
+485                     C(Label, Helmert)[H.Familia Torres 2019]  -2.969e-05      0.000     -0.233     0.816     -0.000      0.000
+486                     C(Label, Helmert)[H.Familia Torres 2020]     -0.0001      0.000     -1.079     0.281     -0.000      0.000
+487                     C(Label, Helmert)[H.Familia Torres 2021]     -0.0007      0.001     -1.419     0.156     -0.002      0.000
+488                            C(Label, Helmert)[H.Farnese 2008]    8.45e-05      0.000      0.406     0.685     -0.000      0.000
+489                            C(Label, Helmert)[H.Farnese 2009]     -0.0003      0.000     -1.278     0.201     -0.001      0.000
+490                            C(Label, Helmert)[H.Farnese 2010]     -0.0003      0.000     -1.508     0.132     -0.001   9.65e-05
+491                            C(Label, Helmert)[H.Farnese 2011]     -0.0005      0.000     -2.748   0.006**     -0.001     -0.000
+492                            C(Label, Helmert)[H.Farnese 2012]     -0.0005      0.000     -2.587    0.010*     -0.001     -0.000
+493                            C(Label, Helmert)[H.Farnese 2013]     -0.0003      0.000     -1.443     0.149     -0.001   9.65e-05
+494                            C(Label, Helmert)[H.Farnese 2014]  -6.443e-05      0.000     -0.354     0.723     -0.000      0.000
+495                            C(Label, Helmert)[H.Farnese 2015]     -0.0004      0.000     -2.198    0.028*     -0.001  -4.32e-05
+496                            C(Label, Helmert)[H.Farnese 2016]     -0.0001      0.000     -0.759     0.448     -0.001      0.000
+497                            C(Label, Helmert)[H.Farnese 2017]      0.0001      0.000      0.727     0.468     -0.000      0.000
+498                            C(Label, Helmert)[H.Farnese 2018]  -8.904e-05      0.000     -0.514     0.607     -0.000      0.000
+499                            C(Label, Helmert)[H.Farnese 2019]   1.672e-05      0.000      0.093     0.926     -0.000      0.000
+500                            C(Label, Helmert)[H.Farnese 2020]  -9.511e-05      0.000     -0.494     0.622     -0.000      0.000
+501                            C(Label, Helmert)[H.Farnese 2021]      0.0007      0.000      1.318     0.187     -0.000      0.002
+502                      C(Label, Helmert)[H.Fontanafredda 2008]     -0.0005      0.000     -2.458    0.014*     -0.001  -9.33e-05
+503                      C(Label, Helmert)[H.Fontanafredda 2009]     -0.0007      0.000     -3.792  0.000***     -0.001     -0.000
+504                      C(Label, Helmert)[H.Fontanafredda 2010]  -6.426e-05      0.000     -0.368     0.713     -0.000      0.000
+505                      C(Label, Helmert)[H.Fontanafredda 2011]     -0.0006      0.000     -3.300   0.001**     -0.001     -0.000
+506                      C(Label, Helmert)[H.Fontanafredda 2012]     -0.0005      0.000     -3.036   0.002**     -0.001     -0.000
+507                      C(Label, Helmert)[H.Fontanafredda 2013]     -0.0006      0.000     -3.811  0.000***     -0.001     -0.000
+508                      C(Label, Helmert)[H.Fontanafredda 2014]     -0.0005      0.000     -3.245   0.001**     -0.001     -0.000
+509                      C(Label, Helmert)[H.Fontanafredda 2015]     -0.0003      0.000     -1.856     0.063     -0.001   1.73e-05
+510                      C(Label, Helmert)[H.Fontanafredda 2016]     -0.0003      0.000     -1.843     0.065     -0.001   1.84e-05
+511                      C(Label, Helmert)[H.Fontanafredda 2017]   -4.73e-05      0.000     -0.297     0.767     -0.000      0.000
+512                      C(Label, Helmert)[H.Fontanafredda 2018]  -3.653e-05      0.000     -0.226     0.822     -0.000      0.000
+513                      C(Label, Helmert)[H.Fontanafredda 2019]     -0.0001      0.000     -0.585     0.559     -0.000      0.000
+514                      C(Label, Helmert)[H.Fontanafredda 2020]     -0.0003      0.000     -1.752     0.080     -0.001   3.49e-05
+515                      C(Label, Helmert)[H.Fontanafredda 2021]      0.0008      0.001      0.961     0.337     -0.001      0.002
+516        C(Label, Helmert)[H.Francis Ford Coppola Winery 2008]     -0.0002      0.000     -1.300     0.194     -0.000    9.9e-05
+517        C(Label, Helmert)[H.Francis Ford Coppola Winery 2009]   6.222e-05      0.000      0.416     0.678     -0.000      0.000
+518        C(Label, Helmert)[H.Francis Ford Coppola Winery 2010]     -0.0001      0.000     -0.877     0.380     -0.000      0.000
+519        C(Label, Helmert)[H.Francis Ford Coppola Winery 2011]     -0.0002      0.000     -1.639     0.101     -0.000   4.32e-05
+520        C(Label, Helmert)[H.Francis Ford Coppola Winery 2012]   7.003e-05      0.000      0.527     0.598     -0.000      0.000
+521        C(Label, Helmert)[H.Francis Ford Coppola Winery 2013]   2.938e-05      0.000      0.222     0.825     -0.000      0.000
+522        C(Label, Helmert)[H.Francis Ford Coppola Winery 2014]      0.0002      0.000      1.280     0.201  -9.36e-05      0.000
+523        C(Label, Helmert)[H.Francis Ford Coppola Winery 2015]      0.0002      0.000      1.243     0.214     -0.000      0.000
+524        C(Label, Helmert)[H.Francis Ford Coppola Winery 2016]      0.0001      0.000      0.977     0.328     -0.000      0.000
+525        C(Label, Helmert)[H.Francis Ford Coppola Winery 2017]   9.171e-05      0.000      0.661     0.509     -0.000      0.000
+526        C(Label, Helmert)[H.Francis Ford Coppola Winery 2018]      0.0003      0.000      1.743     0.081  -3.15e-05      0.001
+527        C(Label, Helmert)[H.Francis Ford Coppola Winery 2019]      0.0002      0.000      1.526     0.127  -6.37e-05      0.001
+528        C(Label, Helmert)[H.Francis Ford Coppola Winery 2020]      0.0001      0.000      0.874     0.382     -0.000      0.000
+529                               C(Label, Helmert)[H.Gaja 2008]      0.0011      0.000      5.815  0.000***      0.001      0.001
+530                               C(Label, Helmert)[H.Gaja 2009]      0.0011      0.000      5.966  0.000***      0.001      0.001
+531                               C(Label, Helmert)[H.Gaja 2010]      0.0010      0.000      5.701  0.000***      0.001      0.001
+532                               C(Label, Helmert)[H.Gaja 2011]      0.0010      0.000      5.516  0.000***      0.001      0.001
+533                               C(Label, Helmert)[H.Gaja 2012]      0.0010      0.000      5.222  0.000***      0.001      0.001
+534                               C(Label, Helmert)[H.Gaja 2013]      0.0010      0.000      5.821  0.000***      0.001      0.001
+535                               C(Label, Helmert)[H.Gaja 2014]      0.0010      0.000      6.068  0.000***      0.001      0.001
+536                               C(Label, Helmert)[H.Gaja 2015]      0.0010      0.000      5.746  0.000***      0.001      0.001
+537                               C(Label, Helmert)[H.Gaja 2016]      0.0010      0.000      5.492  0.000***      0.001      0.001
+538                               C(Label, Helmert)[H.Gaja 2017]      0.0011      0.000      6.426  0.000***      0.001      0.001
+539                               C(Label, Helmert)[H.Gaja 2018]      0.0010      0.000      5.220  0.000***      0.001      0.001
+540                               C(Label, Helmert)[H.Gaja 2019]      0.0010      0.000      5.401  0.000***      0.001      0.001
+541                               C(Label, Helmert)[H.Gaja 2020]      0.0011      0.000      5.560  0.000***      0.001      0.001
+542          C(Label, Helmert)[H.J. Lohr Vineyards & Wines 2008]      0.0004      0.000      1.800     0.072  -3.66e-05      0.001
+543          C(Label, Helmert)[H.J. Lohr Vineyards & Wines 2009]     -0.0002      0.000     -0.878     0.380     -0.001      0.000
+544          C(Label, Helmert)[H.J. Lohr Vineyards & Wines 2010]      0.0001      0.000      0.647     0.518     -0.000      0.000
+545          C(Label, Helmert)[H.J. Lohr Vineyards & Wines 2011]   3.023e-05      0.000      0.158     0.874     -0.000      0.000
+546          C(Label, Helmert)[H.J. Lohr Vineyards & Wines 2012]      0.0002      0.000      0.963     0.335     -0.000      0.001
+547          C(Label, Helmert)[H.J. Lohr Vineyards & Wines 2013]      0.0002      0.000      1.020     0.308     -0.000      0.001
+548          C(Label, Helmert)[H.J. Lohr Vineyards & Wines 2014]      0.0002      0.000      0.935     0.350     -0.000      0.000
+549          C(Label, Helmert)[H.J. Lohr Vineyards & Wines 2015]      0.0002      0.000      1.166     0.244     -0.000      0.001
+550          C(Label, Helmert)[H.J. Lohr Vineyards & Wines 2016]      0.0003      0.000      1.526     0.127  -7.58e-05      0.001
+551          C(Label, Helmert)[H.J. Lohr Vineyards & Wines 2017]      0.0002      0.000      1.424     0.154  -9.12e-05      0.001
+552          C(Label, Helmert)[H.J. Lohr Vineyards & Wines 2018]      0.0003      0.000      1.559     0.119  -6.82e-05      0.001
+553          C(Label, Helmert)[H.J. Lohr Vineyards & Wines 2019]      0.0004      0.000      2.056    0.040*   1.72e-05      0.001
+554          C(Label, Helmert)[H.J. Lohr Vineyards & Wines 2020]      0.0002      0.000      1.277     0.202     -0.000      0.001
+555          C(Label, Helmert)[H.J. Lohr Vineyards & Wines 2021]      0.0011      0.001      1.440     0.150     -0.000      0.003
+556                      C(Label, Helmert)[H.Jacob's Creek 2008]     -0.0008      0.000     -5.242  0.000***     -0.001     -0.001
+557                      C(Label, Helmert)[H.Jacob's Creek 2009]     -0.0006      0.000     -3.622  0.000***     -0.001     -0.000
+558                      C(Label, Helmert)[H.Jacob's Creek 2010]     -0.0008      0.000     -6.498  0.000***     -0.001     -0.001
+559                      C(Label, Helmert)[H.Jacob's Creek 2011]     -0.0010      0.000     -8.075  0.000***     -0.001     -0.001
+560                      C(Label, Helmert)[H.Jacob's Creek 2012]     -0.0009      0.000     -7.606  0.000***     -0.001     -0.001
+561                      C(Label, Helmert)[H.Jacob's Creek 2013]     -0.0010      0.000     -8.079  0.000***     -0.001     -0.001
+562                      C(Label, Helmert)[H.Jacob's Creek 2014]     -0.0010      0.000     -8.518  0.000***     -0.001     -0.001
+563                      C(Label, Helmert)[H.Jacob's Creek 2015]     -0.0008      0.000     -6.580  0.000***     -0.001     -0.001
+564                      C(Label, Helmert)[H.Jacob's Creek 2016]     -0.0007      0.000     -6.150  0.000***     -0.001     -0.000
+565                      C(Label, Helmert)[H.Jacob's Creek 2017]     -0.0009      0.000     -7.742  0.000***     -0.001     -0.001
+566                      C(Label, Helmert)[H.Jacob's Creek 2018]     -0.0007      0.000     -6.154  0.000***     -0.001     -0.000
+567                      C(Label, Helmert)[H.Jacob's Creek 2019]     -0.0008      0.000     -6.476  0.000***     -0.001     -0.001
+568                      C(Label, Helmert)[H.Jacob's Creek 2020]     -0.0008      0.000     -6.613  0.000***     -0.001     -0.001
+569                      C(Label, Helmert)[H.Jacob's Creek 2021]     -0.0019      0.000     -6.247  0.000***     -0.003     -0.001
+570                     C(Label, Helmert)[H.Joseph Drouhin 2008]      0.0003   8.01e-05      3.981  0.000***      0.000      0.000
+571                     C(Label, Helmert)[H.Joseph Drouhin 2009]      0.0005      8e-05      6.455  0.000***      0.000      0.001
+572                     C(Label, Helmert)[H.Joseph Drouhin 2010]      0.0003   7.81e-05      3.892  0.000***      0.000      0.000
+573                     C(Label, Helmert)[H.Joseph Drouhin 2011]      0.0003   7.46e-05      4.478  0.000***      0.000      0.000
+574                     C(Label, Helmert)[H.Joseph Drouhin 2012]      0.0005   7.27e-05      6.295  0.000***      0.000      0.001
+575                     C(Label, Helmert)[H.Joseph Drouhin 2013]      0.0004   7.29e-05      5.116  0.000***      0.000      0.001
+576                     C(Label, Helmert)[H.Joseph Drouhin 2014]      0.0005   7.38e-05      7.188  0.000***      0.000      0.001
+577                     C(Label, Helmert)[H.Joseph Drouhin 2015]      0.0005   7.44e-05      7.241  0.000***      0.000      0.001
+578                     C(Label, Helmert)[H.Joseph Drouhin 2016]      0.0006   7.61e-05      7.439  0.000***      0.000      0.001
+579                     C(Label, Helmert)[H.Joseph Drouhin 2017]      0.0006   7.56e-05      7.889  0.000***      0.000      0.001
+580                     C(Label, Helmert)[H.Joseph Drouhin 2018]      0.0006   7.96e-05      7.301  0.000***      0.000      0.001
+581                     C(Label, Helmert)[H.Joseph Drouhin 2019]      0.0004   8.33e-05      4.800  0.000***      0.000      0.001
+582                     C(Label, Helmert)[H.Joseph Drouhin 2020]      0.0004   8.16e-05      4.942  0.000***      0.000      0.001
+583                     C(Label, Helmert)[H.Joseph Drouhin 2021]      0.0003      0.000      0.833     0.405     -0.000      0.001
+584              C(Label, Helmert)[H.José Maria da Fonseca 2008]     -0.0002      0.000     -1.487     0.137     -0.001   7.61e-05
+585              C(Label, Helmert)[H.José Maria da Fonseca 2009]     -0.0003      0.000     -2.159    0.031*     -0.001  -3.06e-05
+586              C(Label, Helmert)[H.José Maria da Fonseca 2010]     -0.0009      0.000     -6.372  0.000***     -0.001     -0.001
+587              C(Label, Helmert)[H.José Maria da Fonseca 2011]     -0.0006      0.000     -4.243  0.000***     -0.001     -0.000
+588              C(Label, Helmert)[H.José Maria da Fonseca 2012]     -0.0006      0.000     -4.095  0.000***     -0.001     -0.000
+589              C(Label, Helmert)[H.José Maria da Fonseca 2013]     -0.0006      0.000     -4.097  0.000***     -0.001     -0.000
+590              C(Label, Helmert)[H.José Maria da Fonseca 2014]     -0.0003      0.000     -2.310    0.021*     -0.001  -4.91e-05
+591              C(Label, Helmert)[H.José Maria da Fonseca 2015]     -0.0004      0.000     -2.649   0.008**     -0.001  -9.49e-05
+592              C(Label, Helmert)[H.José Maria da Fonseca 2016]     -0.0002      0.000     -1.580     0.114     -0.001   5.76e-05
+593              C(Label, Helmert)[H.José Maria da Fonseca 2017]  -1.468e-05      0.000     -0.105     0.916     -0.000      0.000
+594              C(Label, Helmert)[H.José Maria da Fonseca 2018]   5.072e-07      0.000      0.004     0.997     -0.000      0.000
+595              C(Label, Helmert)[H.José Maria da Fonseca 2019]  -9.868e-05      0.000     -0.695     0.487     -0.000      0.000
+596              C(Label, Helmert)[H.José Maria da Fonseca 2020]  -6.985e-05      0.000     -0.454     0.650     -0.000      0.000
+597              C(Label, Helmert)[H.José Maria da Fonseca 2021]     -0.0015      0.001     -2.068    0.039*     -0.003  -7.79e-05
+598                    C(Label, Helmert)[H.Kendall-Jackson 2008]     -0.0004      0.000     -2.288    0.022*     -0.001   -5.4e-05
+599                    C(Label, Helmert)[H.Kendall-Jackson 2009]   2.658e-05      0.000      0.162     0.872     -0.000      0.000
+600                    C(Label, Helmert)[H.Kendall-Jackson 2010]   6.298e-05      0.000      0.422     0.673     -0.000      0.000
+601                    C(Label, Helmert)[H.Kendall-Jackson 2011]     -0.0002      0.000     -1.537     0.124     -0.001   6.46e-05
+602                    C(Label, Helmert)[H.Kendall-Jackson 2012]   5.451e-05      0.000      0.425     0.671     -0.000      0.000
+603                    C(Label, Helmert)[H.Kendall-Jackson 2013]  -3.089e-05      0.000     -0.249     0.804     -0.000      0.000
+604                    C(Label, Helmert)[H.Kendall-Jackson 2014]  -9.911e-05      0.000     -0.775     0.438     -0.000      0.000
+605                    C(Label, Helmert)[H.Kendall-Jackson 2015]      0.0002      0.000      1.371     0.171  -7.65e-05      0.000
+606                    C(Label, Helmert)[H.Kendall-Jackson 2016]      0.0002      0.000      1.611     0.107  -4.86e-05      0.000
+607                    C(Label, Helmert)[H.Kendall-Jackson 2017]  -9.757e-05      0.000     -0.689     0.491     -0.000      0.000
+608                    C(Label, Helmert)[H.Kendall-Jackson 2018]      0.0004      0.000      2.758   0.006**      0.000      0.001
+609                    C(Label, Helmert)[H.Kendall-Jackson 2019]   2.729e-05      0.000      0.197     0.844     -0.000      0.000
+610                    C(Label, Helmert)[H.Kendall-Jackson 2020]      0.0001      0.000      0.757     0.449     -0.000      0.000
+611                    C(Label, Helmert)[H.Kendall-Jackson 2021]   1.829e-05      0.000      0.037     0.971     -0.001      0.001
+612                           C(Label, Helmert)[H.La Linda 2008]     -0.0002      0.000     -1.008     0.313     -0.001      0.000
+613                           C(Label, Helmert)[H.La Linda 2009]     -0.0006      0.000     -3.015   0.003**     -0.001     -0.000
+614                           C(Label, Helmert)[H.La Linda 2010]     -0.0005      0.000     -2.551    0.011*     -0.001     -0.000
+615                           C(Label, Helmert)[H.La Linda 2011]     -0.0004      0.000     -1.902     0.057     -0.001   1.22e-05
+616                           C(Label, Helmert)[H.La Linda 2012]     -0.0006      0.000     -3.048   0.002**     -0.001     -0.000
+617                           C(Label, Helmert)[H.La Linda 2013]     -0.0004      0.000     -2.218    0.027*     -0.001  -4.98e-05
+618                           C(Label, Helmert)[H.La Linda 2014]     -0.0006      0.000     -3.211   0.001**     -0.001     -0.000
+619                           C(Label, Helmert)[H.La Linda 2015]     -0.0002      0.000     -1.241     0.215     -0.001      0.000
+620                           C(Label, Helmert)[H.La Linda 2016]     -0.0002      0.000     -1.048     0.295     -0.001      0.000
+621                           C(Label, Helmert)[H.La Linda 2017]     -0.0001      0.000     -0.629     0.529     -0.001      0.000
+622                           C(Label, Helmert)[H.La Linda 2018]   9.605e-05      0.000      0.502     0.616     -0.000      0.000
+623                           C(Label, Helmert)[H.La Linda 2019]   6.406e-05      0.000      0.322     0.747     -0.000      0.000
+624                           C(Label, Helmert)[H.La Linda 2020]      0.0001      0.000      0.547     0.584     -0.000      0.000
+625                           C(Label, Helmert)[H.La Linda 2021]      0.0001      0.000      0.305     0.761     -0.001      0.001
+626                        C(Label, Helmert)[H.Louis Jadot 2008]      0.0002   6.15e-05      2.694   0.007**   4.52e-05      0.000
+627                        C(Label, Helmert)[H.Louis Jadot 2009]      0.0004    5.7e-05      6.181  0.000***      0.000      0.000
+628                        C(Label, Helmert)[H.Louis Jadot 2010]   5.122e-05   5.67e-05      0.903     0.367     -6e-05      0.000
+629                        C(Label, Helmert)[H.Louis Jadot 2011]      0.0002   5.34e-05      2.828   0.005**   4.64e-05      0.000
+630                        C(Label, Helmert)[H.Louis Jadot 2012]      0.0002   5.45e-05      2.872   0.004**   4.96e-05      0.000
+631                        C(Label, Helmert)[H.Louis Jadot 2013]      0.0003   5.34e-05      4.787  0.000***      0.000      0.000
+632                        C(Label, Helmert)[H.Louis Jadot 2014]      0.0003   5.39e-05      5.077  0.000***      0.000      0.000
+633                        C(Label, Helmert)[H.Louis Jadot 2015]      0.0004   5.32e-05      7.611  0.000***      0.000      0.001
+634                        C(Label, Helmert)[H.Louis Jadot 2016]      0.0005   5.73e-05      8.338  0.000***      0.000      0.001
+635                        C(Label, Helmert)[H.Louis Jadot 2017]      0.0004   5.74e-05      6.399  0.000***      0.000      0.000
+636                        C(Label, Helmert)[H.Louis Jadot 2018]      0.0005   6.01e-05      7.843  0.000***      0.000      0.001
+637                        C(Label, Helmert)[H.Louis Jadot 2019]      0.0004    6.6e-05      5.868  0.000***      0.000      0.001
+638                        C(Label, Helmert)[H.Louis Jadot 2020]      0.0003    6.1e-05      5.274  0.000***      0.000      0.000
+639                        C(Label, Helmert)[H.Louis Jadot 2021]  -9.148e-05      0.000     -0.360     0.718     -0.001      0.000
+640                       C(Label, Helmert)[H.Louis Latour 2008]      0.0002   6.61e-05      2.509    0.012*   3.63e-05      0.000
+641                       C(Label, Helmert)[H.Louis Latour 2009]      0.0004   6.18e-05      5.747  0.000***      0.000      0.000
+642                       C(Label, Helmert)[H.Louis Latour 2010]      0.0003   6.27e-05      4.619  0.000***      0.000      0.000
+643                       C(Label, Helmert)[H.Louis Latour 2011]      0.0002   5.94e-05      3.622  0.000***   9.88e-05      0.000
+644                       C(Label, Helmert)[H.Louis Latour 2012]   7.213e-05   5.94e-05      1.215     0.224  -4.42e-05      0.000
+645                       C(Label, Helmert)[H.Louis Latour 2013]      0.0001   5.74e-05      2.232    0.026*   1.56e-05      0.000
+646                       C(Label, Helmert)[H.Louis Latour 2014]      0.0002    5.9e-05      4.043  0.000***      0.000      0.000
+647                       C(Label, Helmert)[H.Louis Latour 2015]      0.0004   6.17e-05      7.020  0.000***      0.000      0.001
+648                       C(Label, Helmert)[H.Louis Latour 2016]      0.0005   6.55e-05      7.066  0.000***      0.000      0.001
+649                       C(Label, Helmert)[H.Louis Latour 2017]      0.0003   6.55e-05      4.676  0.000***      0.000      0.000
+650                       C(Label, Helmert)[H.Louis Latour 2018]      0.0003   6.98e-05      4.063  0.000***      0.000      0.000
+651                       C(Label, Helmert)[H.Louis Latour 2019]      0.0004   7.51e-05      5.503  0.000***      0.000      0.001
+652                       C(Label, Helmert)[H.Louis Latour 2020]      0.0003   6.48e-05      5.117  0.000***      0.000      0.000
+653                       C(Label, Helmert)[H.Louis Latour 2021]     -0.0013      0.001     -1.917     0.055     -0.003   2.83e-05
+654                         C(Label, Helmert)[H.Luccarelli 2008]      0.0005      0.000      1.698     0.090  -7.03e-05      0.001
+655                         C(Label, Helmert)[H.Luccarelli 2009]      0.0003      0.000      1.223     0.221     -0.000      0.001
+656                         C(Label, Helmert)[H.Luccarelli 2010]      0.0003      0.000      1.101     0.271     -0.000      0.001
+657                         C(Label, Helmert)[H.Luccarelli 2011]    8.58e-05      0.000      0.394     0.693     -0.000      0.001
+658                         C(Label, Helmert)[H.Luccarelli 2012]   5.744e-05      0.000      0.292     0.770     -0.000      0.000
+659                         C(Label, Helmert)[H.Luccarelli 2013]      0.0001      0.000      0.737     0.461     -0.000      0.001
+660                         C(Label, Helmert)[H.Luccarelli 2014]      0.0001      0.000      0.588     0.556     -0.000      0.000
+661                         C(Label, Helmert)[H.Luccarelli 2015]      0.0006      0.000      3.113   0.002**      0.000      0.001
+662                         C(Label, Helmert)[H.Luccarelli 2016]      0.0004      0.000      2.169    0.030*   3.91e-05      0.001
+663                         C(Label, Helmert)[H.Luccarelli 2017]      0.0006      0.000      3.202   0.001**      0.000      0.001
+664                         C(Label, Helmert)[H.Luccarelli 2018]      0.0005      0.000      2.549    0.011*      0.000      0.001
+665                         C(Label, Helmert)[H.Luccarelli 2019]      0.0003      0.000      1.555     0.120  -8.25e-05      0.001
+666                         C(Label, Helmert)[H.Luccarelli 2020]      0.0005      0.000      2.570    0.010*      0.000      0.001
+667                        C(Label, Helmert)[H.Luigi Bosca 2008]      0.0003      0.000      1.848     0.065  -1.62e-05      0.001
+668                        C(Label, Helmert)[H.Luigi Bosca 2009]    7.03e-05      0.000      0.489     0.625     -0.000      0.000
+669                        C(Label, Helmert)[H.Luigi Bosca 2010]      0.0001      0.000      1.085     0.278     -0.000      0.000
+670                        C(Label, Helmert)[H.Luigi Bosca 2011]      0.0002      0.000      1.447     0.148  -6.71e-05      0.000
+671                        C(Label, Helmert)[H.Luigi Bosca 2012]      0.0002      0.000      1.268     0.205  -9.03e-05      0.000
+672                        C(Label, Helmert)[H.Luigi Bosca 2013]      0.0003      0.000      2.463    0.014*   6.55e-05      0.001
+673                        C(Label, Helmert)[H.Luigi Bosca 2014]      0.0004      0.000      2.905   0.004**      0.000      0.001
+674                        C(Label, Helmert)[H.Luigi Bosca 2015]      0.0004      0.000      3.365   0.001**      0.000      0.001
+675                        C(Label, Helmert)[H.Luigi Bosca 2016]      0.0004      0.000      3.293   0.001**      0.000      0.001
+676                        C(Label, Helmert)[H.Luigi Bosca 2017]      0.0005      0.000      3.866  0.000***      0.000      0.001
+677                        C(Label, Helmert)[H.Luigi Bosca 2018]      0.0004      0.000      3.657  0.000***      0.000      0.001
+678                        C(Label, Helmert)[H.Luigi Bosca 2019]      0.0004      0.000      3.444   0.001**      0.000      0.001
+679                        C(Label, Helmert)[H.Luigi Bosca 2020]      0.0004      0.000      2.546    0.011*   8.08e-05      0.001
+680                        C(Label, Helmert)[H.Luigi Bosca 2021]     -0.0003      0.000     -0.885     0.376     -0.001      0.000
+681                      C(Label, Helmert)[H.M. Chapoutier 2008]      0.0002   9.52e-05      2.285    0.022*   3.09e-05      0.000
+682                      C(Label, Helmert)[H.M. Chapoutier 2009]  -7.473e-06    9.4e-05     -0.080     0.937     -0.000      0.000
+683                      C(Label, Helmert)[H.M. Chapoutier 2010]   8.973e-05   8.91e-05      1.008     0.314  -8.48e-05      0.000
+684                      C(Label, Helmert)[H.M. Chapoutier 2011]  -1.195e-05   8.64e-05     -0.138     0.890     -0.000      0.000
+685                      C(Label, Helmert)[H.M. Chapoutier 2012]  -1.222e-05   8.63e-05     -0.142     0.887     -0.000      0.000
+686                      C(Label, Helmert)[H.M. Chapoutier 2013]  -9.915e-05   8.69e-05     -1.140     0.254     -0.000   7.13e-05
+687                      C(Label, Helmert)[H.M. Chapoutier 2014]     1.3e-05   8.52e-05      0.153     0.879     -0.000      0.000
+688                      C(Label, Helmert)[H.M. Chapoutier 2015]   7.103e-05   8.75e-05      0.812     0.417     -0.000      0.000
+689                      C(Label, Helmert)[H.M. Chapoutier 2016]   8.825e-05   8.92e-05      0.990     0.322  -8.65e-05      0.000
+690                      C(Label, Helmert)[H.M. Chapoutier 2017]   1.623e-05   9.09e-05      0.179     0.858     -0.000      0.000
+691                      C(Label, Helmert)[H.M. Chapoutier 2018]      0.0002   8.98e-05      2.004    0.045*   3.91e-06      0.000
+692                      C(Label, Helmert)[H.M. Chapoutier 2019]     9.8e-05   9.36e-05      1.047     0.295  -8.55e-05      0.000
+693                      C(Label, Helmert)[H.M. Chapoutier 2020]  -2.393e-05   9.05e-05     -0.264     0.791     -0.000      0.000
+694                      C(Label, Helmert)[H.M. Chapoutier 2021]      0.0017      0.000      3.951  0.000***      0.001      0.003
+695             C(Label, Helmert)[H.Marques de Casa Concha 2008]  -1.495e-05      0.000     -0.059     0.953     -0.001      0.000
+696             C(Label, Helmert)[H.Marques de Casa Concha 2009]      0.0001      0.000      0.560     0.575     -0.000      0.001
+697             C(Label, Helmert)[H.Marques de Casa Concha 2010]      0.0002      0.000      0.682     0.495     -0.000      0.001
+698             C(Label, Helmert)[H.Marques de Casa Concha 2011]      0.0003      0.000      1.147     0.251     -0.000      0.001
+699             C(Label, Helmert)[H.Marques de Casa Concha 2012]      0.0002      0.000      0.654     0.513     -0.000      0.001
+700             C(Label, Helmert)[H.Marques de Casa Concha 2013]      0.0002      0.000      0.662     0.508     -0.000      0.001
+701             C(Label, Helmert)[H.Marques de Casa Concha 2014]      0.0002      0.000      0.646     0.518     -0.000      0.001
+702             C(Label, Helmert)[H.Marques de Casa Concha 2015]      0.0002      0.000      0.734     0.463     -0.000      0.001
+703             C(Label, Helmert)[H.Marques de Casa Concha 2016]      0.0002      0.000      0.974     0.330     -0.000      0.001
+704             C(Label, Helmert)[H.Marques de Casa Concha 2017]      0.0004      0.000      1.525     0.127     -0.000      0.001
+705             C(Label, Helmert)[H.Marques de Casa Concha 2018]      0.0002      0.000      0.867     0.386     -0.000      0.001
+706             C(Label, Helmert)[H.Marques de Casa Concha 2019]      0.0003      0.000      1.413     0.158     -0.000      0.001
+707             C(Label, Helmert)[H.Marques de Casa Concha 2020]      0.0001      0.000      0.573     0.566     -0.000      0.001
+708                 C(Label, Helmert)[H.Marqués de Cáceres 2008]     -0.0002      0.000     -0.870     0.385     -0.001      0.000
+709                 C(Label, Helmert)[H.Marqués de Cáceres 2009]     -0.0002      0.000     -1.180     0.238     -0.000      0.000
+710                 C(Label, Helmert)[H.Marqués de Cáceres 2010]     -0.0003      0.000     -1.784     0.074     -0.001   2.75e-05
+711                 C(Label, Helmert)[H.Marqués de Cáceres 2011]     -0.0002      0.000     -1.605     0.109     -0.001   5.36e-05
+712                 C(Label, Helmert)[H.Marqués de Cáceres 2012]     -0.0002      0.000     -1.172     0.241     -0.000      0.000
+713                 C(Label, Helmert)[H.Marqués de Cáceres 2013]     -0.0003      0.000     -1.705     0.088     -0.001   4.09e-05
+714                 C(Label, Helmert)[H.Marqués de Cáceres 2014]  -8.801e-05      0.000     -0.586     0.558     -0.000      0.000
+715                 C(Label, Helmert)[H.Marqués de Cáceres 2015]     -0.0002      0.000     -1.303     0.193     -0.000   9.85e-05
+716                 C(Label, Helmert)[H.Marqués de Cáceres 2016]  -9.783e-05      0.000     -0.633     0.527     -0.000      0.000
+717                 C(Label, Helmert)[H.Marqués de Cáceres 2017]     -0.0002      0.000     -0.887     0.375     -0.000      0.000
+718                 C(Label, Helmert)[H.Marqués de Cáceres 2018]     -0.0002      0.000     -1.430     0.153     -0.001   9.13e-05
+719                 C(Label, Helmert)[H.Marqués de Cáceres 2019]  -6.293e-05      0.000     -0.381     0.704     -0.000      0.000
+720                 C(Label, Helmert)[H.Marqués de Cáceres 2020]  -1.032e-05      0.000     -0.062     0.950     -0.000      0.000
+721                 C(Label, Helmert)[H.Marqués de Cáceres 2021]     -0.0002      0.000     -0.367     0.713     -0.001      0.001
+722                  C(Label, Helmert)[H.Marqués de Riscal 2008]  -6.404e-05      0.000     -0.458     0.647     -0.000      0.000
+723                  C(Label, Helmert)[H.Marqués de Riscal 2009]     -0.0001      0.000     -0.926     0.354     -0.000      0.000
+724                  C(Label, Helmert)[H.Marqués de Riscal 2010]  -8.815e-05      0.000     -0.666     0.506     -0.000      0.000
+725                  C(Label, Helmert)[H.Marqués de Riscal 2011]     -0.0001      0.000     -0.895     0.371     -0.000      0.000
+726                  C(Label, Helmert)[H.Marqués de Riscal 2012]     -0.0002      0.000     -1.562     0.118     -0.000   5.26e-05
+727                  C(Label, Helmert)[H.Marqués de Riscal 2013]     -0.0002      0.000     -1.506     0.132     -0.000   5.99e-05
+728                  C(Label, Helmert)[H.Marqués de Riscal 2014]     -0.0002      0.000     -1.220     0.222     -0.000     0.0001
+729                  C(Label, Helmert)[H.Marqués de Riscal 2015]   1.307e-05      0.000      0.094     0.925     -0.000      0.000
+730                  C(Label, Helmert)[H.Marqués de Riscal 2016]  -2.598e-06      0.000     -0.018     0.985     -0.000      0.000
+731                  C(Label, Helmert)[H.Marqués de Riscal 2017]   5.646e-05      0.000      0.385     0.700     -0.000      0.000
+732                  C(Label, Helmert)[H.Marqués de Riscal 2018]      0.0002      0.000      1.405     0.160  -8.12e-05      0.000
+733                  C(Label, Helmert)[H.Marqués de Riscal 2019]      0.0002      0.000      1.213     0.225     -0.000      0.000
+734                  C(Label, Helmert)[H.Marqués de Riscal 2020]   4.876e-05      0.000      0.277     0.782     -0.000      0.000
+735                  C(Label, Helmert)[H.Marqués de Riscal 2021]   6.867e-05      0.000      0.167     0.868     -0.001      0.001
+736                               C(Label, Helmert)[H.Masi 2008]      0.0001      0.000      1.076     0.282     -0.000      0.000
+737                               C(Label, Helmert)[H.Masi 2009]   8.868e-05      0.000      0.777     0.437     -0.000      0.000
+738                               C(Label, Helmert)[H.Masi 2010]     -0.0002      0.000     -1.609     0.108     -0.000   3.93e-05
+739                               C(Label, Helmert)[H.Masi 2011]     -0.0001      0.000     -1.115     0.265     -0.000   9.62e-05
+740                               C(Label, Helmert)[H.Masi 2012]     -0.0002      0.000     -1.912     0.056     -0.000   5.25e-06
+741                               C(Label, Helmert)[H.Masi 2013]     -0.0003      0.000     -2.686   0.007**     -0.001  -7.95e-05
+742                               C(Label, Helmert)[H.Masi 2014]     -0.0003      0.000     -2.359    0.018*     -0.000  -4.53e-05
+743                               C(Label, Helmert)[H.Masi 2015]   -4.69e-05      0.000     -0.422     0.673     -0.000      0.000
+744                               C(Label, Helmert)[H.Masi 2016]     -0.0002      0.000     -1.559     0.119     -0.000   4.53e-05
+745                               C(Label, Helmert)[H.Masi 2017]     -0.0003      0.000     -2.838   0.005**     -0.001  -9.91e-05
+746                               C(Label, Helmert)[H.Masi 2018]     -0.0002      0.000     -1.470     0.141     -0.000   5.42e-05
+747                               C(Label, Helmert)[H.Masi 2019]     -0.0003      0.000     -2.383    0.017*     -0.000  -4.59e-05
+748                               C(Label, Helmert)[H.Masi 2020]     -0.0001      0.000     -1.144     0.253     -0.000   9.98e-05
+749                             C(Label, Helmert)[H.Meiomi 2008]      0.0003      0.001      0.533     0.594     -0.001      0.001
+750                             C(Label, Helmert)[H.Meiomi 2009]      0.0005      0.001      0.807     0.420     -0.001      0.002
+751                             C(Label, Helmert)[H.Meiomi 2010]      0.0010      0.000      2.475    0.013*      0.000      0.002
+752                             C(Label, Helmert)[H.Meiomi 2011]      0.0003      0.000      0.779     0.436     -0.000      0.001
+753                             C(Label, Helmert)[H.Meiomi 2012]      0.0004      0.000      1.040     0.298     -0.000      0.001
+754                             C(Label, Helmert)[H.Meiomi 2013]      0.0003      0.000      0.656     0.512     -0.001      0.001
+755                             C(Label, Helmert)[H.Meiomi 2014]     -0.0006      0.000     -1.832     0.067     -0.001   4.19e-05
+756                             C(Label, Helmert)[H.Meiomi 2015]      0.0003      0.000      1.017     0.309     -0.000      0.001
+757                             C(Label, Helmert)[H.Meiomi 2016]      0.0002      0.000      0.711     0.477     -0.000      0.001
+758                             C(Label, Helmert)[H.Meiomi 2017]   8.407e-06      0.000      0.026     0.979     -0.001      0.001
+759                             C(Label, Helmert)[H.Meiomi 2018]   2.196e-05      0.000      0.067     0.946     -0.001      0.001
+760                             C(Label, Helmert)[H.Meiomi 2019]    8.95e-05      0.000      0.275     0.783     -0.001      0.001
+761                             C(Label, Helmert)[H.Meiomi 2020]  -9.016e-05      0.000     -0.227     0.821     -0.001      0.001
+762               C(Label, Helmert)[H.Michael David Winery 2008]   7.622e-05      0.000      0.525     0.600     -0.000      0.000
+763               C(Label, Helmert)[H.Michael David Winery 2009]   5.557e-05      0.000      0.370     0.711     -0.000      0.000
+764               C(Label, Helmert)[H.Michael David Winery 2010]      0.0005      0.000      3.241   0.001**      0.000      0.001
+765               C(Label, Helmert)[H.Michael David Winery 2011]      0.0002      0.000      1.748     0.081  -2.98e-05      0.001
+766               C(Label, Helmert)[H.Michael David Winery 2012]      0.0001      0.000      0.834     0.405     -0.000      0.000
+767               C(Label, Helmert)[H.Michael David Winery 2013]   7.716e-05      0.000      0.618     0.537     -0.000      0.000
+768               C(Label, Helmert)[H.Michael David Winery 2014]      0.0002      0.000      1.336     0.182  -8.99e-05      0.000
+769               C(Label, Helmert)[H.Michael David Winery 2015]      0.0001      0.000      0.883     0.377     -0.000      0.000
+770               C(Label, Helmert)[H.Michael David Winery 2016]   8.496e-05      0.000      0.571     0.568     -0.000      0.000
+771               C(Label, Helmert)[H.Michael David Winery 2017]      0.0002      0.000      1.129     0.259     -0.000      0.000
+772               C(Label, Helmert)[H.Michael David Winery 2018]  -3.622e-05      0.000     -0.253     0.800     -0.000      0.000
+773               C(Label, Helmert)[H.Michael David Winery 2019]      0.0003      0.000      1.769     0.077  -2.84e-05      0.001
+774               C(Label, Helmert)[H.Michael David Winery 2020]   5.398e-05      0.000      0.352     0.725     -0.000      0.000
+775               C(Label, Helmert)[H.Michael David Winery 2021]   5.651e-05      0.000      0.145     0.885     -0.001      0.001
+776                C(Label, Helmert)[H.Miguel Torres Chile 2008]     -0.0004   8.86e-05     -4.224  0.000***     -0.001     -0.000
+777                C(Label, Helmert)[H.Miguel Torres Chile 2009]     -0.0001   7.82e-05     -1.761     0.078     -0.000   1.55e-05
+778                C(Label, Helmert)[H.Miguel Torres Chile 2010]     -0.0005   7.44e-05     -6.517  0.000***     -0.001     -0.000
+779                C(Label, Helmert)[H.Miguel Torres Chile 2011]     -0.0003   6.64e-05     -4.907  0.000***     -0.000     -0.000
+780                C(Label, Helmert)[H.Miguel Torres Chile 2012]     -0.0004   6.41e-05     -5.656  0.000***     -0.000     -0.000
+781                C(Label, Helmert)[H.Miguel Torres Chile 2013]     -0.0004   6.01e-05     -6.348  0.000***     -0.000     -0.000
+782                C(Label, Helmert)[H.Miguel Torres Chile 2014]     -0.0004   5.97e-05     -7.091  0.000***     -0.001     -0.000
+783                C(Label, Helmert)[H.Miguel Torres Chile 2015]     -0.0003   6.07e-05     -5.576  0.000***     -0.000     -0.000
+784                C(Label, Helmert)[H.Miguel Torres Chile 2016]     -0.0003    6.8e-05     -4.455  0.000***     -0.000     -0.000
+785                C(Label, Helmert)[H.Miguel Torres Chile 2017]     -0.0003   6.33e-05     -5.467  0.000***     -0.000     -0.000
+786                C(Label, Helmert)[H.Miguel Torres Chile 2018]     -0.0002   6.12e-05     -3.848  0.000***     -0.000     -0.000
+787                C(Label, Helmert)[H.Miguel Torres Chile 2019]     -0.0003   6.23e-05     -4.309  0.000***     -0.000     -0.000
+788                C(Label, Helmert)[H.Miguel Torres Chile 2020]     -0.0003    7.1e-05     -4.214  0.000***     -0.000     -0.000
+789                C(Label, Helmert)[H.Miguel Torres Chile 2021]     -0.0003      0.000     -1.271     0.204     -0.001      0.000
+790                              C(Label, Helmert)[H.Miolo 2008]     -0.0006   9.91e-05     -6.440  0.000***     -0.001     -0.000
+791                              C(Label, Helmert)[H.Miolo 2009]     -0.0008      0.000     -7.717  0.000***     -0.001     -0.001
+792                              C(Label, Helmert)[H.Miolo 2010]     -0.0008   8.91e-05     -8.899  0.000***     -0.001     -0.001
+793                              C(Label, Helmert)[H.Miolo 2011]     -0.0007   8.66e-05     -7.603  0.000***     -0.001     -0.000
+794                              C(Label, Helmert)[H.Miolo 2012]     -0.0007   8.88e-05     -7.768  0.000***     -0.001     -0.001
+795                              C(Label, Helmert)[H.Miolo 2013]     -0.0007   8.53e-05     -7.780  0.000***     -0.001     -0.000
+796                              C(Label, Helmert)[H.Miolo 2014]     -0.0007   8.98e-05     -7.668  0.000***     -0.001     -0.001
+797                              C(Label, Helmert)[H.Miolo 2015]     -0.0005   8.62e-05     -5.819  0.000***     -0.001     -0.000
+798                              C(Label, Helmert)[H.Miolo 2016]     -0.0005   8.96e-05     -5.406  0.000***     -0.001     -0.000
+799                              C(Label, Helmert)[H.Miolo 2017]     -0.0004   8.83e-05     -5.066  0.000***     -0.001     -0.000
+800                              C(Label, Helmert)[H.Miolo 2018]     -0.0002   8.18e-05     -2.974   0.003**     -0.000   -8.3e-05
+801                              C(Label, Helmert)[H.Miolo 2019]     -0.0003   8.08e-05     -3.839  0.000***     -0.000     -0.000
+802                              C(Label, Helmert)[H.Miolo 2020]     -0.0002   8.26e-05     -2.122    0.034*     -0.000  -1.34e-05
+803                              C(Label, Helmert)[H.Miolo 2021]  -9.268e-05      0.000     -0.549     0.583     -0.000      0.000
+804                             C(Label, Helmert)[H.Montes 2008]      0.0001    9.9e-05      1.269     0.205  -6.85e-05      0.000
+805                             C(Label, Helmert)[H.Montes 2009]      0.0002   9.57e-05      1.668     0.095  -2.79e-05      0.000
+806                             C(Label, Helmert)[H.Montes 2010]   -2.73e-05    9.4e-05     -0.290     0.772     -0.000      0.000
+807                             C(Label, Helmert)[H.Montes 2011]   1.595e-05   9.54e-05      0.167     0.867     -0.000      0.000
+808                             C(Label, Helmert)[H.Montes 2012]      0.0001   9.24e-05      1.400     0.161  -5.17e-05      0.000
+809                             C(Label, Helmert)[H.Montes 2013]    6.78e-05   9.37e-05      0.724     0.469     -0.000      0.000
+810                             C(Label, Helmert)[H.Montes 2014]   5.583e-05   9.21e-05      0.606     0.545     -0.000      0.000
+811                             C(Label, Helmert)[H.Montes 2015]   9.391e-05   9.07e-05      1.036     0.300  -8.38e-05      0.000
+812                             C(Label, Helmert)[H.Montes 2016]      0.0001   9.33e-05      1.085     0.278  -8.17e-05      0.000
+813                             C(Label, Helmert)[H.Montes 2017]    8.39e-05   9.18e-05      0.914     0.361   -9.6e-05      0.000
+814                             C(Label, Helmert)[H.Montes 2018]   7.384e-05    8.9e-05      0.829     0.407     -0.000      0.000
+815                             C(Label, Helmert)[H.Montes 2019]   5.749e-05   9.02e-05      0.637     0.524     -0.000      0.000
+816                             C(Label, Helmert)[H.Montes 2020]      0.0001   8.88e-05      1.217     0.224   -6.6e-05      0.000
+817                             C(Label, Helmert)[H.Montes 2021]      0.0005      0.000      2.680   0.007**      0.000      0.001
+818                     C(Label, Helmert)[H.Ménage à Trois 2008]      0.0002      0.000      0.815     0.415     -0.000      0.001
+819                     C(Label, Helmert)[H.Ménage à Trois 2009]      0.0001      0.000      0.478     0.633     -0.000      0.001
+820                     C(Label, Helmert)[H.Ménage à Trois 2010]     -0.0004      0.000     -2.656   0.008**     -0.001  -9.38e-05
+821                     C(Label, Helmert)[H.Ménage à Trois 2011]     -0.0002      0.000     -1.475     0.140     -0.000   7.01e-05
+822                     C(Label, Helmert)[H.Ménage à Trois 2012]     -0.0002      0.000     -1.506     0.132     -0.001   6.55e-05
+823                     C(Label, Helmert)[H.Ménage à Trois 2013]     -0.0003      0.000     -2.096    0.036*     -0.001  -1.97e-05
+824                     C(Label, Helmert)[H.Ménage à Trois 2014]     -0.0002      0.000     -1.328     0.184     -0.000   8.22e-05
+825                     C(Label, Helmert)[H.Ménage à Trois 2015]     -0.0002      0.000     -1.280     0.201     -0.000   8.83e-05
+826                     C(Label, Helmert)[H.Ménage à Trois 2016]     -0.0002      0.000     -1.669     0.095     -0.000   3.77e-05
+827                     C(Label, Helmert)[H.Ménage à Trois 2017]     -0.0002      0.000     -1.503     0.133     -0.000   5.74e-05
+828                     C(Label, Helmert)[H.Ménage à Trois 2018]     -0.0002      0.000     -1.265     0.206     -0.000   8.47e-05
+829                     C(Label, Helmert)[H.Ménage à Trois 2019]     -0.0001      0.000     -0.915     0.360     -0.000      0.000
+830                     C(Label, Helmert)[H.Ménage à Trois 2020]     -0.0002      0.000     -1.317     0.188     -0.000   8.87e-05
+831                          C(Label, Helmert)[H.Nederburg 2008]     -0.0002      0.000     -1.643     0.100     -0.000   3.49e-05
+832                          C(Label, Helmert)[H.Nederburg 2009]     -0.0004      0.000     -4.082  0.000***     -0.001     -0.000
+833                          C(Label, Helmert)[H.Nederburg 2010]     -0.0006      0.000     -5.491  0.000***     -0.001     -0.000
+834                          C(Label, Helmert)[H.Nederburg 2011]     -0.0005      0.000     -4.787  0.000***     -0.001     -0.000
+835                          C(Label, Helmert)[H.Nederburg 2012]     -0.0004   9.22e-05     -4.260  0.000***     -0.001     -0.000
+836                          C(Label, Helmert)[H.Nederburg 2013]     -0.0004   8.55e-05     -4.457  0.000***     -0.001     -0.000
+837                          C(Label, Helmert)[H.Nederburg 2014]     -0.0004   8.42e-05     -5.148  0.000***     -0.001     -0.000
+838                          C(Label, Helmert)[H.Nederburg 2015]     -0.0004   8.19e-05     -4.330  0.000***     -0.001     -0.000
+839                          C(Label, Helmert)[H.Nederburg 2016]     -0.0002   7.98e-05     -3.084   0.002**     -0.000  -8.97e-05
+840                          C(Label, Helmert)[H.Nederburg 2017]     -0.0003   8.17e-05     -4.171  0.000***     -0.001     -0.000
+841                          C(Label, Helmert)[H.Nederburg 2018]     -0.0003   8.62e-05     -3.248   0.001**     -0.000     -0.000
+842                          C(Label, Helmert)[H.Nederburg 2019]     -0.0003    8.6e-05     -3.724  0.000***     -0.000     -0.000
+843                          C(Label, Helmert)[H.Nederburg 2020]     -0.0003   8.85e-05     -2.953   0.003**     -0.000  -8.79e-05
+844                          C(Label, Helmert)[H.Nederburg 2021]     -0.0003      0.000     -1.160     0.246     -0.001      0.000
+845                    C(Label, Helmert)[H.Nieto Senetiner 2008]     -0.0004   9.11e-05     -4.734  0.000***     -0.001     -0.000
+846                    C(Label, Helmert)[H.Nieto Senetiner 2009]     -0.0003   8.82e-05     -3.093   0.002**     -0.000  -9.99e-05
+847                    C(Label, Helmert)[H.Nieto Senetiner 2010]     -0.0003   7.81e-05     -4.129  0.000***     -0.000     -0.000
+848                    C(Label, Helmert)[H.Nieto Senetiner 2011]     -0.0005   7.46e-05     -6.299  0.000***     -0.001     -0.000
+849                    C(Label, Helmert)[H.Nieto Senetiner 2012]     -0.0004   7.29e-05     -5.393  0.000***     -0.001     -0.000
+850                    C(Label, Helmert)[H.Nieto Senetiner 2013]     -0.0003   7.21e-05     -4.010  0.000***     -0.000     -0.000
+851                    C(Label, Helmert)[H.Nieto Senetiner 2014]     -0.0003   7.13e-05     -3.817  0.000***     -0.000     -0.000
+852                    C(Label, Helmert)[H.Nieto Senetiner 2015]     -0.0002   7.12e-05     -3.427   0.001**     -0.000     -0.000
+853                    C(Label, Helmert)[H.Nieto Senetiner 2016]     -0.0002   6.78e-05     -3.381   0.001**     -0.000  -9.64e-05
+854                    C(Label, Helmert)[H.Nieto Senetiner 2017]     -0.0002    6.9e-05     -2.923   0.003**     -0.000  -6.65e-05
+855                    C(Label, Helmert)[H.Nieto Senetiner 2018]     -0.0001   7.03e-05     -2.082    0.037*     -0.000  -8.56e-06
+856                    C(Label, Helmert)[H.Nieto Senetiner 2019]     -0.0002   7.47e-05     -2.150    0.032*     -0.000  -1.42e-05
+857                    C(Label, Helmert)[H.Nieto Senetiner 2020]  -6.532e-05   7.63e-05     -0.856     0.392     -0.000   8.42e-05
+858                    C(Label, Helmert)[H.Nieto Senetiner 2021]     -0.0004      0.000     -2.717   0.007**     -0.001     -0.000
+859                         C(Label, Helmert)[H.Orin Swift 2008]      0.0005      0.000      2.192    0.028*   5.17e-05      0.001
+860                         C(Label, Helmert)[H.Orin Swift 2009]      0.0003      0.000      1.332     0.183     -0.000      0.001
+861                         C(Label, Helmert)[H.Orin Swift 2010]      0.0005      0.000      2.413    0.016*   8.51e-05      0.001
+862                         C(Label, Helmert)[H.Orin Swift 2011]      0.0005      0.000      2.570    0.010*      0.000      0.001
+863                         C(Label, Helmert)[H.Orin Swift 2012]      0.0004      0.000      2.139    0.032*   3.35e-05      0.001
+864                         C(Label, Helmert)[H.Orin Swift 2013]      0.0005      0.000      2.433    0.015*   8.85e-05      0.001
+865                         C(Label, Helmert)[H.Orin Swift 2014]      0.0005      0.000      2.735   0.006**      0.000      0.001
+866                         C(Label, Helmert)[H.Orin Swift 2015]      0.0005      0.000      2.854   0.004**      0.000      0.001
+867                         C(Label, Helmert)[H.Orin Swift 2016]      0.0005      0.000      3.043   0.002**      0.000      0.001
+868                         C(Label, Helmert)[H.Orin Swift 2017]      0.0004      0.000      2.645   0.008**      0.000      0.001
+869                         C(Label, Helmert)[H.Orin Swift 2018]      0.0005      0.000      3.049   0.002**      0.000      0.001
+870                         C(Label, Helmert)[H.Orin Swift 2019]      0.0004      0.000      2.542    0.011*      0.000      0.001
+871                         C(Label, Helmert)[H.Orin Swift 2020]      0.0003      0.000      1.710     0.087  -4.64e-05      0.001
+872                         C(Label, Helmert)[H.Orin Swift 2021]      0.0005      0.000      1.474     0.141     -0.000      0.001
+873                          C(Label, Helmert)[H.Ornellaia 2008]      0.0005      0.000      1.928     0.054  -8.92e-06      0.001
+874                          C(Label, Helmert)[H.Ornellaia 2009]      0.0005      0.000      1.782     0.075  -5.03e-05      0.001
+875                          C(Label, Helmert)[H.Ornellaia 2010]      0.0004      0.000      1.802     0.072  -3.86e-05      0.001
+876                          C(Label, Helmert)[H.Ornellaia 2011]      0.0008      0.000      3.451   0.001**      0.000      0.001
+877                          C(Label, Helmert)[H.Ornellaia 2012]      0.0006      0.000      2.787   0.005**      0.000      0.001
+878                          C(Label, Helmert)[H.Ornellaia 2013]      0.0006      0.000      2.943   0.003**      0.000      0.001
+879                          C(Label, Helmert)[H.Ornellaia 2014]      0.0006      0.000      3.080   0.002**      0.000      0.001
+880                          C(Label, Helmert)[H.Ornellaia 2015]      0.0005      0.000      2.386    0.017*   8.44e-05      0.001
+881                          C(Label, Helmert)[H.Ornellaia 2016]      0.0006      0.000      3.241   0.001**      0.000      0.001
+882                          C(Label, Helmert)[H.Ornellaia 2017]      0.0007      0.000      3.653  0.000***      0.000      0.001
+883                          C(Label, Helmert)[H.Ornellaia 2018]      0.0008      0.000      4.011  0.000***      0.000      0.001
+884                          C(Label, Helmert)[H.Ornellaia 2019]      0.0006      0.000      2.974   0.003**      0.000      0.001
+885                          C(Label, Helmert)[H.Ornellaia 2020]      0.0007      0.000      3.463   0.001**      0.000      0.001
+886                           C(Label, Helmert)[H.Penfolds 2008]      0.0002   7.85e-05      2.496    0.013*   4.21e-05      0.000
+887                           C(Label, Helmert)[H.Penfolds 2009]  -6.167e-05   8.06e-05     -0.765     0.444     -0.000   9.62e-05
+888                           C(Label, Helmert)[H.Penfolds 2010]   8.943e-05   7.63e-05      1.172     0.241  -6.02e-05      0.000
+889                           C(Label, Helmert)[H.Penfolds 2011]     -0.0001   8.15e-05     -1.658     0.097     -0.000   2.46e-05
+890                           C(Label, Helmert)[H.Penfolds 2012]  -8.875e-05   7.52e-05     -1.180     0.238     -0.000   5.87e-05
+891                           C(Label, Helmert)[H.Penfolds 2013]  -2.925e-05   7.43e-05     -0.394     0.694     -0.000      0.000
+892                           C(Label, Helmert)[H.Penfolds 2014]  -3.966e-06   7.51e-05     -0.053     0.958     -0.000      0.000
+893                           C(Label, Helmert)[H.Penfolds 2015]      0.0002   7.69e-05      2.798   0.005**   6.44e-05      0.000
+894                           C(Label, Helmert)[H.Penfolds 2016]   8.009e-05   7.68e-05      1.043     0.297  -7.04e-05      0.000
+895                           C(Label, Helmert)[H.Penfolds 2017]      0.0001   7.58e-05      1.935     0.053  -1.93e-06      0.000
+896                           C(Label, Helmert)[H.Penfolds 2018]      0.0002   8.09e-05      1.970    0.049*   8.44e-07      0.000
+897                           C(Label, Helmert)[H.Penfolds 2019]      0.0001   8.32e-05      1.758     0.079  -1.68e-05      0.000
+898                           C(Label, Helmert)[H.Penfolds 2020]      0.0002   7.95e-05      2.485    0.013*   4.18e-05      0.000
+899                           C(Label, Helmert)[H.Penfolds 2021]   -1.84e-06      0.000     -0.007     0.995     -0.001      0.001
+900                             C(Label, Helmert)[H.Protos 2008]  -4.574e-05      0.000     -0.236     0.814     -0.000      0.000
+901                             C(Label, Helmert)[H.Protos 2009]  -3.237e-05      0.000     -0.215     0.829     -0.000      0.000
+902                             C(Label, Helmert)[H.Protos 2010]   -4.02e-05      0.000     -0.268     0.789     -0.000      0.000
+903                             C(Label, Helmert)[H.Protos 2011]   2.986e-05      0.000      0.199     0.842     -0.000      0.000
+904                             C(Label, Helmert)[H.Protos 2012]  -9.024e-05      0.000     -0.603     0.547     -0.000      0.000
+905                             C(Label, Helmert)[H.Protos 2013]  -8.805e-05      0.000     -0.589     0.556     -0.000      0.000
+906                             C(Label, Helmert)[H.Protos 2014]      0.0001      0.000      0.878     0.380     -0.000      0.000
+907                             C(Label, Helmert)[H.Protos 2015]      0.0001      0.000      0.958     0.338     -0.000      0.000
+908                             C(Label, Helmert)[H.Protos 2016]      0.0002      0.000      1.584     0.113   -5.6e-05      0.001
+909                             C(Label, Helmert)[H.Protos 2017]      0.0001      0.000      0.997     0.319     -0.000      0.000
+910                             C(Label, Helmert)[H.Protos 2018]      0.0001      0.000      0.686     0.493     -0.000      0.000
+911                             C(Label, Helmert)[H.Protos 2019]      0.0002      0.000      0.977     0.329     -0.000      0.000
+912                             C(Label, Helmert)[H.Protos 2020]   9.589e-05      0.000      0.457     0.648     -0.000      0.001
+913                             C(Label, Helmert)[H.Protos 2021]     -0.0002      0.000     -0.508     0.612     -0.001      0.001
+914                     C(Label, Helmert)[H.Pulenta Estate 2008]   8.471e-05      0.000      0.653     0.514     -0.000      0.000
+915                     C(Label, Helmert)[H.Pulenta Estate 2009]      0.0002      0.000      1.469     0.142  -5.74e-05      0.000
+916                     C(Label, Helmert)[H.Pulenta Estate 2010]      0.0003      0.000      2.230    0.026*   3.16e-05      0.000
+917                     C(Label, Helmert)[H.Pulenta Estate 2011]   8.058e-05      0.000      0.712     0.476     -0.000      0.000
+918                     C(Label, Helmert)[H.Pulenta Estate 2012]      0.0002      0.000      1.525     0.127  -4.78e-05      0.000
+919                     C(Label, Helmert)[H.Pulenta Estate 2013]      0.0002      0.000      1.518     0.129  -4.86e-05      0.000
+920                     C(Label, Helmert)[H.Pulenta Estate 2014]      0.0002      0.000      2.114    0.035*   1.74e-05      0.000
+921                     C(Label, Helmert)[H.Pulenta Estate 2015]      0.0001      0.000      1.184     0.236  -8.74e-05      0.000
+922                     C(Label, Helmert)[H.Pulenta Estate 2016]      0.0002      0.000      1.962     0.050   1.73e-07      0.000
+923                     C(Label, Helmert)[H.Pulenta Estate 2017]      0.0002      0.000      2.374    0.018*   4.29e-05      0.000
+924                     C(Label, Helmert)[H.Pulenta Estate 2018]      0.0002      0.000      2.309    0.021*   3.71e-05      0.000
+925                     C(Label, Helmert)[H.Pulenta Estate 2019]      0.0001      0.000      1.099     0.272   -8.9e-05      0.000
+926                     C(Label, Helmert)[H.Pulenta Estate 2020]      0.0001      0.000      1.259     0.208  -7.86e-05      0.000
+927                     C(Label, Helmert)[H.Pulenta Estate 2021]      0.0003      0.000      1.089     0.276     -0.000      0.001
+928                   C(Label, Helmert)[H.Quinta do Crasto 2008]   1.684e-05      0.000      0.121     0.904     -0.000      0.000
+929                   C(Label, Helmert)[H.Quinta do Crasto 2009]      0.0001      0.000      0.917     0.359     -0.000      0.000
+930                   C(Label, Helmert)[H.Quinta do Crasto 2010]   4.882e-05      0.000      0.335     0.737     -0.000      0.000
+931                   C(Label, Helmert)[H.Quinta do Crasto 2011]      0.0003      0.000      2.001    0.045*   5.44e-06      0.001
+932                   C(Label, Helmert)[H.Quinta do Crasto 2012]      0.0003      0.000      2.496    0.013*   6.83e-05      0.001
+933                   C(Label, Helmert)[H.Quinta do Crasto 2013]      0.0002      0.000      1.603     0.109  -4.54e-05      0.000
+934                   C(Label, Helmert)[H.Quinta do Crasto 2014]      0.0002      0.000      1.835     0.067   -1.6e-05      0.000
+935                   C(Label, Helmert)[H.Quinta do Crasto 2015]      0.0004      0.000      3.089   0.002**      0.000      0.001
+936                   C(Label, Helmert)[H.Quinta do Crasto 2016]      0.0003      0.000      2.560    0.010*   7.61e-05      0.001
+937                   C(Label, Helmert)[H.Quinta do Crasto 2017]      0.0003      0.000      2.492    0.013*   6.74e-05      0.001
+938                   C(Label, Helmert)[H.Quinta do Crasto 2018]      0.0003      0.000      2.322    0.020*   4.77e-05      0.001
+939                   C(Label, Helmert)[H.Quinta do Crasto 2019]      0.0004      0.000      2.762   0.006**      0.000      0.001
+940                   C(Label, Helmert)[H.Quinta do Crasto 2020]      0.0003      0.000      2.162    0.031*   2.77e-05      0.001
+941   C(Label, Helmert)[H.Robert Mondavi Private Selection 2008]     -0.0002      0.000     -1.582     0.114     -0.001   5.72e-05
+942   C(Label, Helmert)[H.Robert Mondavi Private Selection 2009]     -0.0004      0.000     -2.462    0.014*     -0.001   -7.2e-05
+943   C(Label, Helmert)[H.Robert Mondavi Private Selection 2010]     -0.0003      0.000     -2.371    0.018*     -0.000  -4.52e-05
+944   C(Label, Helmert)[H.Robert Mondavi Private Selection 2011]     -0.0003      0.000     -3.030   0.002**     -0.001     -0.000
+945   C(Label, Helmert)[H.Robert Mondavi Private Selection 2012]     -0.0004      0.000     -3.504  0.000***     -0.001     -0.000
+946   C(Label, Helmert)[H.Robert Mondavi Private Selection 2013]     -0.0003      0.000     -2.769   0.006**     -0.001     -0.000
+947   C(Label, Helmert)[H.Robert Mondavi Private Selection 2014]     -0.0003      0.000     -2.552    0.011*     -0.001  -7.42e-05
+948   C(Label, Helmert)[H.Robert Mondavi Private Selection 2015]  -3.919e-05      0.000     -0.336     0.737     -0.000      0.000
+949   C(Label, Helmert)[H.Robert Mondavi Private Selection 2016]     -0.0002      0.000     -1.629     0.103     -0.000   3.99e-05
+950   C(Label, Helmert)[H.Robert Mondavi Private Selection 2017]  -5.739e-05      0.000     -0.477     0.633     -0.000      0.000
+951   C(Label, Helmert)[H.Robert Mondavi Private Selection 2018]     -0.0001      0.000     -1.272     0.203     -0.000   7.74e-05
+952   C(Label, Helmert)[H.Robert Mondavi Private Selection 2019]     -0.0001      0.000     -0.946     0.344     -0.000      0.000
+953   C(Label, Helmert)[H.Robert Mondavi Private Selection 2020]     -0.0002      0.000     -1.485     0.138     -0.000   5.92e-05
+954   C(Label, Helmert)[H.Robert Mondavi Private Selection 2021]     -0.0009      0.000     -2.095    0.036*     -0.002  -6.07e-05
+955                            C(Label, Helmert)[H.Ruffino 2008]     -0.0003      0.000     -2.369    0.018*     -0.001  -4.73e-05
+956                            C(Label, Helmert)[H.Ruffino 2009]     -0.0002      0.000     -1.701     0.089     -0.000      3e-05
+957                            C(Label, Helmert)[H.Ruffino 2010]     -0.0003      0.000     -2.357    0.018*     -0.000   -4.3e-05
+958                            C(Label, Helmert)[H.Ruffino 2011]     -0.0001   9.99e-05     -1.403     0.161     -0.000   5.57e-05
+959                            C(Label, Helmert)[H.Ruffino 2012]     -0.0002   9.98e-05     -1.693     0.091     -0.000   2.67e-05
+960                            C(Label, Helmert)[H.Ruffino 2013]     -0.0002   9.73e-05     -2.557    0.011*     -0.000  -5.81e-05
+961                            C(Label, Helmert)[H.Ruffino 2014]     -0.0003    9.5e-05     -3.610  0.000***     -0.001     -0.000
+962                            C(Label, Helmert)[H.Ruffino 2015]     -0.0001   9.71e-05     -1.519     0.129     -0.000   4.28e-05
+963                            C(Label, Helmert)[H.Ruffino 2016]     -0.0001   9.94e-05     -1.498     0.134     -0.000   4.59e-05
+964                            C(Label, Helmert)[H.Ruffino 2017]     -0.0001      0.000     -1.327     0.185     -0.000   6.45e-05
+965                            C(Label, Helmert)[H.Ruffino 2018]  -5.513e-05   9.92e-05     -0.556     0.578     -0.000      0.000
+966                            C(Label, Helmert)[H.Ruffino 2019]     -0.0001   9.91e-05     -1.249     0.212     -0.000   7.05e-05
+967                            C(Label, Helmert)[H.Ruffino 2020]     -0.0001      0.000     -0.941     0.347     -0.000      0.000
+968                            C(Label, Helmert)[H.Ruffino 2021]      0.0002      0.000      0.424     0.672     -0.001      0.001
+969                             C(Label, Helmert)[H.Rutini 2008]   6.411e-05   6.99e-05      0.917     0.359  -7.29e-05      0.000
+970                             C(Label, Helmert)[H.Rutini 2009]      0.0002   6.38e-05      2.961   0.003**   6.38e-05      0.000
+971                             C(Label, Helmert)[H.Rutini 2010]      0.0002   6.12e-05      2.926   0.003**   5.91e-05      0.000
+972                             C(Label, Helmert)[H.Rutini 2011]     -0.0001    6.8e-05     -1.658     0.097     -0.000   2.05e-05
+973                             C(Label, Helmert)[H.Rutini 2012]      0.0002   5.51e-05      3.881  0.000***      0.000      0.000
+974                             C(Label, Helmert)[H.Rutini 2013]      0.0002   5.68e-05      2.683   0.007**   4.11e-05      0.000
+975                             C(Label, Helmert)[H.Rutini 2014]      0.0002   5.33e-05      3.477   0.001**   8.09e-05      0.000
+976                             C(Label, Helmert)[H.Rutini 2015]      0.0001   6.03e-05      2.241    0.025*   1.69e-05      0.000
+977                             C(Label, Helmert)[H.Rutini 2016]      0.0002   6.33e-05      2.652   0.008**   4.38e-05      0.000
+978                             C(Label, Helmert)[H.Rutini 2017]      0.0003   5.66e-05      4.423  0.000***      0.000      0.000
+979                             C(Label, Helmert)[H.Rutini 2018]      0.0003   5.61e-05      5.304  0.000***      0.000      0.000
+980                             C(Label, Helmert)[H.Rutini 2019]      0.0003   5.95e-05      4.550  0.000***      0.000      0.000
+981                             C(Label, Helmert)[H.Rutini 2020]      0.0002      6e-05      3.153   0.002**   7.16e-05      0.000
+982                             C(Label, Helmert)[H.Rutini 2021]      0.0003      0.000      1.438     0.151  -9.28e-05      0.001
+983                          C(Label, Helmert)[H.Salentein 2008]     -0.0005    9.5e-05     -5.009  0.000***     -0.001     -0.000
+984                          C(Label, Helmert)[H.Salentein 2009]  -9.824e-05   9.97e-05     -0.985     0.325     -0.000   9.72e-05
+985                          C(Label, Helmert)[H.Salentein 2010]  -9.238e-05   8.21e-05     -1.125     0.260     -0.000   6.85e-05
+986                          C(Label, Helmert)[H.Salentein 2011]   -9.38e-05    8.2e-05     -1.144     0.253     -0.000   6.69e-05
+987                          C(Label, Helmert)[H.Salentein 2012]   3.161e-05   7.79e-05      0.406     0.685     -0.000      0.000
+988                          C(Label, Helmert)[H.Salentein 2013]  -8.659e-05   7.43e-05     -1.166     0.244     -0.000    5.9e-05
+989                          C(Label, Helmert)[H.Salentein 2014]   4.715e-06   7.42e-05      0.064     0.949     -0.000      0.000
+990                          C(Label, Helmert)[H.Salentein 2015]   2.136e-05   7.53e-05      0.284     0.776     -0.000      0.000
+991                          C(Label, Helmert)[H.Salentein 2016]   3.563e-05    7.2e-05      0.495     0.621     -0.000      0.000
+992                          C(Label, Helmert)[H.Salentein 2017]   1.822e-05   7.19e-05      0.253     0.800     -0.000      0.000
+993                          C(Label, Helmert)[H.Salentein 2018]    6.85e-05   7.29e-05      0.940     0.347  -7.43e-05      0.000
+994                          C(Label, Helmert)[H.Salentein 2019]   7.802e-05   7.28e-05      1.072     0.284  -6.46e-05      0.000
+995                          C(Label, Helmert)[H.Salentein 2020]      0.0001   7.85e-05      1.899     0.058   -4.8e-06      0.000
+996                          C(Label, Helmert)[H.Salentein 2021]   1.647e-05      0.000      0.133     0.894     -0.000      0.000
+997                        C(Label, Helmert)[H.San Marzano 2008]      0.0002      0.000      1.497     0.134   -5.3e-05      0.000
+998                        C(Label, Helmert)[H.San Marzano 2009]   5.245e-06      0.000      0.041     0.968     -0.000      0.000
+999                        C(Label, Helmert)[H.San Marzano 2010]   9.368e-05      0.000      0.789     0.430     -0.000      0.000
+1000                       C(Label, Helmert)[H.San Marzano 2011]      0.0001      0.000      1.274     0.203  -7.12e-05      0.000
+1001                       C(Label, Helmert)[H.San Marzano 2012]   -2.19e-05   9.33e-05     -0.235     0.814     -0.000      0.000
+1002                       C(Label, Helmert)[H.San Marzano 2013]   7.972e-05   9.32e-05      0.856     0.392     -0.000      0.000
+1003                       C(Label, Helmert)[H.San Marzano 2014]      0.0001   9.09e-05      1.531     0.126   -3.9e-05      0.000
+1004                       C(Label, Helmert)[H.San Marzano 2015]   8.233e-05   9.09e-05      0.906     0.365  -9.57e-05      0.000
+1005                       C(Label, Helmert)[H.San Marzano 2016]      0.0001   8.69e-05      1.479     0.139  -4.18e-05      0.000
+1006                       C(Label, Helmert)[H.San Marzano 2017]      0.0001   8.34e-05      1.298     0.194  -5.53e-05      0.000
+1007                       C(Label, Helmert)[H.San Marzano 2018]   7.796e-05   8.67e-05      0.899     0.369   -9.2e-05      0.000
+1008                       C(Label, Helmert)[H.San Marzano 2019]      0.0001   8.66e-05      1.699     0.089  -2.26e-05      0.000
+1009                       C(Label, Helmert)[H.San Marzano 2020]   1.902e-05   9.04e-05      0.210     0.833     -0.000      0.000
+1010                       C(Label, Helmert)[H.San Marzano 2021]      0.0001      0.000      0.366     0.715     -0.000      0.001
+1011                         C(Label, Helmert)[H.San Pedro 2008]     -0.0003   7.48e-05     -4.288  0.000***     -0.000     -0.000
+1012                         C(Label, Helmert)[H.San Pedro 2009]     -0.0003   7.25e-05     -4.136  0.000***     -0.000     -0.000
+1013                         C(Label, Helmert)[H.San Pedro 2010]     -0.0002   6.68e-05     -3.692  0.000***     -0.000     -0.000
+1014                         C(Label, Helmert)[H.San Pedro 2011]     -0.0003   6.68e-05     -3.785  0.000***     -0.000     -0.000
+1015                         C(Label, Helmert)[H.San Pedro 2012]     -0.0003   7.13e-05     -3.681  0.000***     -0.000     -0.000
+1016                         C(Label, Helmert)[H.San Pedro 2013]     -0.0001   6.43e-05     -2.140    0.032*     -0.000  -1.16e-05
+1017                         C(Label, Helmert)[H.San Pedro 2014]     -0.0002   6.58e-05     -2.616   0.009**     -0.000  -4.31e-05
+1018                         C(Label, Helmert)[H.San Pedro 2015]     -0.0002   6.49e-05     -2.401    0.016*     -0.000  -2.86e-05
+1019                         C(Label, Helmert)[H.San Pedro 2016]     -0.0002   6.41e-05     -2.385    0.017*     -0.000  -2.72e-05
+1020                         C(Label, Helmert)[H.San Pedro 2017]     -0.0002    6.4e-05     -2.519    0.012*     -0.000  -3.58e-05
+1021                         C(Label, Helmert)[H.San Pedro 2018]     -0.0001   6.55e-05     -1.925     0.054     -0.000   2.31e-06
+1022                         C(Label, Helmert)[H.San Pedro 2019]     -0.0003   6.54e-05     -4.231  0.000***     -0.000     -0.000
+1023                         C(Label, Helmert)[H.San Pedro 2020]     -0.0002   6.54e-05     -2.729   0.006**     -0.000  -5.03e-05
+1024                         C(Label, Helmert)[H.San Pedro 2021]      0.0001      0.000      0.374     0.708     -0.000      0.001
+1025                    C(Label, Helmert)[H.Santa Carolina 2008]     -0.0004   8.52e-05     -4.223  0.000***     -0.001     -0.000
+1026                    C(Label, Helmert)[H.Santa Carolina 2009]     -0.0003   8.34e-05     -3.889  0.000***     -0.000     -0.000
+1027                    C(Label, Helmert)[H.Santa Carolina 2010]     -0.0004   7.61e-05     -4.983  0.000***     -0.001     -0.000
+1028                    C(Label, Helmert)[H.Santa Carolina 2011]     -0.0006   7.25e-05     -8.437  0.000***     -0.001     -0.000
+1029                    C(Label, Helmert)[H.Santa Carolina 2012]     -0.0006   7.03e-05     -8.989  0.000***     -0.001     -0.000
+1030                    C(Label, Helmert)[H.Santa Carolina 2013]     -0.0005   6.83e-05     -7.687  0.000***     -0.001     -0.000
+1031                    C(Label, Helmert)[H.Santa Carolina 2014]     -0.0004   6.73e-05     -6.499  0.000***     -0.001     -0.000
+1032                    C(Label, Helmert)[H.Santa Carolina 2015]     -0.0004   6.56e-05     -5.358  0.000***     -0.000     -0.000
+1033                    C(Label, Helmert)[H.Santa Carolina 2016]     -0.0004    6.9e-05     -5.088  0.000***     -0.000     -0.000
+1034                    C(Label, Helmert)[H.Santa Carolina 2017]     -0.0003    6.9e-05     -4.298  0.000***     -0.000     -0.000
+1035                    C(Label, Helmert)[H.Santa Carolina 2018]     -0.0003   6.71e-05     -4.564  0.000***     -0.000     -0.000
+1036                    C(Label, Helmert)[H.Santa Carolina 2019]     -0.0003   7.19e-05     -4.424  0.000***     -0.000     -0.000
+1037                    C(Label, Helmert)[H.Santa Carolina 2020]     -0.0003   6.97e-05     -3.639  0.000***     -0.000     -0.000
+1038                    C(Label, Helmert)[H.Santa Carolina 2021]  -9.897e-05      0.000     -0.589     0.556     -0.000      0.000
+1039                        C(Label, Helmert)[H.Santa Rita 2008]     -0.0003   5.72e-05     -5.550  0.000***     -0.000     -0.000
+1040                        C(Label, Helmert)[H.Santa Rita 2009]     -0.0004    5.6e-05     -6.656  0.000***     -0.000     -0.000
+1041                        C(Label, Helmert)[H.Santa Rita 2010]     -0.0002   5.07e-05     -4.037  0.000***     -0.000     -0.000
+1042                        C(Label, Helmert)[H.Santa Rita 2011]     -0.0003   4.99e-05     -6.964  0.000***     -0.000     -0.000
+1043                        C(Label, Helmert)[H.Santa Rita 2012]     -0.0002   4.78e-05     -5.065  0.000***     -0.000     -0.000
+1044                        C(Label, Helmert)[H.Santa Rita 2013]     -0.0002   4.81e-05     -4.555  0.000***     -0.000     -0.000
+1045                        C(Label, Helmert)[H.Santa Rita 2014]     -0.0004   4.71e-05     -8.877  0.000***     -0.001     -0.000
+1046                        C(Label, Helmert)[H.Santa Rita 2015]     -0.0003   4.53e-05     -6.243  0.000***     -0.000     -0.000
+1047                        C(Label, Helmert)[H.Santa Rita 2016]     -0.0003   4.58e-05     -6.772  0.000***     -0.000     -0.000
+1048                        C(Label, Helmert)[H.Santa Rita 2017]     -0.0003   4.34e-05     -5.899  0.000***     -0.000     -0.000
+1049                        C(Label, Helmert)[H.Santa Rita 2018]     -0.0002   4.36e-05     -5.107  0.000***     -0.000     -0.000
+1050                        C(Label, Helmert)[H.Santa Rita 2019]     -0.0003   4.54e-05     -5.541  0.000***     -0.000     -0.000
+1051                        C(Label, Helmert)[H.Santa Rita 2020]     -0.0001   4.81e-05     -2.581    0.010*     -0.000  -2.99e-05
+1052                        C(Label, Helmert)[H.Santa Rita 2021]     -0.0003      0.000     -2.809   0.005**     -0.001  -9.56e-05
+1053                          C(Label, Helmert)[H.Tarapacá 2008]     -0.0001   7.42e-05     -1.418     0.156     -0.000   4.02e-05
+1054                          C(Label, Helmert)[H.Tarapacá 2009]     -0.0002   7.41e-05     -2.534    0.011*     -0.000  -4.25e-05
+1055                          C(Label, Helmert)[H.Tarapacá 2010]     -0.0002   6.58e-05     -2.961   0.003**     -0.000  -6.58e-05
+1056                          C(Label, Helmert)[H.Tarapacá 2011]     -0.0002   6.85e-05     -2.738   0.006**     -0.000  -5.33e-05
+1057                          C(Label, Helmert)[H.Tarapacá 2012]     -0.0003   6.48e-05     -5.066  0.000***     -0.000     -0.000
+1058                          C(Label, Helmert)[H.Tarapacá 2013]     -0.0002   6.32e-05     -3.788  0.000***     -0.000     -0.000
+1059                          C(Label, Helmert)[H.Tarapacá 2014]     -0.0002   6.24e-05     -3.713  0.000***     -0.000     -0.000
+1060                          C(Label, Helmert)[H.Tarapacá 2015]     -0.0001   6.38e-05     -1.757     0.079     -0.000    1.3e-05
+1061                          C(Label, Helmert)[H.Tarapacá 2016]     -0.0002   6.22e-05     -2.698   0.007**     -0.000   -4.6e-05
+1062                          C(Label, Helmert)[H.Tarapacá 2017]     -0.0001   6.45e-05     -1.804     0.071     -0.000   1.01e-05
+1063                          C(Label, Helmert)[H.Tarapacá 2018]     -0.0001   6.37e-05     -2.192    0.028*     -0.000  -1.48e-05
+1064                          C(Label, Helmert)[H.Tarapacá 2019]  -7.979e-05   6.36e-05     -1.255     0.210     -0.000   4.49e-05
+1065                          C(Label, Helmert)[H.Tarapacá 2020]   -2.58e-05   6.52e-05     -0.396     0.692     -0.000      0.000
+1066                          C(Label, Helmert)[H.Tarapacá 2021]     -0.0001      0.000     -1.262     0.207     -0.000   7.23e-05
+1067                  C(Label, Helmert)[H.Tenuta San Guido 2008]      0.0004      0.000      1.754     0.079  -4.76e-05      0.001
+1068                  C(Label, Helmert)[H.Tenuta San Guido 2009]      0.0004      0.000      1.819     0.069  -3.26e-05      0.001
+1069                  C(Label, Helmert)[H.Tenuta San Guido 2010]      0.0003      0.000      1.346     0.178     -0.000      0.001
+1070                  C(Label, Helmert)[H.Tenuta San Guido 2011]      0.0004      0.000      1.548     0.122   -9.5e-05      0.001
+1071                  C(Label, Helmert)[H.Tenuta San Guido 2012]      0.0003      0.000      1.166     0.243     -0.000      0.001
+1072                  C(Label, Helmert)[H.Tenuta San Guido 2013]      0.0002      0.000      1.082     0.279     -0.000      0.001
+1073                  C(Label, Helmert)[H.Tenuta San Guido 2014]      0.0002      0.000      0.708     0.479     -0.000      0.001
+1074                  C(Label, Helmert)[H.Tenuta San Guido 2015]      0.0003      0.000      1.297     0.195     -0.000      0.001
+1075                  C(Label, Helmert)[H.Tenuta San Guido 2016]      0.0004      0.000      1.552     0.121  -9.36e-05      0.001
+1076                  C(Label, Helmert)[H.Tenuta San Guido 2017]      0.0003      0.000      1.207     0.228     -0.000      0.001
+1077                  C(Label, Helmert)[H.Tenuta San Guido 2018]      0.0003      0.000      1.498     0.134     -0.000      0.001
+1078                  C(Label, Helmert)[H.Tenuta San Guido 2019]      0.0004      0.000      1.655     0.098  -6.97e-05      0.001
+1079                  C(Label, Helmert)[H.Tenuta San Guido 2020]      0.0003      0.000      1.269     0.204     -0.000      0.001
+1080             C(Label, Helmert)[H.Terrazas de los Andes 2008]     -0.0002      0.000     -1.857     0.063     -0.000   1.14e-05
+1081             C(Label, Helmert)[H.Terrazas de los Andes 2009]  -4.125e-05      0.000     -0.390     0.696     -0.000      0.000
+1082             C(Label, Helmert)[H.Terrazas de los Andes 2010]     -0.0002      0.000     -2.122    0.034*     -0.000  -1.71e-05
+1083             C(Label, Helmert)[H.Terrazas de los Andes 2011]     -0.0001   9.87e-05     -1.176     0.240     -0.000   7.74e-05
+1084             C(Label, Helmert)[H.Terrazas de los Andes 2012]     -0.0002   9.86e-05     -1.594     0.111     -0.000   3.61e-05
+1085             C(Label, Helmert)[H.Terrazas de los Andes 2013]  -8.508e-05      0.000     -0.837     0.403     -0.000      0.000
+1086             C(Label, Helmert)[H.Terrazas de los Andes 2014]     -0.0001      0.000     -1.281     0.200     -0.000    6.9e-05
+1087             C(Label, Helmert)[H.Terrazas de los Andes 2015]     -0.0001   9.83e-05     -1.327     0.185     -0.000   6.23e-05
+1088             C(Label, Helmert)[H.Terrazas de los Andes 2016]     -0.0003   9.82e-05     -2.620   0.009**     -0.000  -6.48e-05
+1089             C(Label, Helmert)[H.Terrazas de los Andes 2017]  -8.848e-05   9.81e-05     -0.902     0.367     -0.000      0.000
+1090             C(Label, Helmert)[H.Terrazas de los Andes 2018]     -0.0001    9.8e-05     -1.218     0.223     -0.000   7.28e-05
+1091             C(Label, Helmert)[H.Terrazas de los Andes 2019]   5.195e-05      0.000      0.514     0.608     -0.000      0.000
+1092             C(Label, Helmert)[H.Terrazas de los Andes 2020]     -0.0002      0.000     -2.031    0.042*     -0.000  -7.75e-06
+1093             C(Label, Helmert)[H.Terrazas de los Andes 2021]      0.0005      0.000      1.162     0.245     -0.000      0.001
+1094                      C(Label, Helmert)[H.The Prisoner 2008]      0.0004      0.000      1.304     0.192     -0.000      0.001
+1095                      C(Label, Helmert)[H.The Prisoner 2009]      0.0002      0.000      0.780     0.435     -0.000      0.001
+1096                      C(Label, Helmert)[H.The Prisoner 2010]   6.844e-05      0.000      0.304     0.761     -0.000      0.001
+1097                      C(Label, Helmert)[H.The Prisoner 2011]      0.0004      0.000      2.256    0.024*   4.71e-05      0.001
+1098                      C(Label, Helmert)[H.The Prisoner 2012]      0.0004      0.000      2.787   0.005**      0.000      0.001
+1099                      C(Label, Helmert)[H.The Prisoner 2013]      0.0003      0.000      1.983    0.047*   3.59e-06      0.001
+1100                      C(Label, Helmert)[H.The Prisoner 2014]      0.0003      0.000      2.188    0.029*   3.62e-05      0.001
+1101                      C(Label, Helmert)[H.The Prisoner 2015]      0.0004      0.000      2.678   0.007**      0.000      0.001
+1102                      C(Label, Helmert)[H.The Prisoner 2016]      0.0003      0.000      2.830   0.005**      0.000      0.001
+1103                      C(Label, Helmert)[H.The Prisoner 2017]      0.0004      0.000      3.085   0.002**      0.000      0.001
+1104                      C(Label, Helmert)[H.The Prisoner 2018]      0.0003      0.000      2.770   0.006**   9.91e-05      0.001
+1105                      C(Label, Helmert)[H.The Prisoner 2019]      0.0004      0.000      3.105   0.002**      0.000      0.001
+1106                      C(Label, Helmert)[H.The Prisoner 2020]      0.0004      0.000      2.612   0.009**    8.9e-05      0.001
+1107                      C(Label, Helmert)[H.The Prisoner 2021]      0.0004      0.000      1.835     0.067   -2.8e-05      0.001
+1108                           C(Label, Helmert)[H.Tommasi 2008]      0.0002   8.42e-05      2.960   0.003**   8.42e-05      0.000
+1109                           C(Label, Helmert)[H.Tommasi 2009]   1.751e-05   8.41e-05      0.208     0.835     -0.000      0.000
+1110                           C(Label, Helmert)[H.Tommasi 2010]      0.0002   8.03e-05      3.087   0.002**   9.05e-05      0.000
+1111                           C(Label, Helmert)[H.Tommasi 2011]      0.0001    7.7e-05      1.434     0.152  -4.05e-05      0.000
+1112                           C(Label, Helmert)[H.Tommasi 2012]  -5.407e-06   7.69e-05     -0.070     0.944     -0.000      0.000
+1113                           C(Label, Helmert)[H.Tommasi 2013]  -9.241e-05   7.13e-05     -1.295     0.195     -0.000   4.74e-05
+1114                           C(Label, Helmert)[H.Tommasi 2014]  -2.502e-05   7.25e-05     -0.345     0.730     -0.000      0.000
+1115                           C(Label, Helmert)[H.Tommasi 2015]    3.22e-06   7.12e-05      0.045     0.964     -0.000      0.000
+1116                           C(Label, Helmert)[H.Tommasi 2016]    7.46e-05   7.51e-05      0.993     0.321  -7.27e-05      0.000
+1117                           C(Label, Helmert)[H.Tommasi 2017]   1.769e-05   7.23e-05      0.245     0.807     -0.000      0.000
+1118                           C(Label, Helmert)[H.Tommasi 2018]      0.0001    7.8e-05      1.384     0.166   -4.5e-05      0.000
+1119                           C(Label, Helmert)[H.Tommasi 2019]   2.253e-05   8.54e-05      0.264     0.792     -0.000      0.000
+1120                           C(Label, Helmert)[H.Tommasi 2020]   6.744e-05   8.33e-05      0.810     0.418  -9.58e-05      0.000
+1121                          C(Label, Helmert)[H.Trapiche 2008]     -0.0002   4.89e-05     -3.241   0.001**     -0.000  -6.27e-05
+1122                          C(Label, Helmert)[H.Trapiche 2009]     -0.0002   4.81e-05     -4.092  0.000***     -0.000     -0.000
+1123                          C(Label, Helmert)[H.Trapiche 2010]     -0.0002   4.24e-05     -5.258  0.000***     -0.000     -0.000
+1124                          C(Label, Helmert)[H.Trapiche 2011]     -0.0003   4.16e-05     -6.731  0.000***     -0.000     -0.000
+1125                          C(Label, Helmert)[H.Trapiche 2012]     -0.0003   4.06e-05     -8.393  0.000***     -0.000     -0.000
+1126                          C(Label, Helmert)[H.Trapiche 2013]     -0.0003   4.11e-05     -7.591  0.000***     -0.000     -0.000
+1127                          C(Label, Helmert)[H.Trapiche 2014]     -0.0003   4.03e-05     -6.828  0.000***     -0.000     -0.000
+1128                          C(Label, Helmert)[H.Trapiche 2015]     -0.0002   4.05e-05     -5.232  0.000***     -0.000     -0.000
+1129                          C(Label, Helmert)[H.Trapiche 2016]     -0.0002   4.17e-05     -4.585  0.000***     -0.000     -0.000
+1130                          C(Label, Helmert)[H.Trapiche 2017]     -0.0002   4.11e-05     -4.612  0.000***     -0.000     -0.000
+1131                          C(Label, Helmert)[H.Trapiche 2018]     -0.0001   4.29e-05     -3.057   0.002**     -0.000  -4.71e-05
+1132                          C(Label, Helmert)[H.Trapiche 2019]     -0.0002   4.21e-05     -5.484  0.000***     -0.000     -0.000
+1133                          C(Label, Helmert)[H.Trapiche 2020]     -0.0001   4.49e-05     -2.519    0.012*     -0.000  -2.51e-05
+1134                          C(Label, Helmert)[H.Trapiche 2021]     -0.0003      0.000     -2.671   0.008**     -0.000  -7.43e-05
+1135                          C(Label, Helmert)[H.Trivento 2008]     -0.0005   9.13e-05     -5.502  0.000***     -0.001     -0.000
+1136                          C(Label, Helmert)[H.Trivento 2009]     -0.0005   8.41e-05     -5.533  0.000***     -0.001     -0.000
+1137                          C(Label, Helmert)[H.Trivento 2010]     -0.0004   7.52e-05     -5.588  0.000***     -0.001     -0.000
+1138                          C(Label, Helmert)[H.Trivento 2011]     -0.0006   7.51e-05     -7.849  0.000***     -0.001     -0.000
+1139                          C(Label, Helmert)[H.Trivento 2012]     -0.0005   7.66e-05     -5.891  0.000***     -0.001     -0.000
+1140                          C(Label, Helmert)[H.Trivento 2013]     -0.0004   7.22e-05     -6.067  0.000***     -0.001     -0.000
+1141                          C(Label, Helmert)[H.Trivento 2014]     -0.0004   7.35e-05     -5.232  0.000***     -0.001     -0.000
+1142                          C(Label, Helmert)[H.Trivento 2015]     -0.0004    7.2e-05     -5.376  0.000***     -0.001     -0.000
+1143                          C(Label, Helmert)[H.Trivento 2016]     -0.0004   7.07e-05     -5.335  0.000***     -0.001     -0.000
+1144                          C(Label, Helmert)[H.Trivento 2017]     -0.0003   6.82e-05     -3.986  0.000***     -0.000     -0.000
+1145                          C(Label, Helmert)[H.Trivento 2018]     -0.0002   6.93e-05     -2.657   0.008**     -0.000  -4.83e-05
+1146                          C(Label, Helmert)[H.Trivento 2019]     -0.0002   7.05e-05     -2.885   0.004**     -0.000  -6.52e-05
+1147                          C(Label, Helmert)[H.Trivento 2020]     -0.0002   7.94e-05     -2.411    0.016*     -0.000  -3.58e-05
+1148                          C(Label, Helmert)[H.Trivento 2021]     -0.0003      0.000     -1.443     0.149     -0.001   9.62e-05
+1149                         C(Label, Helmert)[H.Undurraga 2008]  -2.473e-05   6.79e-05     -0.364     0.716     -0.000      0.000
+1150                         C(Label, Helmert)[H.Undurraga 2009]     -0.0002   6.47e-05     -2.926   0.003**     -0.000  -6.25e-05
+1151                         C(Label, Helmert)[H.Undurraga 2010]     -0.0003   5.95e-05     -4.660  0.000***     -0.000     -0.000
+1152                         C(Label, Helmert)[H.Undurraga 2011]     -0.0003   5.66e-05     -4.788  0.000***     -0.000     -0.000
+1153                         C(Label, Helmert)[H.Undurraga 2012]     -0.0002   5.59e-05     -4.059  0.000***     -0.000     -0.000
+1154                         C(Label, Helmert)[H.Undurraga 2013]     -0.0001   5.35e-05     -2.639   0.008**     -0.000  -3.63e-05
+1155                         C(Label, Helmert)[H.Undurraga 2014]     -0.0001   5.46e-05     -2.528    0.011*     -0.000   -3.1e-05
+1156                         C(Label, Helmert)[H.Undurraga 2015]  -6.433e-05   5.34e-05     -1.204     0.229     -0.000   4.04e-05
+1157                         C(Label, Helmert)[H.Undurraga 2016]     -0.0001   5.34e-05     -2.159    0.031*     -0.000  -1.06e-05
+1158                         C(Label, Helmert)[H.Undurraga 2017]  -6.126e-05   5.28e-05     -1.161     0.246     -0.000   4.22e-05
+1159                         C(Label, Helmert)[H.Undurraga 2018]     -0.0001   5.27e-05     -2.706   0.007**     -0.000  -3.93e-05
+1160                         C(Label, Helmert)[H.Undurraga 2019]     -0.0001    5.5e-05     -1.830     0.067     -0.000   7.16e-06
+1161                         C(Label, Helmert)[H.Undurraga 2020]   -7.19e-05   5.75e-05     -1.250     0.211     -0.000   4.09e-05
+1162                         C(Label, Helmert)[H.Undurraga 2021]     -0.0015      0.000     -4.166  0.000***     -0.002     -0.001
+1163                       C(Label, Helmert)[H.Ventisquero 2008]     -0.0002    6.6e-05     -3.749  0.000***     -0.000     -0.000
+1164                       C(Label, Helmert)[H.Ventisquero 2009]     -0.0002   6.21e-05     -3.569  0.000***     -0.000  -9.99e-05
+1165                       C(Label, Helmert)[H.Ventisquero 2010]     -0.0002   5.95e-05     -4.193  0.000***     -0.000     -0.000
+1166                       C(Label, Helmert)[H.Ventisquero 2011]     -0.0002   5.95e-05     -3.355   0.001**     -0.000   -8.3e-05
+1167                       C(Label, Helmert)[H.Ventisquero 2012]     -0.0002   6.11e-05     -4.060  0.000***     -0.000     -0.000
+1168                       C(Label, Helmert)[H.Ventisquero 2013]     -0.0003    6.1e-05     -4.457  0.000***     -0.000     -0.000
+1169                       C(Label, Helmert)[H.Ventisquero 2014]     -0.0001   5.86e-05     -2.522    0.012*     -0.000  -3.29e-05
+1170                       C(Label, Helmert)[H.Ventisquero 2015]  -6.642e-05   5.78e-05     -1.149     0.250     -0.000   4.69e-05
+1171                       C(Label, Helmert)[H.Ventisquero 2016]  -7.241e-05   5.85e-05     -1.238     0.216     -0.000   4.22e-05
+1172                       C(Label, Helmert)[H.Ventisquero 2017]  -5.272e-05   5.84e-05     -0.902     0.367     -0.000   6.18e-05
+1173                       C(Label, Helmert)[H.Ventisquero 2018]  -4.736e-05   5.84e-05     -0.811     0.417     -0.000   6.71e-05
+1174                       C(Label, Helmert)[H.Ventisquero 2019]  -8.854e-06   5.83e-05     -0.152     0.879     -0.000      0.000
+1175                       C(Label, Helmert)[H.Ventisquero 2020]     -0.0001   6.06e-05     -1.826     0.068     -0.000   8.15e-06
+1176                       C(Label, Helmert)[H.Ventisquero 2021]      0.0001      0.000      0.755     0.450     -0.000      0.000
+1177                        C(Label, Helmert)[H.Viu Manent 2008]     -0.0001   7.12e-05     -1.564     0.118     -0.000   2.82e-05
+1178                        C(Label, Helmert)[H.Viu Manent 2009]  -8.444e-05   7.56e-05     -1.116     0.264     -0.000   6.38e-05
+1179                        C(Label, Helmert)[H.Viu Manent 2010]  -5.892e-05   6.98e-05     -0.844     0.398     -0.000   7.78e-05
+1180                        C(Label, Helmert)[H.Viu Manent 2011]     -0.0002   6.97e-05     -2.681   0.007**     -0.000  -5.02e-05
+1181                        C(Label, Helmert)[H.Viu Manent 2012]     -0.0002   6.97e-05     -2.562    0.010*     -0.000  -4.19e-05
+1182                        C(Label, Helmert)[H.Viu Manent 2013]     -0.0002   6.72e-05     -2.866   0.004**     -0.000  -6.08e-05
+1183                        C(Label, Helmert)[H.Viu Manent 2014]     -0.0001   6.71e-05     -1.733     0.083     -0.000   1.52e-05
+1184                        C(Label, Helmert)[H.Viu Manent 2015]     -0.0002   6.82e-05     -2.712   0.007**     -0.000  -5.13e-05
+1185                        C(Label, Helmert)[H.Viu Manent 2016]  -5.056e-05   6.82e-05     -0.742     0.458     -0.000   8.31e-05
+1186                        C(Label, Helmert)[H.Viu Manent 2017]   -3.07e-05   6.81e-05     -0.451     0.652     -0.000      0.000
+1187                        C(Label, Helmert)[H.Viu Manent 2018]   8.291e-05   6.69e-05      1.240     0.215  -4.82e-05      0.000
+1188                        C(Label, Helmert)[H.Viu Manent 2019]   2.715e-05   7.19e-05      0.377     0.706     -0.000      0.000
+1189                        C(Label, Helmert)[H.Viu Manent 2020]  -5.978e-05   7.49e-05     -0.798     0.425     -0.000   8.71e-05
+1190                        C(Label, Helmert)[H.Viu Manent 2021]      0.0001      0.000      0.806     0.420     -0.000      0.000
+1191                        C(Label, Helmert)[H.Viña Cobos 2008]      0.0004   9.26e-05      3.880  0.000***      0.000      0.001
+1192                        C(Label, Helmert)[H.Viña Cobos 2009]      0.0002   9.25e-05      2.289    0.022*   3.05e-05      0.000
+1193                        C(Label, Helmert)[H.Viña Cobos 2010]      0.0004   8.69e-05      4.678  0.000***      0.000      0.001
+1194                        C(Label, Helmert)[H.Viña Cobos 2011]      0.0003   8.68e-05      3.370   0.001**      0.000      0.000
+1195                        C(Label, Helmert)[H.Viña Cobos 2012]      0.0003   8.67e-05      3.783  0.000***      0.000      0.000
+1196                        C(Label, Helmert)[H.Viña Cobos 2013]      0.0004   7.99e-05      4.676  0.000***      0.000      0.001
+1197                        C(Label, Helmert)[H.Viña Cobos 2014]      0.0003   7.98e-05      4.300  0.000***      0.000      0.000
+1198                        C(Label, Helmert)[H.Viña Cobos 2015]      0.0004   7.61e-05      5.449  0.000***      0.000      0.001
+1199                        C(Label, Helmert)[H.Viña Cobos 2016]      0.0003    7.6e-05      4.287  0.000***      0.000      0.000
+1200                        C(Label, Helmert)[H.Viña Cobos 2017]      0.0004   7.77e-05      5.266  0.000***      0.000      0.001
+1201                        C(Label, Helmert)[H.Viña Cobos 2018]      0.0004   7.26e-05      5.400  0.000***      0.000      0.001
+1202                        C(Label, Helmert)[H.Viña Cobos 2019]      0.0003   7.58e-05      4.575  0.000***      0.000      0.000
+1203                        C(Label, Helmert)[H.Viña Cobos 2020]      0.0004   8.15e-05      5.430  0.000***      0.000      0.001
+1204                 C(Label, Helmert)[H.Viña Las Perdices 2008]   7.088e-05      0.000      0.692     0.489     -0.000      0.000
+1205                 C(Label, Helmert)[H.Viña Las Perdices 2009]   9.752e-05    8.6e-05      1.134     0.257   -7.1e-05      0.000
+1206                 C(Label, Helmert)[H.Viña Las Perdices 2010]     -0.0001   7.39e-05     -1.962     0.050     -0.000  -1.78e-07
+1207                 C(Label, Helmert)[H.Viña Las Perdices 2011]     -0.0001   7.08e-05     -1.602     0.109     -0.000   2.54e-05
+1208                 C(Label, Helmert)[H.Viña Las Perdices 2012]     -0.0001   7.54e-05     -1.495     0.135     -0.000    3.5e-05
+1209                 C(Label, Helmert)[H.Viña Las Perdices 2013]  -4.005e-05   6.56e-05     -0.610     0.542     -0.000   8.86e-05
+1210                 C(Label, Helmert)[H.Viña Las Perdices 2014]  -1.049e-05   6.67e-05     -0.157     0.875     -0.000      0.000
+1211                 C(Label, Helmert)[H.Viña Las Perdices 2015]  -5.594e-05   6.24e-05     -0.896     0.370     -0.000   6.64e-05
+1212                 C(Label, Helmert)[H.Viña Las Perdices 2016]  -5.432e-05   5.88e-05     -0.924     0.356     -0.000   6.09e-05
+1213                 C(Label, Helmert)[H.Viña Las Perdices 2017]   1.665e-06   5.96e-05      0.028     0.978     -0.000      0.000
+1214                 C(Label, Helmert)[H.Viña Las Perdices 2018]  -1.841e-05   5.87e-05     -0.314     0.754     -0.000   9.66e-05
+1215                 C(Label, Helmert)[H.Viña Las Perdices 2019]  -7.911e-06   5.95e-05     -0.133     0.894     -0.000      0.000
+1216                 C(Label, Helmert)[H.Viña Las Perdices 2020]   8.244e-06   6.21e-05      0.133     0.894     -0.000      0.000
+1217                 C(Label, Helmert)[H.Viña Las Perdices 2021]   2.934e-07      0.000      0.002     0.999     -0.000      0.000
+1218                       C(Label, Helmert)[H.Yellow Tail 2008]     -0.0003   7.48e-05     -4.203  0.000***     -0.000     -0.000
+1219                       C(Label, Helmert)[H.Yellow Tail 2009]     -0.0004   7.01e-05     -5.917  0.000***     -0.001     -0.000
+1220                       C(Label, Helmert)[H.Yellow Tail 2010]     -0.0005   7.15e-05     -6.596  0.000***     -0.001     -0.000
+1221                       C(Label, Helmert)[H.Yellow Tail 2011]     -0.0004      7e-05     -5.185  0.000***     -0.001     -0.000
+1222                       C(Label, Helmert)[H.Yellow Tail 2012]     -0.0005   6.99e-05     -6.738  0.000***     -0.001     -0.000
+1223                       C(Label, Helmert)[H.Yellow Tail 2013]     -0.0004   6.99e-05     -6.197  0.000***     -0.001     -0.000
+1224                       C(Label, Helmert)[H.Yellow Tail 2014]     -0.0004   6.85e-05     -5.152  0.000***     -0.000     -0.000
+1225                       C(Label, Helmert)[H.Yellow Tail 2015]     -0.0005   7.12e-05     -6.808  0.000***     -0.001     -0.000
+1226                       C(Label, Helmert)[H.Yellow Tail 2016]     -0.0003   7.11e-05     -4.020  0.000***     -0.000     -0.000
+1227                       C(Label, Helmert)[H.Yellow Tail 2017]     -0.0003   7.26e-05     -4.155  0.000***     -0.000     -0.000
+1228                       C(Label, Helmert)[H.Yellow Tail 2018]     -0.0003   7.59e-05     -4.055  0.000***     -0.000     -0.000
+1229                       C(Label, Helmert)[H.Yellow Tail 2019]     -0.0004   7.58e-05     -4.883  0.000***     -0.001     -0.000
+1230                       C(Label, Helmert)[H.Yellow Tail 2020]     -0.0004    7.4e-05     -5.427  0.000***     -0.001     -0.000
+1231                       C(Label, Helmert)[H.Yellow Tail 2021]     -0.0004      0.000     -3.125   0.002**     -0.001     -0.000
+1232                            C(Label, Helmert)[H.Zenato 2008]      0.0002      0.000      2.357    0.018*   3.97e-05      0.000
+1233                            C(Label, Helmert)[H.Zenato 2009]      0.0001   9.61e-05      1.130     0.258  -7.97e-05      0.000
+1234                            C(Label, Helmert)[H.Zenato 2010]      0.0001   9.25e-05      1.395     0.163  -5.23e-05      0.000
+1235                            C(Label, Helmert)[H.Zenato 2011]      0.0001   9.24e-05      1.514     0.130  -4.12e-05      0.000
+1236                            C(Label, Helmert)[H.Zenato 2012]   8.549e-05   9.58e-05      0.892     0.372     -0.000      0.000
+1237                            C(Label, Helmert)[H.Zenato 2013]      0.0002   9.97e-05      1.569     0.117  -3.89e-05      0.000
+1238                            C(Label, Helmert)[H.Zenato 2014]   8.917e-05   9.57e-05      0.932     0.351  -9.84e-05      0.000
+1239                            C(Label, Helmert)[H.Zenato 2015]      0.0001   9.56e-05      1.420     0.156  -5.17e-05      0.000
+1240                            C(Label, Helmert)[H.Zenato 2016]    8.32e-05   9.55e-05      0.871     0.384     -0.000      0.000
+1241                            C(Label, Helmert)[H.Zenato 2017]      0.0001   9.93e-05      1.264     0.206  -6.92e-05      0.000
+1242                            C(Label, Helmert)[H.Zenato 2018]      0.0001   9.54e-05      1.141     0.254  -7.81e-05      0.000
+1243                            C(Label, Helmert)[H.Zenato 2019]      0.0002   9.92e-05      1.641     0.101  -3.16e-05      0.000
+1244                            C(Label, Helmert)[H.Zenato 2020]      0.0001      0.000      1.038     0.299  -9.54e-05      0.000
+1245                            C(Label, Helmert)[H.Zenato 2021]     -0.0002      0.000     -0.463     0.643     -0.001      0.001
+1246                          C(Label, Helmert)[H.Zuccardi 2008]   6.784e-05   9.16e-05      0.741     0.459     -0.000      0.000
+1247                          C(Label, Helmert)[H.Zuccardi 2009]   7.112e-05   7.66e-05      0.929     0.353   -7.9e-05      0.000
+1248                          C(Label, Helmert)[H.Zuccardi 2010]  -6.023e-05   6.99e-05     -0.862     0.389     -0.000   7.67e-05
+1249                          C(Label, Helmert)[H.Zuccardi 2011]   3.922e-06   6.58e-05      0.060     0.953     -0.000      0.000
+1250                          C(Label, Helmert)[H.Zuccardi 2012]   1.085e-05   6.58e-05      0.165     0.869     -0.000      0.000
+1251                          C(Label, Helmert)[H.Zuccardi 2013]  -5.282e-05   6.24e-05     -0.847     0.397     -0.000   6.94e-05
+1252                          C(Label, Helmert)[H.Zuccardi 2014]   2.737e-05   6.23e-05      0.439     0.661  -9.48e-05      0.000
+1253                          C(Label, Helmert)[H.Zuccardi 2015]   2.746e-06   5.85e-05      0.047     0.963     -0.000      0.000
+1254                          C(Label, Helmert)[H.Zuccardi 2016]   2.476e-05   5.85e-05      0.424     0.672  -8.98e-05      0.000
+1255                          C(Label, Helmert)[H.Zuccardi 2017]   1.627e-05    5.6e-05      0.291     0.771  -9.35e-05      0.000
+1256                          C(Label, Helmert)[H.Zuccardi 2018]   5.702e-05    5.6e-05      1.019     0.308  -5.27e-05      0.000
+1257                          C(Label, Helmert)[H.Zuccardi 2019]   2.518e-05   5.52e-05      0.456     0.648   -8.3e-05      0.000
+1258                          C(Label, Helmert)[H.Zuccardi 2020]    5.09e-05   6.01e-05      0.848     0.397  -6.68e-05      0.000
+1259                          C(Label, Helmert)[H.Zuccardi 2021]      0.0006      0.000      2.318    0.020*   8.58e-05      0.001
